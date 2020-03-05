@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<a href="https://github.com/aigamstat/aigamstat.github.io" class="btn">View on GitHub</a>
-<a href="https://github.com/aigamstat/aigamstat.github.io" class="btn">View on GitHub</a>
-<a href="https://github.com/aigamstat/aigamstat.github.io" class="btn">View on GitHub</a>
-<a href="https://github.com/aigamstat/aigamstat.github.io" class="btn">View on GitHub</a>
 
-
+<!-- <a href="{{ site.github.repository_url }}" class="btn">Home</a>
+<a href="{{ site.github.repository_url }}" class="btn">Information</a>
+<a href="{{ site.github.repository_url }}" class="btn">View Source Code</a>
+<a href="{{ site.github.repository_url }}" class="btn">View Source Code</a>
+ -->
 ![AIG @JSM 2018](./images/jsm_astrostat_meeting.jpg)
 <p style="text-align: center;">Astrostatistics Interest Group at JSM 2018, Vancouver, BC </p>
 
