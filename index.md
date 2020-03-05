@@ -18,6 +18,16 @@ Let's just do this for now.
 
 ---
 # News 
+March 5, 2020, Finalists of the 2020 Student Paper Competition
+> We are excited to announce the finalists of the 2nd Annual Student Paper Competition.  The winner of the contest will be announced during the Joint Statistics Meeting in Aug 2020.  All the finalists will present their work at a dedicated session (date/time TBA). In alphabetical order.
+- Richard Feder-Staehle (Cal Tech) -- Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending
+- Matthew Ho (Carnegie Mellon) -- A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters
+- Oliver Philcox (Princeton) -- Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach
+- Collin Poitisch (Carnegie Mellon) -- Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy
+- Josh Speagle (Harvard) -- Photometric Biases in Modern Surveys
+
+
+
 Sept 25, 2019, [Student Paper Competition 2020](https://community.amstat.org/astrostats/information/papercompetition)
 > We are pleased to announce the second annual student paper competition for research in the statistical application, methodological, or theoretical development to problems in astronomy, astrophysics, or cosmology.  The deadline is December 7, 2019.  The overall winner will also receive a cash prize of $500. Click [here](https://community.amstat.org/astrostats/information/papercompetition) for more information.
 
