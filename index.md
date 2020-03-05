@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<a href="https://github.com/aigamstat/aigamstat.github.io" class="btn">View on GitHub</a>
+<a href="https://github.com/aigamstat/aigamstat.github.io" class="btn">View on GitHub</a>
+<a href="https://github.com/aigamstat/aigamstat.github.io" class="btn">View on GitHub</a>
+<a href="https://github.com/aigamstat/aigamstat.github.io" class="btn">View on GitHub</a>
 
 
 ![AIG @JSM 2018](./images/jsm_astrostat_meeting.jpg)
