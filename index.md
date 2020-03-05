@@ -2,7 +2,12 @@
 layout: default
 ---
 
-<!-- <a href="{{ site.github.repository_url }}" class="btn">Home</a>
+
+<!-- 
+This form of adding buttons works. Just need ot edit the button colors in the css file 
+Let's just do this for now. 
+
+<a href="{{ site.github.repository_url }}" class="btn">Home</a>
 <a href="{{ site.github.repository_url }}" class="btn">Information</a>
 <a href="{{ site.github.repository_url }}" class="btn">View Source Code</a>
 <a href="{{ site.github.repository_url }}" class="btn">View Source Code</a>
