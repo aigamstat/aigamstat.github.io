@@ -11,7 +11,7 @@ Let's just do this for now.
 <a href="{{ site.github.repository_url }}" class="btn">Information</a>
 <a href="{{ site.github.repository_url }}" class="btn">View Source Code</a>
 <a href="{{ site.github.repository_url }}" class="btn">View Source Code</a>
-![AIG @JSM 2018](./images/jsm_astrostat_meeting.jpg)
+![AIG at JSM 2018](./images/jsm_astrostat_meeting.jpg)
 <p style="text-align: center;">Astrostatistics Interest Group at JSM 2018, Vancouver, BC </p>
  -->
 <a href="{{ site.github.repository_url }}" class="btn">Home</a>
@@ -28,7 +28,7 @@ Let's just do this for now.
 - Section on Physical and Engineering Sciences, Section on Nonparametric Statistics, Astrostatistics Special Interest Group
 - Organizer(s): Gwendolyn M Eadie, University of Toronto
 - Chair(s): David van Dyk, Imperial College London
-- 8:35 AM 	Multitaper Analysis of High-Q Spectral Peaks and Non-stationarity in the Geomagnetic Field over the 400-4000 µHz Band
+- 8:35 AM 	Multitaper Analysis of High-Q Spectral Peaks and Non-stationarity in the Geomagnetic Field over the 400-4000 ÂµHz Band
 -- Alan Chave, Woods Hole Oceanographic Institution
 - 9:00 AM 	Hitting a Moving Target: Modelling Non-Stationary Relationships in Geomagnetism
 -- David Riegert, Queen's University; David J Thomson, Queen's University
