@@ -14,8 +14,8 @@ Let's just do this for now.
 ![AIG at JSM 2018](./images/jsm_astrostat_meeting.jpg)
 <p style="text-align: center;">Astrostatistics Interest Group at JSM 2018, Vancouver, BC </p>
  -->
-<a href="{{ site.github.repository_url }}" class="btn">Home</a>
-<a href="{{ site.github.repository_url }}/news.html" class="btn">News</a>
+<a href="https://astrostat.org/" class="btn">Home</a>
+<a href="https://astrostat.org/news.html" class="btn">News</a>
 <a href="https://ww2.amstat.org/meetings/jsm/2020/" class="btn">JSM 2020</a>
 
 
@@ -31,13 +31,13 @@ Let's just do this for now.
 - Organizer(s): Gwendolyn M Eadie, University of Toronto
 - Chair(s): David van Dyk, Imperial College London
 - 8:35 AM 	Multitaper Analysis of High-Q Spectral Peaks and Non-stationarity in the Geomagnetic Field over the 400-4000 µHz Band
-* Alan Chave, Woods Hole Oceanographic Institution
+...Alan Chave, Woods Hole Oceanographic Institution
 - 9:00 AM 	Hitting a Moving Target: Modelling Non-Stationary Relationships in Geomagnetism
-* David Riegert, Queen's University; David J Thomson, Queen's University
+...David Riegert, Queen's University; David J Thomson, Queen's University
 - 9:25 AM 	Solar flare prediction with machine learnin
-* Yang Chen, University of Michigan
+...Yang Chen, University of Michigan
 - 9:50 AM 	Effect of Systematic Uncertainties on Density and Temperature Estimates in Coronae of Capella
-* Xixi Yu, Imperial College London; David van Dyk, Imperial College London; David Stenning, Imperial College London; Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian; Giulio Del Zanna, Centre for Mathematical Sciences, University of Cambridge
+...Xixi Yu, Imperial College London; David van Dyk, Imperial College London; David Stenning, Imperial College London; Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian; Giulio Del Zanna, Centre for Mathematical Sciences, University of Cambridge
 - 10:15 AM 	Floor Discussion
 
 
@@ -48,13 +48,13 @@ Let's just do this for now.
 - Organizer(s): Hyungsuk Tak, Pennsylvania State University
 - Chair(s): Hyungsuk Tak, Pennsylvania State University
 - 10:35 AM 	Handling model uncertainty in a Poisson regime
-*  Sara Algeri, University of Minnesota
+...Sara Algeri, University of Minnesota
 - 10:55 AM 	Improving Exoplanet Detection Power: Multivariate Gaussian Process Models for Stellar Activity
-*  David Edward Jones, Texas A&M University; David Stenning, Imperial College London; Eric B Ford, Penn State University; Robert L Wolpert, Duke University; Thomas J Loredo, Cornell University; Xavier Dumusque, Observatoire Astronomique de l'Universite de Geneve
+...David Edward Jones, Texas A&M University; David Stenning, Imperial College London; Eric B Ford, Penn State University; Robert L Wolpert, Duke University; Thomas J Loredo, Cornell University; Xavier Dumusque, Observatoire Astronomique de l'Universite de Geneve
 - 11:15 AM 	Generalized Maximum Entropy Based Probabilistic Inference for Exoplanets
-*  Sujit Ghosh, North Carolina State University; Qi Ma, North Carolina State University
+...Sujit Ghosh, North Carolina State University; Qi Ma, North Carolina State University
 - 11:35 AM 	Disentangling Stellar Activity and Planetary Signals using Bayesian High-dimensional Analysis
-*  Bo Ning, Yale University; Jessi Cisewski-Kehe, Yale University; Allen Davis, Yale University; Sarah Dodson-Robinson, University of Delaware; Debra Fischer, Yale University; Parker Holzer, Yale University; Alexander Wise, Penn State University
+...Bo Ning, Yale University; Jessi Cisewski-Kehe, Yale University; Allen Davis, Yale University; Sarah Dodson-Robinson, University of Delaware; Debra Fischer, Yale University; Parker Holzer, Yale University; Alexander Wise, Penn State University
 - 11:55 AM 	Discussant: Jogesh Babu, Penn State University
 - 12:15 PM 	Floor Discussion
 
@@ -65,15 +65,15 @@ Let's just do this for now.
 - Organizer(s): Gwendolyn M Eadie, University of Toronto
 - Chair(s): David J Thomson, Queen's University
 - 2:05 PM 	The Photometric LSST Astronomical Time Series Classification Challenge (PLAsTiCC)
-*  Renee Hlozek, University of Toronto
+...Renee Hlozek, University of Toronto
 - 2:25 PM 	Untapped Power of Spatial Modelling in Astronomy: Gibbs Point Process Model for Objects in the Star Formation Complexes of M33
-*  Dayi Li, Western University; Pauline Barmby, Western University; Ian McLeod, Western University
+...Dayi Li, Western University; Pauline Barmby, Western University; Ian McLeod, Western University
 - 2:45 PM 	Likelihood-free Inference of Chemical Homogeneity in Open Clusters
-*  Aarya Patil; Jo Bovy, University of Toronto
+...Aarya Patil; Jo Bovy, University of Toronto
 - 3:05 PM 	Bayesian Inference and Computation for Old Star Clusters
-*  Gwendolyn M Eadie, University of Toronto; Jeremy Webb, University of Toronto
+...Gwendolyn M Eadie, University of Toronto; Jeremy Webb, University of Toronto
 - 3:25 PM 	Statistical Characterization of Matrix Effects in Laser-Induced Breakdown Spectroscopy
-*  David Stenning, Imperial College London
+...David Stenning, Imperial College London
 - 3:45 PM 	Floor Discussion
 
 # Session 432
@@ -83,13 +83,13 @@ Let's just do this for now.
 - Organizer(s): Eric Feigelson, Pennsylvania State University
 - Chair(s): Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian
 - 8:35 AM 	Challenges for detecting gravitational wave signals
-*  Jess McIver, Univ of British Columbia
+...Jess McIver, Univ of British Columbia
 - 8:55 AM 	Experimental design and discovery of unknown unknowns with the Rubin Observatory Legacy Survey of Space and Time
-*  Federica Bianco, University of Delaware
+...Federica Bianco, University of Delaware
 - 9:15 AM 	Statistical Opportunities and Challenges of Multiepoch Photometric Surveys
-*  Tamas Budavari, The Johns Hopkins University
+...Tamas Budavari, The Johns Hopkins University
 - 9:35 AM 	A Multivariate Damped Random Walk Process for Irregularly-Spaced Multi-Filter Light Curves with Heteroscedastic Measurement Erros
-*  Hyungsuk Tak, Pennsylvania State University; Zhirui Hu, Harvard University
+...Hyungsuk Tak, Pennsylvania State University; Zhirui Hu, Harvard University
 - 9:55 AM 	Discussant: Eric Feigelson, Pennsylvania State University
 - 10:15 AM 	Floor Discussion
 
@@ -100,13 +100,13 @@ Let's just do this for now.
 - Organizer(s): Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian
 - Chair(s): Gwendolyn M Eadie, University of Toronto
 - 8:35 AM 	The Astrophysics Data Access Infrastructure
-*  Peter Kelsey George Williams, Center for Astrophysics | Harvard & Smithsonian
+...Peter Kelsey George Williams, Center for Astrophysics | Harvard & Smithsonian
 - 8:55 AM 	X-ray data and its many challenges
-*  Kristin Madsen, Caltech
+...Kristin Madsen, Caltech
 - 9:15 AM 	Gaia data: challenges for the exploitation of a large and complex dataset
-*  Xavier Luri, Universitat de Barcelona
+...Xavier Luri, Universitat de Barcelona
 - 9:35 AM 	Solar (Data) Explosion: Challenges in Using Large Astrophysical Imaging Data Sets.
-*  Katharine Reeves, Harvard-Smithsonian Center for Astrophysics
+...Katharine Reeves, Harvard-Smithsonian Center for Astrophysics
 - 9:55 AM 	Discussant: Xiao-Li Meng, Harvard University
 - 10:15 AM 	Floor Discussion
 
@@ -117,13 +117,13 @@ Let's just do this for now.
 - Organizer(s): Gwendolyn M Eadie, University of Toronto
 - Chair(s): Chad Schafer, Carnegie Mellon University
 - 10:35 AM 	Photometric Biases in Modern Astronomical Surveys
-*  Joshua Speagle, Harvard University
+...Joshua Speagle, Harvard University
 - 10:55 AM 	Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy
-*  Collin Politsch
+...Collin Politsch
 - 11:15 AM 	Galaxy Cluster Mass Estimation Using Deep Learning
-*  Matthew Ho, McWilliams Center for Cosmology; Arya Farahi, Michigan Institute for Data Science; Michelle Ntampaka, Harvard-Smithsonian Center for Astrophysics; Markus Michael Rau, McWilliams Center for Cosmology; Hy Trac, McWilliams Center for Cosmology
+...Matthew Ho, McWilliams Center for Cosmology; Arya Farahi, Michigan Institute for Data Science; Michelle Ntampaka, Harvard-Smithsonian Center for Astrophysics; Markus Michael Rau, McWilliams Center for Cosmology; Hy Trac, McWilliams Center for Cosmology
 - 11:35 AM 	Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach
-*  Oliver Philcox, Princeton University; Jan Rybizki, Max-Planck Institute for Astronomy
+...Oliver Philcox, Princeton University; Jan Rybizki, Max-Planck Institute for Astronomy
 - 11:55 AM 	Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending
-*  Richard Feder, California Institute of Technology
+...Richard Feder, California Institute of Technology
 - 12:15 PM 	Floor Discussion
