@@ -37,7 +37,7 @@ Let's just do this for now.
 - 9:25 AM 	Solar flare prediction with machine learnin
 ...Yang Chen, University of Michigan
 - 9:50 AM 	Effect of Systematic Uncertainties on Density and Temperature Estimates in Coronae of Capella
-...Xixi Yu, Imperial College London; David van Dyk, Imperial College London; David Stenning, Imperial College London; Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian; Giulio Del Zanna, Centre for Mathematical Sciences, University of Cambridge
+...Xixi Yu, Imperial College London; David van Dyk, Imperial College London; David Stenning, Imperial College London; Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian; Giulio Del Zanna, Centre for Mathematical Sciences, University of Cambridge
 - 10:15 AM 	Floor Discussion
 
 
@@ -81,7 +81,7 @@ Let's just do this for now.
 ## ["Challenging signal detection problems in astronomy"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
 - Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group
 - Organizer(s): Eric Feigelson, Pennsylvania State University
-- Chair(s): Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian
+- Chair(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian
 - 8:35 AM 	Challenges for detecting gravitational wave signals
 ...Jess McIver, Univ of British Columbia
 - 8:55 AM 	Experimental design and discovery of unknown unknowns with the Rubin Observatory Legacy Survey of Space and Time
@@ -97,10 +97,10 @@ Let's just do this for now.
 ### Thu Aug 6, 2020, 8:30am - 10:20am
 ## ["Astronomical(ly) Big Data for Statisticians"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
 - Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Consulting
-- Organizer(s): Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian
+- Organizer(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian
 - Chair(s): Gwendolyn M Eadie, University of Toronto
 - 8:35 AM 	The Astrophysics Data Access Infrastructure
-...Peter Kelsey George Williams, Center for Astrophysics | Harvard & Smithsonian
+...Peter Kelsey George Williams, Center for Astrophysics \| Harvard & Smithsonian
 - 8:55 AM 	X-ray data and its many challenges
 ...Kristin Madsen, Caltech
 - 9:15 AM 	Gaia data: challenges for the exploitation of a large and complex dataset
