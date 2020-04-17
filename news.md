@@ -12,7 +12,7 @@ layout: default
 
 # Latest News 
 
-# JSM 2020 astrostatistics progam
+# JSM 2020 astrostatistics program
 - [Statistical Inference for Solar and Geophysical Data](https://astrostat.org/jsm2020/index.html#session-96) 
 - [Innovations in AstroStatistics on Exploring Large Public Data](https://astrostat.org/jsm2020/index.html#session-295) 
 - [Innovations in Statistics for Astronomy & Space Physics](https://astrostat.org/jsm2020/index.html#session-375) 
