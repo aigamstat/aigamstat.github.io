@@ -28,9 +28,9 @@ Let's just do this for now.
 ### Mon Aug 3, 2020, 8:30am - 10:20am
 ## ["Statistical Inference for Solar and Geophysical Data"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219357) - Invited Papers
 
-   Section on Physical and Engineering Sciences, Section on Nonparametric Statistics, Astrostatistics Special Interest Group
-   Organizer(s): Gwendolyn M Eadie, University of Toronto
-   Chair(s): David van Dyk, Imperial College London
+   Section on Physical and Engineering Sciences, Section on Nonparametric Statistics, Astrostatistics Special Interest Group  
+   Organizer(s): Gwendolyn M Eadie, University of Toronto  
+   Chair(s): David van Dyk, Imperial College London  
 
 - `8:35 AM` 	**Multitaper Analysis of High-Q Spectral Peaks and Non-stationarity in the Geomagnetic Field over the 400-4000 µHz Band**  
    *Alan Chave, Woods Hole Oceanographic Institution*  
@@ -50,9 +50,9 @@ Let's just do this for now.
 ### Tue Aug 4, 2020, 10:30am - 12:20pm
 ## ["Innovations in AstroStatistics on Exploring Large Public Data"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219418) -- Invited Papers
 
-   Astrostatistics Special Interest Group, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science
-   Organizer(s): Hyungsuk Tak, Pennsylvania State University
-   Chair(s): Hyungsuk Tak, Pennsylvania State University
+   Astrostatistics Special Interest Group, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science  
+   Organizer(s): Hyungsuk Tak, Pennsylvania State University  
+   Chair(s): Hyungsuk Tak, Pennsylvania State University  
 
 - `10:35 AM` 	**Handling model uncertainty in a Poisson regime**  
    *Sara Algeri, University of Minnesota*  
@@ -74,9 +74,9 @@ Let's just do this for now.
 ### Tue Aug 4, 2020, 2:00pm - 3:50pm
 ## ["Innovations in Statistics for Astronomy & Space Physics"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219617) -- Topic Contributed Papers
 
-   SSC (Statistical Society of Canada), Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group
-   Organizer(s): Gwendolyn M Eadie, University of Toronto
-   Chair(s): David J Thomson, Queen's University
+   SSC (Statistical Society of Canada), Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
+   Organizer(s): Gwendolyn M Eadie, University of Toronto  
+   Chair(s): David J Thomson, Queen's University  
 
 - `2:05 PM` 	**The Photometric LSST Astronomical Time Series Classification Challenge (PLAsTiCC)**  
    *Renee Hlozek, University of Toronto*  
@@ -99,9 +99,9 @@ Let's just do this for now.
 ###  Wed Aug 5, 2020, 8:30am - 10:20am
 ## ["Challenging signal detection problems in astronomy"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
 
-   Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group
-   Organizer(s): Eric Feigelson, Pennsylvania State University
-   Chair(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian
+   Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
+   Organizer(s): Eric Feigelson, Pennsylvania State University  
+   Chair(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian  
 
 - `8:35 AM` 	**Challenges for detecting gravitational wave signals**  
    *Jess McIver, Univ of British Columbia*  
@@ -123,9 +123,9 @@ Let's just do this for now.
 ### Thu Aug 6, 2020, 8:30am - 10:20am
 ## ["Astronomical(ly) Big Data for Statisticians"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
 
-   Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Consulting
-   Organizer(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian
-   Chair(s): Gwendolyn M Eadie, University of Toronto
+   Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Consulting  
+   Organizer(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian  
+   Chair(s): Gwendolyn M Eadie, University of Toronto  
 
 - `8:35 AM` 	**The Astrophysics Data Access Infrastructure**  
    *Peter Kelsey George Williams, Center for Astrophysics \| Harvard & Smithsonian*  
@@ -147,9 +147,9 @@ Let's just do this for now.
 ### Thu Aug 6, 2020, 10:30am - 12:20pm
 ## ["Astrostatistics Interest Group: Student Paper Award"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
 
-   Astrostatistics Special Interest Group
-   Organizer(s): Gwendolyn M Eadie, University of Toronto
-   Chair(s): Chad Schafer, Carnegie Mellon University
+   Astrostatistics Special Interest Group  
+   Organizer(s): Gwendolyn M Eadie, University of Toronto  
+   Chair(s): Chad Schafer, Carnegie Mellon University  
 
 - `10:35 AM` 	**Photometric Biases in Modern Astronomical Surveys**  
    *Joshua Speagle, Harvard University*  
