@@ -36,7 +36,7 @@ Let's just do this for now.
 - `9:00 AM` 	**Hitting a Moving Target: Modelling Non-Stationary Relationships in Geomagnetism**  
    *David Riegert, Queen's University; David J Thomson, Queen's University*  
 
-- `9:25 AM` 	**Solar flare prediction with machine learnin**  
+- `9:25 AM` 	**Solar flare prediction with machine learning**  
    *Yang Chen, University of Michigan*  
 
 - `9:50 AM` 	**Effect of Systematic Uncertainties on Density and Temperature Estimates in Coronae of Capella**  
