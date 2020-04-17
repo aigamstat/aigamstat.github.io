@@ -25,7 +25,7 @@ Let's just do this for now.
 #### | [Session 96](#session-96) | [Session 295](#session-295) | [Session 375](#session-375) | [Session 432](#session-432) | [Session 567](#session-567) | [Session 612](#session-612) |
 
 # Session 96
-## `Mon Aug 3, 2020, 8:30am - 10:20am`
+### Mon Aug 3, 2020, 8:30am - 10:20am
 ## ["Statistical Inference for Solar and Geophysical Data"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219357) - Invited Papers
 - Section on Physical and Engineering Sciences, Section on Nonparametric Statistics, Astrostatistics Special Interest Group
 - Organizer(s): Gwendolyn M Eadie, University of Toronto
@@ -45,7 +45,7 @@ Let's just do this for now.
 - `10:15 AM` 	**Floor Discussion**  
 
 # Session 295
-## `Tue Aug 4, 2020, 10:30am - 12:20pm`
+### Tue Aug 4, 2020, 10:30am - 12:20pm
 ## ["Innovations in AstroStatistics on Exploring Large Public Data"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219418) -- Invited Papers
 - Astrostatistics Special Interest Group, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science
 - Organizer(s): Hyungsuk Tak, Pennsylvania State University
@@ -67,7 +67,7 @@ Let's just do this for now.
 - `12:15 PM` 	**Floor Discussion**  
 
 # Session 375
-## `Tue Aug 4, 2020, 2:00pm - 3:50pm`
+### Tue Aug 4, 2020, 2:00pm - 3:50pm
 ## ["Innovations in Statistics for Astronomy & Space Physics"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219617) -- Topic Contributed Papers
 - SSC (Statistical Society of Canada), Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group
 - Organizer(s): Gwendolyn M Eadie, University of Toronto
@@ -112,7 +112,7 @@ Let's just do this for now.
 - `10:15 AM` 	**Floor Discussion**  
 
 # Session 567
-## `Thu Aug 6, 2020, 8:30am - 10:20am`
+### Thu Aug 6, 2020, 8:30am - 10:20am
 ## ["Astronomical(ly) Big Data for Statisticians"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
 - Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Consulting
 - Organizer(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian
@@ -134,7 +134,7 @@ Let's just do this for now.
 - `10:15 AM` 	**Floor Discussion**  
 
 # Session 612
-## `Thu Aug 6, 2020, 10:30am - 12:20pm`
+### Thu Aug 6, 2020, 10:30am - 12:20pm
 ## ["Astrostatistics Interest Group: Student Paper Award"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
 - Astrostatistics Special Interest Group
 - Organizer(s): Gwendolyn M Eadie, University of Toronto
