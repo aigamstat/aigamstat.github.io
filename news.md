@@ -12,7 +12,7 @@ layout: default
 
 # Latest News 
 
-# JSM 2020 astrostatistics program
+# [JSM 2020 astrostatistics program](https://astrostat.org/jsm2020/index.html)
 - [Statistical Inference for Solar and Geophysical Data](https://astrostat.org/jsm2020/index.html#session-96) 
 - [Innovations in AstroStatistics on Exploring Large Public Data](https://astrostat.org/jsm2020/index.html#session-295) 
 - [Innovations in Statistics for Astronomy & Space Physics](https://astrostat.org/jsm2020/index.html#session-375) 
@@ -35,6 +35,7 @@ We are excited to announce the finalists of the 2<sup>nd</sup> Annual [Student P
 [Student Paper Competition 2020](./comp_rules.html#previous-winners)
 > We are pleased to announce the second annual student paper competition for research in the statistical application, methodological, or theoretical development to problems in astronomy, astrophysics, or cosmology.  The deadline is December 7, 2019.  The overall winner will also receive a cash prize of $500. Click [here](./comp_rules.html) for more information.
 
-# July 30, 2019, 2019 Student Paper Competition
+# 2019 Student Paper Competition
+### July 30, 2019
 [Winners of the 2019 Student Paper Competition](./comp_winners.html)
 > We are happy to (finally) announce both the finalists and winner of the 2019 Student paper competition. The finalists were Axel Widmark, Francesca Capel, Daniel Muthukrishna and Xixi Yu. They were invited to presented their work at JSM 2019 in Denver, CO. There it was announced that the winner of the $500 cash prize was Axel Widmark. Congratulations to everyone!
