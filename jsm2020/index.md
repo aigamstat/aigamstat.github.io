@@ -22,7 +22,7 @@ Let's just do this for now.
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [Session 96](#session-96) | [Session 295](#session-295) | [Session 375](#session-375) | [Session 432](#session-432) | [Session 567](#session-567) | [Session 612](#session-612) |
+#### | [96 (Aug 3)](#session-96) | [295 (Aug 4)](#session-295) | [375 (Aug 4)](#session-375) | [432 (Aug 5)](#session-432) | [567 (Aug 6)](#session-567) | [612 (Aug 6)](#session-612) |
 
 # Session 96
 ### Mon Aug 3, 2020, 8:30am - 10:20am
