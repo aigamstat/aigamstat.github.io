@@ -90,7 +90,7 @@ Let's just do this for now.
 - `3:45 PM` 	**Floor Discussion**  
 
 # Session 432
-###  `Wed Aug 5, 2020, 8:30am - 10:20am`
+###  Wed Aug 5, 2020, 8:30am - 10:20am
 ## ["Challenging signal detection problems in astronomy"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
 - Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group
 - Organizer(s): Eric Feigelson, Pennsylvania State University
