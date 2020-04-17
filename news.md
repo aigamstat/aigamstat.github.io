@@ -13,7 +13,6 @@ layout: default
 # Latest News 
 
 # JSM 2020 astrostatistics progam
-### April 16
 - [Statistical Inference for Solar and Geophysical Data](https://astrostat.org/jsm2020/index.html#session-96) 
 - [Innovations in AstroStatistics on Exploring Large Public Data](https://astrostat.org/jsm2020/index.html#session-295) 
 - [Innovations in Statistics for Astronomy & Space Physics](https://astrostat.org/jsm2020/index.html#session-375) 
@@ -21,15 +20,15 @@ layout: default
 - [Astronomical(ly) Big Data for Statisticians](https://astrostat.org/jsm2020/index.html#session-567) 
 - [Astrostatistics Interest Group: Student Paper Award](https://astrostat.org/jsm2020/index.html#session-612) 
 
-# 2020 Finalists of Student Paper Competition
-### March 5, 2020, Finalists of the 2020 Student Paper Competition
+# 2020 Student Paper Competition
+### March 5, 2020, Finalists
 
 We are excited to announce the finalists of the 2<sup>nd</sup> Annual [Student Paper Competition](./comp_rules.html#previous-winners).  The winner of the contest will be announced during the Joint Statistics Meeting in Aug 2020.  All the finalists will present their work at a dedicated session (date/time TBA). In alphabetical order.
-- Richard Feder-Staehle (Cal Tech) -- Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending
-- Matthew Ho (Carnegie Mellon) -- A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters
-- Oliver Philcox (Princeton) -- Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach
-- Collin Poitisch (Carnegie Mellon) -- Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy
-- Josh Speagle (Harvard) -- Photometric Biases in Modern Surveys
+- **Richard Feder-Staehle** (Cal Tech) -- *Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending*
+- **Matthew Ho** (Carnegie Mellon) -- *A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters*
+- **Oliver Philcox** (Princeton) -- *Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach*
+- **Collin Poitisch** (Carnegie Mellon) -- *Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy*
+- **Josh Speagle** (Harvard) -- *Photometric Biases in Modern Surveys*
 
 
 ### Sept 25, 2019, Call for Papers
