@@ -22,11 +22,11 @@ Let's just do this for now.
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [96 (Aug 3)](#session-96) | [295 (Aug 4)](#session-295) | [375 (Aug 4)](#session-375) | [432 (Aug 5)](#session-432) | [567 (Aug 6)](#session-567) | [612 (Aug 6)](#session-612) |
+#### | [96 (Aug 3)](#session-96) | [295 (Aug 4)](#session-295) | [375 (Aug 4)](#session-375) | [432 (Aug 5)](#session-432) | [567 (Aug 6)](#session-567) | [613 (Aug 6)](#session-613) |
 
 # Session 96
 ### Mon Aug 3, 2020, 8:30am - 10:20am
-## ["Statistical Inference for Solar and Geophysical Data"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219357) - Invited Papers
+## [Statistical Inference for Solar and Geophysical Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219357) - Invited Papers
 
    Section on Physical and Engineering Sciences, Section on Nonparametric Statistics, Astrostatistics Special Interest Group  
    Organizer(s): Gwendolyn M Eadie, University of Toronto  
@@ -48,7 +48,7 @@ Let's just do this for now.
 
 # Session 295
 ### Tue Aug 4, 2020, 10:30am - 12:20pm
-## ["Innovations in AstroStatistics on Exploring Large Public Data"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219418) -- Invited Papers
+## [Innovations in AstroStatistics on Exploring Large Public Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219418) -- Invited Papers
 
    Astrostatistics Special Interest Group, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science  
    Organizer(s): Hyungsuk Tak, Pennsylvania State University  
@@ -72,7 +72,7 @@ Let's just do this for now.
 
 # Session 375
 ### Tue Aug 4, 2020, 2:00pm - 3:50pm
-## ["Innovations in Statistics for Astronomy & Space Physics"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219617) -- Topic Contributed Papers
+## [Innovations in Statistics for Astronomy & Space Physics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219617) -- Topic Contributed Papers
 
    SSC (Statistical Society of Canada), Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
    Organizer(s): Gwendolyn M Eadie, University of Toronto  
@@ -97,7 +97,7 @@ Let's just do this for now.
 
 # Session 432
 ###  Wed Aug 5, 2020, 8:30am - 10:20am
-## ["Challenging signal detection problems in astronomy"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
+## [Challenging signal detection problems in astronomy](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
 
    Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
    Organizer(s): Eric Feigelson, Pennsylvania State University  
@@ -121,7 +121,7 @@ Let's just do this for now.
 
 # Session 567
 ### Thu Aug 6, 2020, 8:30am - 10:20am
-## ["Astronomical(ly) Big Data for Statisticians"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
+## [Astronomical(ly) Big Data for Statisticians](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
 
    Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Consulting  
    Organizer(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian  
@@ -143,9 +143,9 @@ Let's just do this for now.
 
 - `10:15 AM` 	**Floor Discussion**  
 
-# Session 612
+# Session 613
 ### Thu Aug 6, 2020, 10:30am - 12:20pm
-## ["Astrostatistics Interest Group: Student Paper Award"](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
+## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
 
    Astrostatistics Special Interest Group  
    Organizer(s): Gwendolyn M Eadie, University of Toronto  
