@@ -22,7 +22,7 @@ Let's just do this for now.
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [96 (Aug 3)](#session-96) | [295 (Aug 4)](#session-295) | [375 (Aug 4)](#session-375) | [432 (Aug 5)](#session-432) | [567 (Aug 6)](#session-567) | [613 (Aug 6)](#session-613) |
+#### | [Aug 3: 96](#session-96) | [Aug 4: 295](#session-295) | [Aug 4: 375](#session-375) | [Aug 5: 432](#session-432) | [Aug 6: 567](#session-567) | [Aug 6: 613](#session-613) |
 
 # Session 96
 ### Mon Aug 3, 2020, 8:30am - 10:20am
@@ -45,6 +45,8 @@ Let's just do this for now.
    *Xixi Yu, Imperial College London; David van Dyk, Imperial College London; David Stenning, Imperial College London; Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian; Giulio Del Zanna, Centre for Mathematical Sciences, University of Cambridge*  
 
 - `10:15 AM` 	**Floor Discussion**  
+
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 295
 ### Tue Aug 4, 2020, 10:30am - 12:20pm
@@ -69,6 +71,8 @@ Let's just do this for now.
 - `11:55 AM` 	**Discussant: Jogesh Babu, Penn State University**  
 
 - `12:15 PM` 	**Floor Discussion**  
+
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 375
 ### Tue Aug 4, 2020, 2:00pm - 3:50pm
@@ -95,6 +99,8 @@ Let's just do this for now.
 
 - `3:45 PM` 	**Floor Discussion**  
 
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
+
 # Session 432
 ###  Wed Aug 5, 2020, 8:30am - 10:20am
 ## [Challenging signal detection problems in astronomy](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
@@ -118,6 +124,8 @@ Let's just do this for now.
 - `9:55 AM` 	**Discussant: Eric Feigelson, Pennsylvania State University**  
 
 - `10:15 AM` 	**Floor Discussion**  
+
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 567
 ### Thu Aug 6, 2020, 8:30am - 10:20am
@@ -143,6 +151,8 @@ Let's just do this for now.
 
 - `10:15 AM` 	**Floor Discussion**  
 
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
+
 # Session 613
 ### Thu Aug 6, 2020, 10:30am - 12:20pm
 ## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
@@ -167,3 +177,5 @@ Let's just do this for now.
    *Richard Feder, California Institute of Technology*  
 
 - `12:15 PM` 	**Floor Discussion**  
+
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
