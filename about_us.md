@@ -5,7 +5,7 @@ layout: default
 <a href="./index.html" class="btn">Home</a>
 <a href="./about_us.html" class="btn">About Us</a>
 <a href="./news.html" class="btn">News</a>
-<a href="." class="btn">JSM 2020</a>
+<a href="./jsm2020/index.html" class="btn">JSM 2020</a>
 <a href="./comp_rules.html" class="btn">Competitions</a>
 <a href="./join.html" class="btn">Join Us</a>
 
@@ -100,7 +100,7 @@ The annual business meeting of the Interest Group shall be held in connection wi
 
 The officers of this Interest Group shall consist of the Chair, Chair-elect, Program Chair, Program Chair-elect, and the Secretary. Terms of all the officers shall be one year except for the Secretary which shall be two years.
 
-The Chair is responsible for the Interest Group Annual Business meeting at JSM. The Program Chair is responsible for the Interest Group program at the JSM meeting. The Secretary is responsible for taking minutes at the Interest Group Annual Business meeting and maintaining a roster of the Interest Group’s members.
+The Chair is responsible for the Interest Group Annual Business meeting at JSM. The Program Chair is responsible for the Interest Group program at the JSM meeting. The Secretary is responsible for taking minutes at the Interest Group Annual Business meeting and maintaining a roster of the Interest Group's members.
 
 No officer shall be eligible for immediate re-election to the same office except the Secretary. The Chair-elect and the Program Chair-elect shall automatically succeed the Chair and Program Chair, respectively, at the annual change of officers, which shall occur on January 1.
 
@@ -110,7 +110,7 @@ If the office of Chair or Program Chair becomes vacant, the Chair-elect and Prog
 
 <p style="text-align: center;"> ARTICLE VII. NOMINATION AND ELECTION </p>
 
-The Interest Group’s immediate past Chair shall serve as Chair of the Nominating Committee. The Interest Group’s immediate past Program Chair will also serve on this committee. The Chair will also nominate one person to serve on the Nominating Committee.
+The Interest Group's immediate past Chair shall serve as Chair of the Nominating Committee. The Interest Group's immediate past Program Chair will also serve on this committee. The Chair will also nominate one person to serve on the Nominating Committee.
 
 Each year the Nominating Committee shall submit no later than September 1st to the Secretary and the Chair of Interest Group nominations for each position to be filled. In addition, any Interest Group member nominated by petition of 5 or more members of Interest Group shall also appear on the annual ballot, provided that the petition is presented to the Secretary and Chair of the Interest Group by September 1st announcing the names of the candidates submitted by the Nominating Committee. Balloting shall be carried out by the Past Chair for electing Interest Group officers and completed by November 1st. Ballots shall be sent to all those who express an interest in the Interest Group; this includes all who so indicate as well as those attending business meetings or participating in JSM sessions.
 
