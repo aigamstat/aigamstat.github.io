@@ -14,8 +14,8 @@ Let's just do this for now.
 ![AIG at JSM 2018](./images/jsm_astrostat_meeting.jpg)
 <p style="text-align: center;">Astrostatistics Interest Group at JSM 2018, Vancouver, BC </p>
  -->
-<a href="./" class="btn">Home</a>
-<a href="./news.html" class="btn">News</a>
+<a href="https://amstat.org/" class="btn">Home</a>
+<a href="https://amstat.org/news.html" class="btn">News</a>
 <a href="https://ww2.amstat.org/meetings/jsm/2020/" class="btn">JSM 2020</a>
 
 
@@ -85,17 +85,17 @@ Let's just do this for now.
 - `2:05 PM` 	**The Photometric LSST Astronomical Time Series Classification Challenge (PLAsTiCC)**  
    *Renee Hlozek, University of Toronto*  
 
-- `2:25 PM` 	**Untapped Power of Spatial Modelling in Astronomy: Gibbs Point Process Model for Objects in the Star Formation Complexes of M33**  
+- `2:25 PM` 	**Gibbs Point Process Model for Objects in the Star Formation Complexes of M33**
    *Dayi Li, Western University; Pauline Barmby, Western University; Ian McLeod, Western University*  
 
 - `2:45 PM` 	**Likelihood-free Inference of Chemical Homogeneity in Open Clusters**  
    *Aarya Patil; Jo Bovy, University of Toronto*  
 
 - `3:05 PM` 	**Bayesian Inference and Computation for Old Star Clusters**  
-   *Gwendolyn M Eadie, University of Toronto; Jeremy Webb, University of Toronto*  
+   *Gwendolyn M Eadie, University of Toronto; Jeremy Webb, University of Toronto; Jeffrey Rosenthal, University of Toronto*  
 
 - `3:25 PM` 	**Statistical Characterization of Matrix Effects in Laser-Induced Breakdown Spectroscopy**  
-   *David Stenning, Imperial College London*  
+   *David Stenning, Simon Fraser University*  
 
 - `3:45 PM` 	**Floor Discussion**  
 
@@ -142,7 +142,7 @@ Let's just do this for now.
    *Kristin Madsen, Caltech*  
 
 - `9:15 AM` 	**Gaia data: challenges for the exploitation of a large and complex dataset**  
-   *Xavier Luri, Universitat de Barcelona*  
+   *Xavier Luri, Universitat de Barcelona; Frederic Arenou, GEPI, Observatoire de Paris, Université PSL, CNRS*  
 
 - `9:35 AM` 	**Solar (Data) Explosion: Challenges in Using Large Astrophysical Imaging Data Sets.**  
    *Katharine Reeves, Harvard-Smithsonian Center for Astrophysics*  
@@ -156,6 +156,8 @@ Let's just do this for now.
 # Session 613
 ### Thu Aug 6, 2020, 10:30am - 12:20pm
 ## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
+
+   [Information about Student Paper competition](https://astrostat.org/comp_rules.html#best-student-paper-award-2020)  
 
    Astrostatistics Special Interest Group  
    Organizer(s): Gwendolyn M Eadie, University of Toronto  
