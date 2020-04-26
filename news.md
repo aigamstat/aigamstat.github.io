@@ -18,7 +18,7 @@ layout: default
 - [Innovations in Statistics for Astronomy & Space Physics](./jsm2020/index.html#session-375) 
 - [Challenging signal detection problems in astronomy](./jsm2020/index.html#session-432) 
 - [Astronomical(ly) Big Data for Statisticians](./jsm2020/index.html#session-567) 
-- [Astrostatistics Interest Group: Student Paper Award](./jsm2020/index.html#session-612) 
+- [Astrostatistics Interest Group: Student Paper Award](./jsm2020/index.html#session-613) 
 
 # 2020 Student Paper Competition
 ### March 5, 2020, Finalists
