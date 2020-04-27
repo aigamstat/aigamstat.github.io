@@ -129,7 +129,7 @@ layout: default
    *Kristin Madsen, Caltech*  
 
 - `9:15 AM` 	**Gaia data: challenges for the exploitation of a large and complex dataset**  
-   *Xavier Luri, Universitat de Barcelona; Frederic Arenou, GEPI, Observatoire de Paris, Université PSL, CNRS*  
+   *Xavier Luri, Universitat de Barcelona; Frederic Arenou, GEPI, Observatoire de Paris, Universite PSL, CNRS*  
 
 - `9:35 AM` 	**Solar (Data) Explosion: Challenges in Using Large Astrophysical Imaging Data Sets.**  
    *Katharine Reeves, Harvard-Smithsonian Center for Astrophysics*  
