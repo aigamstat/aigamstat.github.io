@@ -2,22 +2,9 @@
 layout: default
 ---
 
-
-<!-- 
-This form of adding buttons works. Just need ot edit the button colors in the css file 
-Let's just do this for now. 
-
-<a href="{{ site.github.repository_url }}" class="btn">Home</a>
-<a href="{{ site.github.repository_url }}" class="btn">Information</a>
-<a href="{{ site.github.repository_url }}" class="btn">View Source Code</a>
-<a href="{{ site.github.repository_url }}" class="btn">View Source Code</a>
-![AIG at JSM 2018](./images/jsm_astrostat_meeting.jpg)
-<p style="text-align: center;">Astrostatistics Interest Group at JSM 2018, Vancouver, BC </p>
- -->
 <a href="https://amstat.org/" class="btn">Home</a>
 <a href="https://amstat.org/news.html" class="btn">News</a>
 <a href="https://ww2.amstat.org/meetings/jsm/2020/" class="btn">JSM 2020</a>
-
 
 ---
 # Astrostatistics sessions at JSM 2020
