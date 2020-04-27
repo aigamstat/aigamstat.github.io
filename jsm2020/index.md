@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<a href="https://amstat.org/" class="btn">Home</a>
-<a href="https://amstat.org/news.html" class="btn">News</a>
+<a href="https://astrostat.org/" class="btn">Home</a>
+<a href="https://astrostat.org/news.html" class="btn">News</a>
 <a href="https://ww2.amstat.org/meetings/jsm/2020/" class="btn">JSM 2020</a>
 
 ---
