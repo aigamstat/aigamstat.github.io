@@ -12,7 +12,10 @@ layout: default
 
 # Latest News 
 
-# [JSM 2020 astrostatistics program](./jsm2020/index.html)
+# JSM 2020 astrostatistics program
+### June 2, 2020
+The Astrostatistics Interest Group is happy to announce our contributions to the [JSM 2020 program](./jsm2020/index.html)
+
 - [Statistical Inference for Solar and Geophysical Data](./jsm2020/index.html#session-96) 
 - [Innovations in AstroStatistics on Exploring Large Public Data](./jsm2020/index.html#session-295) 
 - [Innovations in Statistics for Astronomy & Space Physics](./jsm2020/index.html#session-375) 
