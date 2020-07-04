@@ -9,7 +9,7 @@ layout: default
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [Aug 3: 11](#session-11) | [Aug 4: 257](#session-257) | [Aug 4: 269](#session-269) | [Aug 6: 432](#session-432) | [Aug 6: 444](#session-444) | [Aug 6: 541](#session-541) |
+#### | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 6: 431](#session-431) | [Aug 6: 401](#session-401) | [Aug 6: 539](#session-539) |
 
 # Session 96
 ### Mon Aug 3, 2020, 10:00am - 11:50am
@@ -35,7 +35,7 @@ layout: default
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
-# Session 257
+# Session 253
 ### Tue Aug 4, 2020, 1:00pm - 2:50pm
 ## [Innovations in AstroStatistics on Exploring Large Public Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219418) -- Invited Papers
 
@@ -58,7 +58,7 @@ layout: default
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
-# Session 269
+# Session 265
 ### Tue Aug 4, 2020, 1:00pm - 2:50pm
 ## [Innovations in Statistics for Astronomy & Space Physics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219617) -- Topic Contributed Papers
 
@@ -85,7 +85,7 @@ layout: default
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
-# Session 432
+# Session 431
 ### Thu Aug 6, 2020, 10:00am - 11:50am
 ## [Astronomical(ly) Big Data for Statisticians](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
 
@@ -111,8 +111,8 @@ layout: default
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
-# Session 444
-### Thu Aug 6, 2020, 10:00am - 11:50pm
+# Session 401
+### Thu Aug 5, 2020, 1:00pm - 2:50pm
 ## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
 
    [Information about Student Paper competition](https://astrostat.org/comp_rules.html#best-student-paper-award-2020)  
@@ -121,26 +121,26 @@ layout: default
    Organizer(s): Gwendolyn M Eadie, University of Toronto  
    Chair(s): Chad Schafer, Carnegie Mellon University  
 
-- `10:05 AM` 	**Photometric Biases in Modern Astronomical Surveys**  
+- `1:05 PM` 	**Photometric Biases in Modern Astronomical Surveys**  
    *Joshua Speagle, Harvard University*  
 
-- `10:25 AM` 	**Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy**  
+- `1:25 PM` 	**Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy**  
    *Collin Politsch*  
 
-- `10:45 AM` 	**Galaxy Cluster Mass Estimation Using Deep Learning**  
+- `1:45 PM` 	**Galaxy Cluster Mass Estimation Using Deep Learning**  
    *Matthew Ho, McWilliams Center for Cosmology; Arya Farahi, Michigan Institute for Data Science; Michelle Ntampaka, Harvard-Smithsonian Center for Astrophysics; Markus Michael Rau, McWilliams Center for Cosmology; Hy Trac, McWilliams Center for Cosmology*  
 
-- `11:05 AM` 	**Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach**  
+- `2:05 PM` 	**Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach**  
    *Oliver Philcox, Princeton University; Jan Rybizki, Max-Planck Institute for Astronomy*  
 
-- `11:25 AM` 	**Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending**  
+- `2:25 PM` 	**Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending**  
    *Richard Feder, California Institute of Technology*  
 
-- `11:45 AM` 	**Floor Discussion**  
+- `2:45 PM` 	**Floor Discussion**  
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
-# Session 541
+# Session 539
 ###  Thu Aug 6, 2020, 1:00pm - 2:50pm
 ## [Challenging signal detection problems in astronomy](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
 
