@@ -9,7 +9,7 @@ layout: default
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 6: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) |
+#### | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) |
 
 # Session 96
 ### Mon Aug 3, 2020, 10:00am - 11:50am
