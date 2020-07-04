@@ -14,8 +14,20 @@ layout: default
 
 
 ---
-# News 
-March 5, 2020, Finalists of the 2020 Student Paper Competition
+# Latest News 
+## JSM 2020 astrostatistics program
+### June 2, 2020
+The Astrostatistics Interest Group is happy to announce our contributions to the [JSM 2020 program](./jsm2020/index.html)
+
+- [Statistical Inference for Solar and Geophysical Data](./jsm2020/index.html#session-96) 
+- [Innovations in AstroStatistics on Exploring Large Public Data](./jsm2020/index.html#session-295) 
+- [Innovations in Statistics for Astronomy & Space Physics](./jsm2020/index.html#session-375) 
+- [Challenging signal detection problems in astronomy](./jsm2020/index.html#session-432) 
+- [Astronomical(ly) Big Data for Statisticians](./jsm2020/index.html#session-567) 
+- [Astrostatistics Interest Group: Student Paper Award](./jsm2020/index.html#session-613) 
+
+## Finalists of the 2020 Student Paper Competition
+### March 5, 2020
 > We are excited to announce the finalists of the 2<sup>nd</sup> Annual [Student Paper Competition](./comp_rules.html#previous-winners).  The winner of the contest will be announced during the Joint Statistics Meeting in Aug 2020.  All the finalists will present their work at a dedicated session (date/time TBA). In alphabetical order.
 > - Richard Feder-Staehle (Cal Tech) -- Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending
 > - Matthew Ho (Carnegie Mellon) -- A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters
