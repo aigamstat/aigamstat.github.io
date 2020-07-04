@@ -16,12 +16,12 @@ layout: default
 ### June 2, 2020
 The Astrostatistics Interest Group is happy to announce our contributions to the [JSM 2020 program](./jsm2020/index.html)
 
-- [Statistical Inference for Solar and Geophysical Data](./jsm2020/index.html#session-96) 
-- [Innovations in AstroStatistics on Exploring Large Public Data](./jsm2020/index.html#session-295) 
-- [Innovations in Statistics for Astronomy & Space Physics](./jsm2020/index.html#session-375) 
-- [Challenging signal detection problems in astronomy](./jsm2020/index.html#session-432) 
-- [Astronomical(ly) Big Data for Statisticians](./jsm2020/index.html#session-567) 
-- [Astrostatistics Interest Group: Student Paper Award](./jsm2020/index.html#session-613) 
+- [Aug 3 10am : Statistical Inference for Solar and Geophysical Data](./jsm2020/index.html#session-11) 
+- [Aug 4 1pm : Innovations in AstroStatistics on Exploring Large Public Data](./jsm2020/index.html#session-253) 
+- [Aug 4 1pm : Innovations in Statistics for Astronomy & Space Physics](./jsm2020/index.html#session-265) 
+- [Aug 5 1pm : Astrostatistics Interest Group: Student Paper Award](./jsm2020/index.html#session-401) 
+- [Aug 6 10am : Astronomical(ly) Big Data for Statisticians](./jsm2020/index.html#session-431) 
+- [Aug 6 1pm : Challenging signal detection problems in astronomy](./jsm2020/index.html#session-539) 
 
 # 2020 Student Paper Competition
 ### March 5, 2020, Finalists

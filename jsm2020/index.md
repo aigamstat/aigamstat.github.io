@@ -9,7 +9,7 @@ layout: default
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 6: 431](#session-431) | [Aug 6: 401](#session-401) | [Aug 6: 539](#session-539) |
+#### | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 6: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) |
 
 # Session 96
 ### Mon Aug 3, 2020, 10:00am - 11:50am
@@ -85,32 +85,6 @@ layout: default
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
-# Session 431
-### Thu Aug 6, 2020, 10:00am - 11:50am
-## [Astronomical(ly) Big Data for Statisticians](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
-
-   Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Consulting  
-   Organizer(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian  
-   Chair(s): Gwendolyn M Eadie, University of Toronto  
-
-- `10:05 AM` 	**The Astrophysics Data Access Infrastructure**  
-   *Peter Kelsey George Williams, Center for Astrophysics \| Harvard & Smithsonian*  
-
-- `10:25 AM` 	**X-ray data and its many challenges**  
-   *Kristin Madsen, Caltech*  
-
-- `10:45 AM` 	**Gaia data: challenges for the exploitation of a large and complex dataset**  
-   *Xavier Luri, Universitat de Barcelona; Frederic Arenou, GEPI, Observatoire de Paris, Universite PSL, CNRS*  
-
-- `11:05 AM` 	**Solar (Data) Explosion: Challenges in Using Large Astrophysical Imaging Data Sets.**  
-   *Katharine Reeves, Harvard-Smithsonian Center for Astrophysics*  
-
-- `11:25 AM` 	**Discussant: Xiao-Li Meng, Harvard University**  
-
-- `11:45 AM` 	**Floor Discussion**  
-
-#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
-
 # Session 401
 ### Thu Aug 5, 2020, 1:00pm - 2:50pm
 ## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
@@ -137,6 +111,32 @@ layout: default
    *Richard Feder, California Institute of Technology*  
 
 - `2:45 PM` 	**Floor Discussion**  
+
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
+
+# Session 431
+### Thu Aug 6, 2020, 10:00am - 11:50am
+## [Astronomical(ly) Big Data for Statisticians](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
+
+   Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Consulting  
+   Organizer(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian  
+   Chair(s): Gwendolyn M Eadie, University of Toronto  
+
+- `10:05 AM` 	**The Astrophysics Data Access Infrastructure**  
+   *Peter Kelsey George Williams, Center for Astrophysics \| Harvard & Smithsonian*  
+
+- `10:25 AM` 	**X-ray data and its many challenges**  
+   *Kristin Madsen, Caltech*  
+
+- `10:45 AM` 	**Gaia data: challenges for the exploitation of a large and complex dataset**  
+   *Xavier Luri, Universitat de Barcelona; Frederic Arenou, GEPI, Observatoire de Paris, Universite PSL, CNRS*  
+
+- `11:05 AM` 	**Solar (Data) Explosion: Challenges in Using Large Astrophysical Imaging Data Sets.**  
+   *Katharine Reeves, Harvard-Smithsonian Center for Astrophysics*  
+
+- `11:25 AM` 	**Discussant: Xiao-Li Meng, Harvard University**  
+
+- `11:45 AM` 	**Floor Discussion**  
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
