@@ -168,7 +168,6 @@ layout: default
 
 # Other events of interest
 
--  [Larry Wasserman on Statistical Methods for some problems in Physics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=309540)
--- Thu Aug 6, 2020, 2:20pm, in session Emerging Statistical Learning Methods in Modern Data Science
+-  `Thu Aug 6, 2:20pm` [Larry Wasserman on Statistical Methods for some problems in Physics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=309540), in session *Emerging Statistical Learning Methods in Modern Data Science*
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
