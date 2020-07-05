@@ -9,7 +9,7 @@ layout: default
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) |
+#### | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) | [Other events](#Other-events-of-interest) |
 
 # Session 96
 ### Mon Aug 3, 2020, 10:00am - 11:50am
@@ -163,5 +163,12 @@ layout: default
 - `2:25 PM` 	**Discussant: Eric Feigelson, Pennsylvania State University**  
 
 - `2:45 PM` 	**Floor Discussion**  
+
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
+
+# Other events of interest
+
+   [Larry Wasserman on Statistical Methods for some problems in Physics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=309540)
+-  Thu Aug 6, 2020, 2:20pm, in session Emerging Statistical Learning Methods in Modern Data Science
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
