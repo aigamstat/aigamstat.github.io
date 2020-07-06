@@ -52,9 +52,7 @@ layout: default
 - `1:55 PM` 	**Disentangling Stellar Activity and Planetary Signals using Bayesian High-dimensional Analysis**  
    *Bo Ning, Yale University; Jessi Cisewski-Kehe, Yale University; Allen Davis, Yale University; Sarah Dodson-Robinson, University of Delaware; Debra Fischer, Yale University; Parker Holzer, Yale University; Alexander Wise, Penn State University*  
 
-- `2:20 PM` 	**Discussant: Jogesh Babu, Penn State University**  
-
-- `2:45 PM` 	**Floor Discussion**  
+- `2:20 PM` 	**Floor Discussion**  
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
