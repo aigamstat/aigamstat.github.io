@@ -43,7 +43,7 @@ layout: default
    Organizer(s): Hyungsuk Tak, Pennsylvania State University  
    Chair(s): Hyungsuk Tak, Pennsylvania State University  
 
-- `1:05 PM` 	**Handling model uncertainty in a Poisson regime**  
+- `1:05 PM` 	**Handling Model Uncertainty via Smoothed Inference**
    *Sara Algeri, University of Minnesota*  
 
 - `1:30 PM` 	**Improving Exoplanet Detection Power: Multivariate Gaussian Process Models for Stellar Activity**  
