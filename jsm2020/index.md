@@ -9,7 +9,7 @@ layout: default
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) | [Other events](#other-events-of-interest) |
+#### | [Aug 3: 11](#session-11) | [Aug 3: AIG meeting](#aig-business-meeting) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) | [Other events](#other-events-of-interest) |
 
 # Session 96
 ### Mon Aug 3, 2020, 10:00am - 11:50am
@@ -32,6 +32,11 @@ layout: default
    *Xixi Yu, Imperial College London; David van Dyk, Imperial College London; David Stenning, Imperial College London; Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian; Giulio Del Zanna, Centre for Mathematical Sciences, University of Cambridge*  
 
 - `11:45 AM` 	**Floor Discussion**  
+
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
+
+# AIG Business Meeting
+### Mon Aug 3, 2020, 1:00pm-2:30pm
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
