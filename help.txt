@@ -2,3 +2,6 @@ git pull
 git add files
 git commit -m "some text to describe the change"
 git push
+
+To get to the signup form code on mailchimp:
+from home page -> Audience -> Signup Forms -> Embedded Forms -> Classic
