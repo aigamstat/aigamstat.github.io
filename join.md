@@ -55,12 +55,12 @@ layout: default
 	<input type="text" value="" name="MMERGE4" class="" id="mce-MMERGE4">
 </div>
 <div class="mc-field-group">
-	<label for="mce-MMERGE5">If choosing 'other', type your current title here </label>
-	<input type="text" value="" name="MMERGE5" class="" id="mce-MMERGE5">
-</div>
-<div class="mc-field-group">
 	<label for="mce-MMERGE6">ASA (American Statistical Association) Number </label>
 	<input type="text" value="" name="MMERGE6" class="" id="mce-MMERGE6">
+</div>
+<div class="mc-field-group">
+	<label for="mce-MMERGE5">If choosing 'other', type your current title here </label>
+	<input type="text" value="" name="MMERGE5" class="" id="mce-MMERGE5">
 </div>
 <div class="mc-field-group">
 	<label for="mce-MMERGE7">Institution  <span class="asterisk">*</span>
@@ -76,5 +76,5 @@ layout: default
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='dropdown';fnames[4]='MMERGE4';ftypes[4]='text';fnames[5]='MMERGE5';ftypes[5]='text';fnames[6]='MMERGE6';ftypes[6]='text';fnames[7]='MMERGE7';ftypes[7]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='dropdown';fnames[4]='MMERGE4';ftypes[4]='text';fnames[6]='MMERGE6';ftypes[6]='text';fnames[5]='MMERGE5';ftypes[5]='text';fnames[7]='MMERGE7';ftypes[7]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
