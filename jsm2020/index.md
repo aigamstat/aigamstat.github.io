@@ -38,6 +38,8 @@ layout: default
 # AIG Business Meeting
 ### Mon Aug 3, 2020, 1:00pm-2:30pm
 
+Agenda and zoom connection information forthcoming
+
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 253
