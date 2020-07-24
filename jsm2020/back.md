@@ -9,7 +9,14 @@ layout: default
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [Aug 3: 11](#session-11) | [Aug 3: AIG meeting](#aig-business-meeting) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) | [Other events](#other-events-of-interest) |
+#### | [Aug 3: AIG meeting](#aig-business-meeting) | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) | [Other events](#other-events-of-interest) |
+
+# AIG Business Meeting
+### Mon Aug 3, 2020, 1:00pm-2:30pm
+
+Agenda and zoom connection information forthcoming
+
+#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 11
 ### Mon Aug 3, 2020, 10:00am - 11:50am
@@ -36,13 +43,6 @@ layout: default
    Information about the physical properties of astrophysical objects cannot be measured directly but is inferred by interpreting spectroscopic observations in the context of atomic physics calculations. A critical component of this analysis is understanding how uncertainties in the underlying atomic physics propagates to the uncertainties in the inferred plasma parameters. Instead of using the standard approach, a common strategy deployed by the astrophysicists, that treats the uncertainty as fixed and known and obtains the best-fit values of the parameters, we propose a multistage analysis to prevent underestimation of the error bars on the model parameters and increase the accuracy of the analysis results. A case study on Fe XVII and O VII/VIII is discussed where we implement both a pragmatic Bayesian method where atomic physics information is unaffected by observed data, and a fully Bayesian method where the data can be used to probe physics, and in particular detail a method of summarizing atomic uncertainties using principal components analysis.
 
 - `11:45 AM` 	**Floor Discussion**  
-
-#### | [Top](#astrostatistics-sessions-at-jsm-2020) |
-
-# AIG Business Meeting
-### Mon Aug 3, 2020, 1:00pm-2:30pm
-
-Agenda and zoom connection information forthcoming
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
