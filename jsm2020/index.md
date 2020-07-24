@@ -107,7 +107,7 @@ Agenda and zoom connection information forthcoming
    *Collin Politsch, Carnegie Mellon University; Jessi Cisewski-Kehe, Yale University; Larry Wasserman, Carnegie Mellon University; Rupert Croft, Carnegie Mellon University*  
 
 - `1:45 PM` 	**Galaxy Cluster Mass Estimation Using Deep Learning**  
-   *Matthew Ho, McWilliams Center for Cosmology; Arya Farahi, Michigan Institute for Data Science; Michelle Ntampaka, Harvard-Smithsonian Center for Astrophysics; Markus Michael Rau, McWilliams Center for Cosmology; Hy Trac, McWilliams Center for Cosmology; Barnabás Póczos, School of Computer Science*  
+   *Matthew Ho, McWilliams Center for Cosmology; Arya Farahi, Michigan Institute for Data Science; Michelle Ntampaka, Harvard-Smithsonian Center for Astrophysics; Markus Michael Rau, McWilliams Center for Cosmology; Hy Trac, McWilliams Center for Cosmology; Barnabas Poczos, School of Computer Science*  
 
 - `2:05 PM` 	**Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach**  
    *Oliver Philcox, Princeton University; Jan Rybizki, Max-Planck Institute for Astronomy*  
