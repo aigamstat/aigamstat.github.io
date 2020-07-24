@@ -12,7 +12,7 @@ layout: default
 #### | [Aug 3: AIG meeting](#aig-annual-meeting) | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) | [Other events](#other-events-of-interest) |
 
 # AIG Annual Meeting
-### Mon Aug 3, 2020, 1:00pm-2:30pm
+### Mon Aug 3, 2020, 1:00pm-2:30pm EDT
 
 The business meeting of the AIG will be held on the afternoon of Aug 3 via Zoom.  Connection information and an agenda will be forthcoming.
 
@@ -21,7 +21,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 11
-### Mon Aug 3, 2020, 10:00am - 11:50am
+### Mon Aug 3, 2020, 10:00am - 11:50am EDT
 ## 219357 [Statistical Inference for Solar and Geophysical Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219357) - Invited Papers
 
    Section on Physical and Engineering Sciences, Section on Nonparametric Statistics, Astrostatistics Special Interest Group  
@@ -49,7 +49,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 253
-### Tue Aug 4, 2020, 1:00pm - 2:50pm
+### Tue Aug 4, 2020, 1:00pm - 2:50pm EDT
 ## 219418 [Innovations in AstroStatistics on Exploring Large Public Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219418) -- Invited Papers
 
    Astrostatistics Special Interest Group, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science  
@@ -73,7 +73,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 265
-### Tue Aug 4, 2020, 1:00pm - 2:50pm
+### Tue Aug 4, 2020, 1:00pm - 2:50pm EDT
 ## 219617 [Innovations in Statistics for Astronomy & Space Physics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219617) -- Topic Contributed Papers
 
    SSC (Statistical Society of Canada), Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
@@ -105,7 +105,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 401
-### Thu Aug 5, 2020, 1:00pm - 2:50pm
+### Thu Aug 5, 2020, 1:00pm - 2:50pm EDT
 ## 219559 [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
 
    [Information about Student Paper competition](https://astrostat.org/comp_rules.html#best-student-paper-award-2020)  
@@ -139,7 +139,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 431
-### Thu Aug 6, 2020, 10:00am - 11:50am
+### Thu Aug 6, 2020, 10:00am - 11:50am EDT
 ## 219396 [Astronomical(ly) Big Data for Statisticians](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
 
    Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Consulting  
@@ -169,7 +169,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 539
-###  Thu Aug 6, 2020, 1:00pm - 2:50pm
+###  Thu Aug 6, 2020, 1:00pm - 2:50pm EDT
 ## 219552 [Challenging signal detection problems in astronomy](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
 
    Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
