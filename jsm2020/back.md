@@ -11,7 +11,7 @@ layout: default
 
 #### | [Aug 3: 11](#session-11) | [Aug 3: AIG meeting](#aig-business-meeting) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) | [Other events](#other-events-of-interest) |
 
-# Session 96
+# Session 11
 ### Mon Aug 3, 2020, 10:00am - 11:50am
 ## 219357 [Statistical Inference for Solar and Geophysical Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219357) - Invited Papers
 
@@ -21,7 +21,7 @@ layout: default
 
 - `10:05 AM` 	**Multitaper Analysis of High-Q Spectral Peaks and Non-stationarity in the Geomagnetic Field over the 400-4000 µHz Band**  
    *Alan Chave, Woods Hole Oceanographic Institution*  
-   Three 60 d sections of geomagnetic data from Honolulu Observatory during 2001-2 were analyzed using multitaper spectral analysis, showing the ubiquitous presence of narrowband, very statistically significant, high Q features in multitaper power spectra and pervasive non-stationarity as measured by the frequency offset coherence over 400-4000 µHz. The peak frequencies correlate well with the optically-measured frequencies of solar p-modes, and the raw Qs are defined by the resolution bandwidths of the estimates, with values ranging from 100s to 1000s. Further, spectral peaks are consistently coherent across frequency due to non-stationarity, and frequently exhibit cyclostationarity at offset frequencies of ±0.5 and ±1 cpd.
+   Three 60 d sections of geomagnetic data from Honolulu Observatory during 2001-2 were analyzed using multitaper spectral analysis, showing the ubiquitous presence of narrowband, very statistically significant, high Q features in multitaper power spectra and pervasive non-stationarity as measured by the frequency offset coherence over 400-4000 µHz. The peak frequencies correlate well with the optically-measured frequencies of solar p-modes, and the raw Qs are defined by the resolution bandwidths of the estimates, with values ranging from 100s to 1000s. Further, spectral peaks are consistently coherent across frequency due to non-stationarity, and frequently exhibit cyclostationarity at offset frequencies of +-0.5 and +-1 cpd.
 
 - `10:30 AM` 	**Hitting a Moving Target: Modelling Non-Stationary Relationships in Geomagnetism**  
    *David Riegert, Queen's University; David J Thomson, Queen's University*  
