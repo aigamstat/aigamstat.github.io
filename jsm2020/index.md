@@ -13,7 +13,7 @@ layout: default
 
 # Session 96
 ### Mon Aug 3, 2020, 10:00am - 11:50am
-## 219357 [Statistical Inference for Solar and Geophysical Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219357) - Invited Papers
+## [Statistical Inference for Solar and Geophysical Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219357) - Invited Papers
 
    Section on Physical and Engineering Sciences, Section on Nonparametric Statistics, Astrostatistics Special Interest Group  
    Organizer(s): Gwendolyn M Eadie, University of Toronto  
@@ -44,7 +44,7 @@ Agenda and zoom connection information forthcoming
 
 # Session 253
 ### Tue Aug 4, 2020, 1:00pm - 2:50pm
-## 219418 [Innovations in AstroStatistics on Exploring Large Public Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219418) -- Invited Papers
+## [Innovations in AstroStatistics on Exploring Large Public Data](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219418) -- Invited Papers
 
    Astrostatistics Special Interest Group, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science  
    Organizer(s): Hyungsuk Tak, Pennsylvania State University  
@@ -65,7 +65,7 @@ Agenda and zoom connection information forthcoming
 
 # Session 265
 ### Tue Aug 4, 2020, 1:00pm - 2:50pm
-## 219617 [Innovations in Statistics for Astronomy & Space Physics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219617) -- Topic Contributed Papers
+## [Innovations in Statistics for Astronomy & Space Physics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219617) -- Topic Contributed Papers
 
    SSC (Statistical Society of Canada), Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
    Organizer(s): Gwendolyn M Eadie, University of Toronto  
@@ -92,7 +92,7 @@ Agenda and zoom connection information forthcoming
 
 # Session 401
 ### Thu Aug 5, 2020, 1:00pm - 2:50pm
-## 219559 [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
+## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
 
    [Information about Student Paper competition](https://astrostat.org/comp_rules.html#best-student-paper-award-2020)  
 
@@ -121,7 +121,7 @@ Agenda and zoom connection information forthcoming
 
 # Session 431
 ### Thu Aug 6, 2020, 10:00am - 11:50am
-## 219396 [Astronomical(ly) Big Data for Statisticians](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
+## [Astronomical(ly) Big Data for Statisticians](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219396) - Invited Papers
 
    Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Consulting  
    Organizer(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian  
@@ -147,7 +147,7 @@ Agenda and zoom connection information forthcoming
 
 # Session 539
 ###  Thu Aug 6, 2020, 1:00pm - 2:50pm
-## 219552 [Challenging signal detection problems in astronomy](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
+## [Challenging signal detection problems in astronomy](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219552) -- Topic Contributed Papers
 
    Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
    Organizer(s): Eric Feigelson, Pennsylvania State University  
