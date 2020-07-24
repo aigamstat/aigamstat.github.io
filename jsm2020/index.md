@@ -9,12 +9,14 @@ layout: default
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [Aug 3: AIG meeting](#aig-business-meeting) | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) | [Other events](#other-events-of-interest) |
+#### | [Aug 3: AIG meeting](#aig-annual-meeting) | [Aug 3: 11](#session-11) | [Aug 4: 253](#session-253) | [Aug 4: 265](#session-265) | [Aug 5: 401](#session-401) | [Aug 6: 431](#session-431) | [Aug 6: 539](#session-539) | [Other events](#other-events-of-interest) |
 
-# AIG Business Meeting
+# AIG Annual Meeting
 ### Mon Aug 3, 2020, 1:00pm-2:30pm
 
-Agenda and zoom connection information forthcoming
+The business meeting of the AIG will be held on the afternoon of Aug 3 via Zoom.  Connection information and an agenda will be forthcoming.
+
+We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  Please sign in via this [invite link.](https://join.slack.com/t/astrostatisti-dzq6013/shared_invite/zt-fm8wb785-YrgoGjsJclLiNSF_Ljjqog)
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
