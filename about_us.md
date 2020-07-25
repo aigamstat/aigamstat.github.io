@@ -39,7 +39,7 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 
 - Chair-Elect: Vinay Kashyap
 - Program Chair Elect: Gwendolyn Eadie
-- Secretary Elect: Yang Chen
+- Secretary Elect: Bo Ning
 
 - Past Chair: Jessi Cisewski-Kehe
 
