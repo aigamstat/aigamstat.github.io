@@ -9,7 +9,7 @@ layout: default
 ---
 # Astrostatistics sessions at JSM 2020
 
-#### | [Aug 3: AIG meeting](#aig-annual-meeting) | [Aug 3: Solar & Geo](#session-11) | [Aug 4: Large Public Data](#session-253) | [Aug 4: Astro & Space Physics](#session-265) | [Aug 5: Student Paper Award](#session-401) | [Aug 6: Astronomical(ly) Big Data](#session-431) | [Aug 6: Signal detection](#session-539) | [Other events](#other-events-of-interest) |
+#### | [Aug 3: AIG meeting](#aig-annual-meeting) | [Aug 3:11 Solar & Geo](#session-11) | [Aug 4:253 Large Public Data](#session-253) | [Aug 4:265 Astro & Space Physics](#session-265) | [Aug 5:401 Student Paper Award](#session-401) | [Aug 6:431 Astronomical(ly) Big Data](#session-431) | [Aug 6:539 Signal detection](#session-539) | [Other events](#other-events-of-interest) |
 
 # AIG Annual Meeting
 ### Mon Aug 3, 2020, 1:00pm-2:30pm EDT
