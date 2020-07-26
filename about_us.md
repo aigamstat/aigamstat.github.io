@@ -18,15 +18,15 @@ layout: default
 On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.amstat.org/blog/2014/08/01/astrostats-group/)
 
 # Officers
+
 ### 2020
 - Chair: Vinay Kashyap
 - Program Chair: Gwendolyn Eadie
-- Secretary: Bo Ning
-- Webmaster: Luis Campos
+- Secretary (2020/2021): Bo Ning
+- Webmaster (2019/2020): Luis Campos
 
 - Chair-Elect: Peter Freeman
 - Program Chair Elect: Sara Algeri
-- Secretary Elect: Bo Ning
 
 - Past Chair: Chad Schafer
 
@@ -34,23 +34,21 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 ### 2019
 - Chair: Chad Schafer
 - Program Chair: David Stenning
-- Secretary: Yang Chen
-- Webmaster: Luis Campos
+- Secretary (2018/2019): Yang Chen
+- Webmaster (2019/2020): Luis Campos
 
 - Chair-Elect: Vinay Kashyap
 - Program Chair Elect: Gwendolyn Eadie
-- Secretary Elect: Bo Ning
 
 - Past Chair: Jessi Cisewski-Kehe
 
 ### 2018
 - Chair: Jessi Cisewski-Kehe
 - Program Chair: Thomas C. M. Lee
-- Secretary: Yang Chen
+- Secretary (2018/2019): Yang Chen
 
 - Chair-Elect: Chad Schafer
 - Program Chair Elect: David Stenning
-- Secretary Elect: Yang Chen
 
 
 ### Founders
