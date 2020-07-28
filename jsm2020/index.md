@@ -105,7 +105,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
 # Session 401
-### Thu Aug 5, 2020, 1:00pm - 2:50pm EDT
+### Wed Aug 5, 2020, 1:00pm - 2:50pm EDT
 ## 219559 [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
 
    [Information about Student Paper competition](https://astrostat.org/comp_rules.html#best-student-paper-award-2020)  
