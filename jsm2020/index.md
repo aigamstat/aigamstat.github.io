@@ -16,7 +16,7 @@ layout: default
 
 The business meeting of the AIG will be held on the afternoon of Aug 3 via Zoom.  Connection information and an agenda will be forthcoming.
 
-We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  Please sign in via this [invite link.](https://join.slack.com/t/astrostatisti-dzq6013/shared_invite/zt-fm8wb785-YrgoGjsJclLiNSF_Ljjqog)
+We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
