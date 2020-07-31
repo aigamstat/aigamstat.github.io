@@ -200,6 +200,8 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 
 # Other events of interest
 
+-  `Througout JSM` [AIG Virtual Community Table](https://amstat-jsm.conferencecontent.net/exhibitors/88)
+-  `Wed Aug 5, 5-6pm` Astrostatistics Virtual Mixer (Zoom connection information will be announced later)
 -  `Thu Aug 6, 2:20pm` [Larry Wasserman on Statistical Methods for some problems in Physics](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=309540), in session *Emerging Statistical Learning Methods in Modern Data Science*
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
