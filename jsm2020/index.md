@@ -22,21 +22,21 @@ The business meeting of the AIG will be held on the afternoon of Aug 3 [via Zoom
 
 1. Overview and Census
 2. Charter
-  a. Amendments on language, Program Chair term, and Webmaster
-  b. Elections for next year
-  c. Section vs Interest Group
+  1. Amendments on language, Program Chair term, and Webmaster
+  2. Elections for next year
+  3. Section vs Interest Group
 3. Activities
-  a. [Sessions during this JSM](https://astrostat.org/jsm2020/)
-  b. [Student Paper Award](#session-410)
-  c. [AIG Virtual Table](https://amstat-jsm.conferencecontent.net/exhibitors/88)
-  d. AIG Mixer on Wed Aug 5 5-6pm via Zoom; see [Slack Channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) for connection information
-  e. [Planning for next year](https://docs.google.com/document/d/1L2QQuUqAYxvSv2OlSRlYtsvk0vdO8iDa3gLQHk6lS3k/edit?usp=sharing)
-  f. Other events
+  1. [Sessions during this JSM](https://astrostat.org/jsm2020/)
+  2. [Student Paper Award](#session-410)
+  3. [AIG Virtual Table](https://amstat-jsm.conferencecontent.net/exhibitors/88)
+  4. AIG Mixer on Wed Aug 5 5-6pm via Zoom; see [Slack Channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) for connection information
+  5. [Planning for next year](https://docs.google.com/document/d/1L2QQuUqAYxvSv2OlSRlYtsvk0vdO8iDa3gLQHk6lS3k/edit?usp=sharing)
+  6. Other events
 4. External Coordination
 5. Web presence
-  a. Website, contact email, and email exploder
-  b. Social media: [Slack](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET), twitter, etc
-  c. Logo
+  1. Website, contact email, and email exploder
+  2. Social media: [Slack](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET), twitter, etc
+  3. Logo
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
