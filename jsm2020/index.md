@@ -18,7 +18,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 
 The business meeting of the AIG will be held on the afternoon of Aug 3 [via Zoom](https://smithsonian.zoom.us/j/91586736537?pwd=amt0cHFTVU5BUlQvUDVaWkVydUtaQT09).
 
-## Agenda [**.pdf**](https://astrostat.org/jsm2020/AIG_JSM2020_agenda.pdf)
+## Agenda [**.pdf**](https://astrostat.org/jsm2020/AIG_JSM2020_Agenda.pdf)
 
 1. Overview and Census
 2. Charter
