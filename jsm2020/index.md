@@ -11,12 +11,32 @@ layout: default
 
 #### INDEX | [Aug 3: AIG meeting](#aig-annual-meeting) | [Aug 3:11 Solar & Geo](#session-11) | [Aug 4:253 Large Public Data](#session-253) | [Aug 4:265 Astro & Space Physics](#session-265) | [Aug 5:401 Student Paper Award](#session-401) | [Aug 6:431 Astronomical(ly) Big Data](#session-431) | [Aug 6:539 Signal detection](#session-539) | [Other events](#other-events-of-interest) |
 
+We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
+
 # AIG Annual Meeting
 ### Mon Aug 3, 2020, 1:00pm-2:30pm EDT
 
-The business meeting of the AIG will be held on the afternoon of Aug 3 via Zoom.  Connection information and an agenda will be forthcoming.
+The business meeting of the AIG will be held on the afternoon of Aug 3 [via Zoom](https://smithsonian.zoom.us/j/91586736537?pwd=amt0cHFTVU5BUlQvUDVaWkVydUtaQT09).
 
-We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
+## Agenda [**.pdf**](https://astrostat.org/jsm2020/AIG_JSM2020_agenda.pdf)
+
+1. Overview and Census
+2. Charter
+  a. Amendments on language, Program Chair term, and Webmaster
+  b. Elections for next year
+  c. Section vs Interest Group
+3. Activities
+  a. [Sessions during this JSM](https://astrostat.org/jsm2020/)
+  b. [Student Paper Award](#session-410)
+  c. [AIG Virtual Table](https://amstat-jsm.conferencecontent.net/exhibitors/88)
+  d. AIG Mixer on Wed Aug 5 5-6pm via Zoom; see [Slack Channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) for connection information
+  e. [Planning for next year](https://docs.google.com/document/d/1L2QQuUqAYxvSv2OlSRlYtsvk0vdO8iDa3gLQHk6lS3k/edit?usp=sharing)
+  f. Other events
+4. External Coordination
+5. Web presence
+  a. Website, contact email, and email exploder
+  b. Social media: [Slack](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET), twitter, etc
+  c. Logo
 
 #### | [Top](#astrostatistics-sessions-at-jsm-2020) |
 
