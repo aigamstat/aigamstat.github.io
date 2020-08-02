@@ -14,7 +14,12 @@ layout: default
 
 
 ---
-# Latest News 
+# Latest News
+
+## AIG Business Meeting during JSM 2020
+### Aug 3, 2020
+The Astrostatistics Interest Group will hold its annual business meeting at 1pm on Aug 3 via Zoom.  For details, see the [JSM 2020 program](./jsm2020/index.html#aig-business-meeting).
+
 ## JSM 2020 astrostatistics program
 ### June 2, 2020
 The Astrostatistics Interest Group is happy to announce our contributions to the [JSM 2020 program](./jsm2020/index.html)
