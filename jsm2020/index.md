@@ -82,7 +82,7 @@ The business meeting of the AIG was held on the afternoon of Aug 3 via Zoom.
    Organizer(s): Hyungsuk Tak, Pennsylvania State University  
    Chair(s): Hyungsuk Tak, Pennsylvania State University  
 
-- `1:05 PM` 	**Handling Model Uncertainty via Smoothed Inference** <a href="https://drive.google.com/file/d/17U864ED7Udk6REh-bez_Y9C53TiGudUT/view"><font color="#FF4C00">[Slides]</font><a>
+- `1:05 PM` 	**Handling Model Uncertainty via Smoothed Inference** <a href="https://drive.google.com/file/d/17U864ED7Udk6REh-bez_Y9C53TiGudUT/view"><font color="#FF4C00">[Slides]</font></a>
    *Sara Algeri, University of Minnesota*  
    Classical inferential methods often rely on the assumption that one among the models specified under the null or alternative hypothesis provides a suitable representation of the data under study. Unfortunately, when conducting searches for new physics, the specification of a correct model for the data is not always an easy task. Consequently, the validity and the sensitivity of the experiment under study may be substantially compromised. Algeri (2020) introduced a novel statistical approach to perform modeling, estimation, and inference under background mismodeling for large samples in the continuous setting. This work aims to extend the framework proposed in Algeri (2020) to arbitrary large samples from continuous or discrete distributions.
 
