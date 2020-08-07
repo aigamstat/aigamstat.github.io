@@ -202,7 +202,7 @@ The business meeting of the AIG was held on the afternoon of Aug 3 via Zoom.
    Organizer(s): Eric Feigelson, Pennsylvania State University  
    Chair(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian  
 
-- `1:05 PM` 	**Challenges for detecting gravitational wave signals**  
+- `1:05 PM` 	**Challenges for detecting gravitational wave signals** [[Slides]](https://drive.google.com/file/d/1gIUeCO__z-wiDyycwqLcqth-awkxDV_v/view)  
    *Jess McIver, Univ of British Columbia*  
    Ground-based gravitational-wave detector data is non-stationary and contains a high rate of transient noise artifacts. This transient noise can mimic or obscure true astrophysical gravitational-wave events, reducing the effective reach of searches for these signals. This talk will summarize the methods employed by the LIGO, Virgo, and KAGRA collaborations to characterize and mitigate the impact of transient noise, including regression, statistical correlation, and machine learning.
 
