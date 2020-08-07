@@ -172,7 +172,7 @@ The business meeting of the AIG was held on the afternoon of Aug 3 via Zoom.
    Organizer(s): Vinay Kashyap, Center for Astrophysics \| Harvard & Smithsonian  
    Chair(s): Gwendolyn M Eadie, University of Toronto  
 
-- `10:05 AM` 	**The Astrophysics Data Access Infrastructure**  
+- `10:05 AM` 	**The Astrophysics Data Access Infrastructure** [[Slides]](https://drive.google.com/file/d/1Igd8ci_WYA9E0IRyuIzMuSDtPCIjNoTX/view?usp=sharing)  
    *Peter Kelsey George Williams, Center for Astrophysics \| Harvard & Smithsonian*  
    The field of astronomy has traditionally had a very open and robust infrastructure for data access, perhaps due to the fact that astronomical data generally have no economic value. From 20th-century collections of photographic plates to modern databases synthesizing the measurements reported in thousands of journal articles, astronomers have long recognized that sharing and standardization of data enable new science not anticipated by the original investigators. The value of this tradition is becoming even more pronounced as industry-driven data science methods spread and Web technologies enable ever more powerful forms of remote data access and exploration. However, the data rates of modern astronomical instruments -- terabytes per night -- are pushing the existing infrastructure and astronomers' technical skills to the limit. I will provide an overview of the astronomical data access landscape and offer some predictions of how it may evolve in the future.
 
