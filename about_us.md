@@ -23,7 +23,7 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 - Chair: Vinay Kashyap
 - Program Chair: Gwendolyn Eadie
 - Secretary (2020/2021): Bo Ning
-- Webmaster (2019/2020): Luis Campos
+- Web Director (2019/2020): Luis Campos
 
 - Chair-Elect: Peter Freeman
 - Program Chair Elect: Sara Algeri
@@ -35,7 +35,7 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 - Chair: Chad Schafer
 - Program Chair: David Stenning
 - Secretary (2018/2019): Yang Chen
-- Webmaster (2019/2020): Luis Campos
+- Web Director (2019/2020): Luis Campos
 
 - Chair-Elect: Vinay Kashyap
 - Program Chair Elect: Gwendolyn Eadie
@@ -59,7 +59,7 @@ Jessi Cisewski, David Van Dyk, and Thomas C. M. Lee
 - Chair: one year term (1/1/[year]-12/31/[year])
 - Program Chair: one year term (1/1/[year]-12/31/[year])
 - Secretary: two year term (1/1/[even year]-12/31/[odd year])
-- Webmaster: two year term (1/1/[odd year]-12/31/[even year])
+- Web Director: two year term (1/1/[odd year]-12/31/[even year])
 
 
 # Charter
