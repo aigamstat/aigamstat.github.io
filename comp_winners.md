@@ -15,14 +15,14 @@ layout: default
 
 See the [Session Program](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) for abstracts and schedule.
 
-- Winner \\
+# Winner \\
    **Josh Speagle** (Harvard) -- *Photometric Biases in Modern Surveys*
 
-- Finalists \\
-   **Richard Feder-Staehle** (Cal Tech) -- *Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending*
-   **Matthew Ho** (Carnegie Mellon) -- *A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters*
-   **Oliver Philcox** (Princeton) -- *Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach*
-   **Collin Poitisch** (Carnegie Mellon) -- *Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy*
+# Finalists \\
+  * **Richard Feder-Staehle** (Cal Tech) -- *Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending*
+  * **Matthew Ho** (Carnegie Mellon) -- *A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters*
+  * **Oliver Philcox** (Princeton) -- *Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach*
+  * **Collin Poitisch** (Carnegie Mellon) -- *Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy*
 
 ## JSM 2019 Student Paper Competition
 
