@@ -15,8 +15,8 @@ layout: default
 
 See the [Session Program](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) for abstracts and schedule.
 
-- Winner
-   **Josh Speagle** (Harvard) -- *Photometric Biases in Modern Surveys*
+- Winner \\
+**Josh Speagle** (Harvard) -- *Photometric Biases in Modern Surveys*
 
 - Finalists
   * **Richard Feder-Staehle** (Cal Tech) -- *Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending*
