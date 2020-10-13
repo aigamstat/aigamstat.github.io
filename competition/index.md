@@ -12,7 +12,7 @@ layout: default
 # Previous Winners
 Here is a list of the [previous winners](./winners.html)
 
-# Best Student Paper Award 2021
+# [Best Student Paper Award 2021](./AIG_student_paper_competition_2021.pdf)
 ## ASA Astrostatistics Interest Group
 
 The Astrostatistics Interest Group of the American Statistical Association (ASA/AIG) is pleased to sponsor a student paper competition for research in the statistical application, methodological, or theoretical development to problems in astronomy, astrophysics, or cosmology. The winner and (up to) four finalists will present their papers in the ASA Astrostatistics Interest Group Topic-contributed session at JSM 2021. The overall winner will also receive a cash prize of $500.
@@ -33,3 +33,5 @@ Formal application consists of sending an e-mail to Dr. Vinay Kashyap (vkashyap@
 ## Selection of winners:
 
 Papers will be blind-reviewed by a committee determined by the officers of the Astrostatistics Interest Group. Criteria for selection will include, but are not limited to, novelty in theory/methods/applications, significance and potential impact of the research, and clarity of writing and presentation. Decisions of the committee are final. A maximum of 5 finalists will be announced by mid-January of 2021. The Winner will also be selected at this time, but will be announced only during the dedicated topic-contributed session during JSM 2021. To be eligible for the overall prize, finalists must submit abstracts and register for JSM through the official JSM abstract submission system. (Those who are not selected as finalists are still strongly encouraged to submit a contributed abstract to JSM 2021.) Finalists must attend and present their work in the ASA Astrostatistics Interest Group Topic-contributed session at JSM 2021, on the topic of their paper.
+
+### pdf: [https://astrostat.org/competition/AIG_student_paper_competition_2021.pdf](./AIG_student_paper_competition_2021.pdf)
