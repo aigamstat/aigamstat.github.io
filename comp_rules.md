@@ -19,7 +19,7 @@ The Astrostatistics Interest Group of the American Statistical Association (ASA/
 
 ## Eligibility:
 
-To be eligible for this award, the candidate must have been a full-time student (undergraduate, master's, or Ph.D.) as of October 1, 2020. The candidate must be the principal contributor to a research paper, and the advisor (or another co-author) must write a letter stating that the candidate had primary responsibility for the research and write-up. The candidate must be a member of the ASA Astrostatistics Interest Group (to join, see the details on the [interest group website](./join.html)). Students who have previously won the Best Astrostatistics Paper award are not eligible to participate. The ASA has additional policies for student paper competitions, familiarize yourself with those [here](http://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx).
+To be eligible for this award, the candidate must have been a full-time student (undergraduate, master's, or Ph.D.) as of September 1, 2020. The candidate must be the principal contributor to a research paper, and the advisor (or another co-author) must write a letter stating that the candidate had primary responsibility for the research and write-up. The candidate must be a member of the ASA Astrostatistics Interest Group (to join, see the details on the [interest group website](./join.html)). Students who have previously won the Best Astrostatistics Paper award are not eligible to participate. The ASA has additional policies for student paper competitions, familiarize yourself with those [here](http://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx).
 
 ## Application deadline: December 12, 2020.
 
