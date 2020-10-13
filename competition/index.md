@@ -10,7 +10,7 @@ layout: default
 <a href="../join.html" class="btn">Join Us</a>
 
 # Previous Winners
-Here is a list of the [previous winners](./comp_winners.html)
+Here is a list of the [previous winners](./winners.html)
 
 # Best Student Paper Award 2021
 ## ASA Astrostatistics Interest Group
