@@ -12,6 +12,10 @@ layout: default
 
 # Latest News 
 
+# Call for Papers: 2021 Student Paper Competition
+### Oct 13, 2020
+> We are pleased to announce the third annual student paper competition for research in the statistical application, methodological, or theoretical development to problems in astronomy, astrophysics, or cosmology.  The deadline is December 12, 2020.  The overall winner will also receive a cash prize of $500. See the [Competitions](./comp_rules.html) page for more information.
+
 # AIG Business Meeting during JSM 2020
 ### Aug 3, 2020
 The Astrostatistics Interest Group will hold its annual business meeting at 1pm on Aug 3 via Zoom.  For details, see the [JSM 2020 program](./jsm2020/index.html#aig-business-meeting).
