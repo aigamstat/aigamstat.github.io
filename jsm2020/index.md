@@ -7,7 +7,7 @@ layout: default
 <a href="../about_us.html" class="btn">About Us</a>
 <a href="../news.html" class="btn">News</a>
 <a href="https://ww2.amstat.org/meetings/jsm/2020/index.cfm" class="btn">[JSM 2020]</a>
-<a href="../comp_rules.html" class="btn">Competitions</a>
+<a href="../competition/" class="btn">Competitions</a>
 <a href="../join.html" class="btn">Join Us</a>
 
 ---
@@ -134,7 +134,7 @@ The business meeting of the AIG was held on the afternoon of Aug 3 via Zoom.
 ### Wed Aug 5, 2020, 1:00pm - 2:50pm EDT
 ## 219559 [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) -- Topic Contributed Papers
 
-   [Information about Student Paper competition](https://astrostat.org/comp_rules.html#best-student-paper-award-2020)  
+   [Information about Student Paper competition](https://astrostat.org/competition/index.html#best-student-paper-award-2020)  
 
    Astrostatistics Special Interest Group  
    Organizer(s): Gwendolyn M Eadie, University of Toronto  
