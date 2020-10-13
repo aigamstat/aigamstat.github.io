@@ -11,7 +11,7 @@ layout: default
 
 # Paper Competition Winners
 
-## [JSM 2020 Student Paper Competition](https://astrostat.org/comp_rules.html#best-student-paper-award-2020)
+## [JSM 2020 Student Paper Competition](https://astrostat.org/jsm2020/index.html#session-401)
 
 See the [Session Program](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) for abstracts and schedule.
 
