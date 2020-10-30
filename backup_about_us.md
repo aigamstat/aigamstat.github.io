@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<a href="./index.html" class="btn">Home</a> <a href="./about_us.html" class="btn">About Us</a>
+<a href="./index.html" class="btn">Home</a>
+<a href="./about_us.html" class="btn">About Us</a>
 <a href="./news.html" class="btn">News</a>
 <a href="./jsm2020/index.html" class="btn">JSM 2020</a>
 <a href="./competition/" class="btn">Competitions</a>
@@ -17,17 +18,6 @@ layout: default
 On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.amstat.org/blog/2014/08/01/astrostats-group/)
 
 # Officers
-
-### 2021
-- Chair: Peter Freeman
-- Program Chair: Sara Algeri
-- Secretary (2020/2021): Bo Ning
-- Web Director (2021/2022): _TBD_
-
-- Chair-Elect: _TBD_
-- Program Chair Elect: _TBD_
-
-- Past Chair: Vinay Kashyap
 
 ### 2020
 - Chair: Vinay Kashyap
@@ -83,16 +73,14 @@ The name of this organization is the Astrostatistics Interest Group of the Ameri
 
 <p style="text-align: center;"> ARTICLE II. SCOPE</p>
 
-During the Annual meeting of the AIG on Aug 3, 2020, a number of amendments were [considered](https://astrostat.org/jsm2020/AIG_JSM2020_Agenda.pdf).  The older text is shown below with ~~strikethrough text~~ and the changes are shown in **bold.**
-
 
 The objective of the Interest Group is to:
 
-1. Expose statisticians to astronomy as a fruitful area of collaborative methodological development and educate them as to the abundant, diverse, and challenging quantitative problems faced by astronomers -- from the small-scale particle nature of dark matter to the large-scale structure of the Universe, and everything in between.
+1. Expose statisticians to astronomy as a fruitful area of collaborative methodological development and educate them as to the abundant, diverse, and challenging quantitative problems faced by astronomers — from the small-scale particle nature of dark matter to the large-scale structure of the Universe, and everything in between.
 
 2. Advertise and promote conferences, workshops, summer schools, and events at the intersection of astronomy, astro-particle physics, astrophysics, computer science, cosmology, solar physics, and statistics.
 
-3. Establish and maintain connections with related working groups ~~in astronomy in the U.S. and internationally, such as with the International Astrostatistics Association (IAA), and including an affiliation with the Astrostatistics and Astroinformatics Portal (ASAIP)~~ **in the U.S., Canada, and internationally.**
+3. Establish and maintain connections with related working groups in astronomy in the U.S. and internationally, such as with the International Astrostatistics Association (IAA), and including an affiliation with the Astrostatistics and Astroinformatics Portal (ASAIP).
 
 
 <p style="text-align: center;"> ARTICLE III. MEMBERSHIP </p>
@@ -104,15 +92,15 @@ Membership in the Interest Group is open to anyone interested in Astrostatistics
 <p style="text-align: center;"> ARTICLE IV. MEETINGS </p>
 
 
-The annual business meeting of the Interest Group shall be held in connection with the annual Joint Statistical Meetings and shall be announced in advance, preferably in the program for that meeting. Business may also be conducted with the Interest Group members ~~by mail and/or email~~ **through electronic media or teleconferences.**
+The annual business meeting of the Interest Group shall be held in connection with the annual Joint Statistical Meetings and shall be announced in advance, preferably in the program for that meeting. Business may also be conducted with the Interest Group members by mail and/or email.
 
 <p style="text-align: center;"> ARTICLE V. OFFICERS </p>
 
-The officers of this Interest Group shall consist of the Chair, Chair-elect, Program Chair, Program Chair-elect, ~~and~~ the Secretary, **and the Web Director.** Terms of all the officers shall be one year except for the Secretary **and the Web Director** which shall be two years.
+The officers of this Interest Group shall consist of the Chair, Chair-elect, Program Chair, Program Chair-elect, and the Secretary. Terms of all the officers shall be one year except for the Secretary which shall be two years.
 
-The Chair is responsible for the Interest Group Annual Business meeting at JSM. The Program Chair is responsible for the Interest Group program at the JSM meeting. The Secretary is responsible for taking minutes at the Interest Group Annual Business meeting and maintaining a roster of the Interest Group's members. **The Web Director is responsible for internet infrastructure and coordinating with other astrostatistics groups.**
+The Chair is responsible for the Interest Group Annual Business meeting at JSM. The Program Chair is responsible for the Interest Group program at the JSM meeting. The Secretary is responsible for taking minutes at the Interest Group Annual Business meeting and maintaining a roster of the Interest Group's members.
 
-No officer shall be eligible for immediate re-election to the same office except the Secretary. The Chair-elect and the Program Chair-elect shall automatically succeed the Chair and Program Chair, respectively, at the ~~annual~~ change of officers, which shall occur on January 1.
+No officer shall be eligible for immediate re-election to the same office except the Secretary. The Chair-elect and the Program Chair-elect shall automatically succeed the Chair and Program Chair, respectively, at the annual change of officers, which shall occur on January 1.
 
 <p style="text-align: center;"> ARTICLE VI. VACANCIES IN OFFICE </p>
 
@@ -126,4 +114,4 @@ Each year the Nominating Committee shall submit no later than September 1st to t
 
 <p style="text-align: center;"> ARTICLE VIII. AMENDMENTS </p>
 
-Amendments to this charter may be ~~proposed by the six officers~~ **proposed by any of the officers** of the Interest Group or by petition signed by at least 15 members of the Interest Group and submitted to the Interest Group officers. The proposed amendment shall be submitted to the Interest Group members for vote at the time of the annual election of officers. If approved by a majority of the Interest Group members voting, the amendment is approved. An approved amendment shall be effective immediately, unless otherwise specified in the amendment itself.
+Amendments to this charter may be proposed by the six officers of the Interest Group or by petition signed by at least 15 members of the Interest Group and submitted to the Interest Group officers. The proposed amendment shall be submitted to the Interest Group members for vote at the time of the annual election of officers. If approved by a majority of the Interest Group members voting, the amendment is approved. An approved amendment shall be effective immediately, unless otherwise specified in the amendment itself.
