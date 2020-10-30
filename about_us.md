@@ -75,6 +75,8 @@ Jessi Cisewski, David Van Dyk, and Thomas C. M. Lee
 # Charter
 <p style="text-align: center;"> CHARTER FOR THE ASTROSTATISTICS INTEREST GROUP </p>
 
+During the Annual meeting of the AIG on Aug 3, 2020, a number of amendments were [considered](https://astrostat.org/jsm2020/AIG_JSM2020_Agenda.pdf).  The older text is shown below with ~~strikethrough text~~ and the changes are shown in **bold.**
+
 <p style="text-align: center;"> ARTICLE I. NAME </p>
 
 
@@ -82,8 +84,6 @@ The name of this organization is the Astrostatistics Interest Group of the Ameri
 
 
 <p style="text-align: center;"> ARTICLE II. SCOPE</p>
-
-During the Annual meeting of the AIG on Aug 3, 2020, a number of amendments were [considered](https://astrostat.org/jsm2020/AIG_JSM2020_Agenda.pdf).  The older text is shown below with ~~strikethrough text~~ and the changes are shown in **bold.**
 
 
 The objective of the Interest Group is to:
