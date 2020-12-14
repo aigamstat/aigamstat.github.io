@@ -21,7 +21,7 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 ### 2021
 - Chair: Peter Freeman (CMU)
 - Program Chair: Sara Algeri (Minnesota)
-- Secretary (2020/2021): Bo Ning (Yale)
+- Secretary (2020/2021): Bo Ning (Sorbonne)
 - Web Director (2021/2022): Josh Speagle (Toronto)
 
 - Chair-Elect: Derek Bingham (Simon Fraser)
@@ -32,7 +32,7 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 ### 2020
 - Chair: Vinay Kashyap (CfA)
 - Program Chair: Gwendolyn Eadie (Toronto)
-- Secretary (2020/2021): Bo Ning (Yale)
+- Secretary (2020/2021): Bo Ning (Sorbonne)
 - Web Director (2019/2020): Luis Campos (Etsy)
 
 - Chair-Elect: Peter Freeman (CMU)
