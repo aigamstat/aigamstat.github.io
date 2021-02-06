@@ -12,6 +12,17 @@ layout: default
 
 # Latest News 
 
+# 2021 Student Paper Competition
+### Feb 2, 2021, Finalists
+
+After a grueling review process that involved 21 high-quality submissions, we are excited to announce the finalists of the 3<sup>rd</sup> Annual [Student Paper Competition](./competition/).  The winner of the contest will be announced during the Joint Statistics Meeting in Aug 2021.  All the finalists will present their work at a dedicated session (date/time TBA).  In alphabetical order, the finalists are
+- **Alex Gagliano (UIUC)** *GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae*
+- **Karthik Reddy (UMaryland)** *X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets*
+- **Lu Li (Shanghai)** *Modeling unresolved binaries of open clusters in the color-magnitude diagram*
+- **Matt Nixon (Cambridge)** *Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets*
+- **Willow Fox-Fortino (UPenn)** *Reducing ground-based astrometric errors with Gaia and Gaussian processes*
+
+
 # Call for Papers: 2021 Student Paper Competition
 ### Oct 13, 2020
 > We are pleased to announce the third annual student paper competition for research in the statistical application, methodological, or theoretical development to problems in astronomy, astrophysics, or cosmology.  The deadline is December 12, 2020.  The overall winner will also receive a cash prize of $500. See the [Competitions](./competition/) page for more information.
