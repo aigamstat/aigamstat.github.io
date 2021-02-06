@@ -9,8 +9,8 @@ layout: default
 <a href="./join.html" class="btn">Join AIG</a>
 <a href="./competition/" class="btn">Competitions</a>
 <a href="./news.html" class="btn">News</a>
-<a href="./jsm2020/index.html" class="btn">JSM 2020</a>
-<a href="./jsm2021/index.html" class="btn">JSM 2021</a>
+<a href="./jsm2021/index.html" class="btn">JSM</a>
+<a href="https://www.amstat.org" class="btn">AmStat</a>
 
 ![AIG @JSM 2018](./images/jsm_astrostat_meeting.jpg)
 <p style="text-align: center;">Astrostatistics Interest Group at JSM 2018, Vancouver, BC </p>
@@ -35,9 +35,9 @@ Five astrostatistics sessions have been approved during [JSM 2021](./jsm2021/ind
 #### Jan 1, 2021
 New [office bearers](./about_us.html#officers) have been installed for the year 2021.
 
-## AIG Business Meeting during JSM 2020
+## AIG Business Meeting 2020
 #### Aug 3, 2020
-The Astrostatistics Interest Group held its annual business meeting at 1pm on Aug 3 via Zoom.  For details, see the [JSM 2020 program](./jsm2020/index.html#aig-business-meeting).
+The Astrostatistics Interest Group held its annual business meeting via Zoom at 1pm on Aug 3 during the JSM.  For details, see the [JSM 2020 program](./jsm2020/index.html#aig-business-meeting).
 
 ---
 

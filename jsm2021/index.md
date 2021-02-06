@@ -7,6 +7,7 @@ layout: default
 <a href="../join.html" class="btn">Join AIG</a>
 <a href="../news.html" class="btn">News</a>
 <a href="../competition/" class="btn">Competitions</a>
+<a href="../jsm2020/index.html" class="btn">JSM 2020</a>
 <a href="https://ww2.amstat.org/meetings/jsm/2021/" class="btn">[JSM 2021]</a>
 
 ---
