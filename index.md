@@ -4,13 +4,12 @@ layout: default
 
 
 
-<a href="./index.html" class="btn">Home</a>
 <a href="./about_us.html" class="btn">About ASA/AIG</a>
 <a href="./join.html" class="btn">Join AIG</a>
 <a href="./competition/" class="btn">Competitions</a>
 <a href="./news.html" class="btn">News</a>
 <a href="./jsm2021/index.html" class="btn">JSM</a>
-<a href="https://www.amstat.org" class="btn">AmStat</a>
+<a href="https://www.amstat.org" class="btn">[ASA]</a>
 
 ![AIG @JSM 2018](./images/jsm_astrostat_meeting.jpg)
 <p style="text-align: center;">Astrostatistics Interest Group at JSM 2018, Vancouver, BC </p>
