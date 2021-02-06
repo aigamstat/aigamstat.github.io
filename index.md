@@ -35,7 +35,7 @@ Five astrostatistics sessions have been approved during [JSM 2021](./jsm2021/ind
 New [office bearers](./about_us.html#officers) have been installed for the year 2021.
 
 ## AIG Business Meeting during JSM 2020
-### Aug 3, 2020
+#### Aug 3, 2020
 The Astrostatistics Interest Group held its annual business meeting at 1pm on Aug 3 via Zoom.  For details, see the [JSM 2020 program](./jsm2020/index.html#aig-business-meeting).
 
 ---
@@ -47,3 +47,7 @@ The Astrostatistics Interest Group held its annual business meeting at 1pm on Au
 3. Check out our [Library]() and look through recent papers on astrostatistics
 4. Start attending Astronomy seminars at your organization
 
+# Contact
+
+- Email: aigamstat (at gmail)
+- Slack: [AIG Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET)
