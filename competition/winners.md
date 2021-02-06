@@ -11,6 +11,15 @@ layout: default
 
 # Paper Competition Winners
 
+## [JSM 2021 Student Paper Competition](https://astrostat.org/jsm2021/index.html)
+
+- Finalists
+  * **Alex Gagliano (UIUC)** *GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae*
+  * **Karthik Reddy (UMaryland)** *X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets*
+  * **Lu Li (Shanghai Obs)** *Modeling unresolved binaries of open clusters in the color-magnitude diagram*
+  * **Matt Nixon (Cambridge)** *Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets*
+  * **Willow Fox-Fortino (UPenn)** *Reducing ground-based astrometric errors with Gaia and Gaussian processes*
+
 ## [JSM 2020 Student Paper Competition](https://astrostat.org/jsm2020/index.html#session-401)
 
 See the [Session Program](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) for abstracts and schedule.
