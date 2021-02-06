@@ -9,6 +9,7 @@ layout: default
 <a href="./join.html" class="btn">Join AIG</a>
 <a href="./competition/" class="btn">Competitions</a>
 <a href="./news.html" class="btn">News</a>
+<a href="./jsm2020/index.html" class="btn">JSM 2020</a>
 <a href="./jsm2021/index.html" class="btn">JSM 2021</a>
 
 ![AIG @JSM 2018](./images/jsm_astrostat_meeting.jpg)
