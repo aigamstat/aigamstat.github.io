@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Beware the Kolmogorov-Smirnov test!</title>
+
+</head>
+
+<body>
+	
+	<h2> Beware the Kolmogorov-Smirnov test! </h2>
+	
+	<h3> Eric D. Feigelson & G. Jogesh Babu <br>
+	Center for Astrostatistics, Penn State University</h3>
+
+The Kolmogorov-Smirnov (KS) test is used in over 500 refereed papers each year in the astronomical literature.  It is a nonparametric hypothesis test that measures the probability that a chosen univariate dataset is drawn from the same parent population as a second dataset (the two-sample KS test) or a continuous model (the one-sample KS test).   The test is based on the KS statistics that measures the supremum (greatest) distance between the empirical distribution function (EDF) of a univariate dataset and the comparison step function of the second dataset (or its cumulative distribution function).  In both cases, the underlying population distribution is assumed to be continuous.
+
+<img src="Kolmogorov-Smirnov.png" width="500"/>
+<br>
+	
+In many ways, the KS test seems fantastic for astronomical use.  Its strengths include:
+<ul>
+ 	<li>The test is <strong>distribution-free,</strong> under a continuity assumption for the univariate population/model distribution, giving valid probabilities for any underlying distribution of the original and comparison dataset.  This is particularly valuable for astronomy, as we usually do not know the mathematical distribution of observed properties of planets, stars, galaxies, and so forth.</li>
+ 	<li>It can be <strong>universally applied</strong> without restriction to any scientific problem.  For example, there is no restriction on the size of the sample,</li>
+ 	<li><strong>Critical values</strong> of probabilities are widely available, with asymptotic formulae for large samples (roughly n &gt; 30) and tabulated values for small samples.</li>
+ 	<li>The one-sample KS test can serve as a <strong>goodness-of-fit test</strong> following regression or other procedure.  This is critically important in scientific inference as a link between astronomical data and astrophysical theory.</li>
+ 	<li>The statistic is <strong>easy to compute</strong>, readily understood graphically, and <strong>familiar</strong> to nearly all astronomers.</li>
+</ul>
+
+But the apparent simplicity of the KS test is misleading in several ways, The first point below shows that, even when valid to apply, it is often not very sensitive in establishing distances between two distributions, and a similar EDF-based test gives a better performance.   The later points below give situations where astronomers use the KS test in situations for which it is not designed, arriving at incorrect probabilities for the desired hypothesis test.
+
+&nbsp;
+<ol>
+ 	<li><strong>Anderson-Darling test. </strong>The KS test is most sensitive when the EDFs differ in a global fashion near the center of the distribution.&nbsp; But if there are repeated deviations between the EDFs, or the EDFs have (or are adjusted to have) the same mean values, then the EDFs cross each other multiple times and the maximum deviation between the distributions is reduced.&nbsp; The Cramer-von Mises (CvM) test&nbsp; that measures the sum of square deviations between the EDFs treats this case well.&nbsp; But both the KS and CvM statistics are insensitive when the differences between the curves is most prominent near the beginning or end of the distributions.&nbsp; This is because, by construction, the EDFs converge to 0.0 and 1.0 at the ends and any deviations must be small.&nbsp; The Anderson-Darling (AD) test was developed in the 1950s as a tail-weighted CvM test to overcome this deficiency.&nbsp; In extensive tests, it is always more sensitive than the KS test.&nbsp; It is nonparametric and distribution free, so it can always be applied.&nbsp; The distribution of the AD statistics for small samples is complicated, and computational algorithms have only recently been developed.&nbsp; This has impeded the promulgation of the method in astronomy and other fields.&nbsp; Critical probability values of the AD test can be computed using function <i>ad.test</i>&nbsp;in CRAN package nortest (and several other CRAN packages) in the&nbsp;<i>R</i> statistical software environment or scipy.stats.anderson and scipy.stats.anderson_ksamp functions in Python.</li>
+</ol>
+<img src="Kolmogorov-Smirnov-2.png" width="600"/><br>
+
+<strong>2.  KS test probabilities are wrong if the model was derived from the dataset. </strong>This constraint may seem strange.  An astronomer often seeks a model that fits a chosen dataset, with best fit parameters chosen by least squares regression,  maximum likelihood estimation, or Bayesian inference.  It then seems natural to evaluate the goodness-of-fit of the model using the KS test.  However, the theory underlying the KS and similar EDF-based tests require independence between the curves under consideration.  The model must be derived from another dataset, or from external astrophysical considerations, for the standard KS test probabilities to be applied.  Fortunately, the KS (or better, AD) statistic can still be computed, and the significance level of the difference between the EDF curves can be estimated by <i>bootstrap resamples</i> of the original dataset.  Bootstrap resampling is conceptually and computationally simple, and the theory underlying the bootstrap guarantee that the resulting significance levels are unbiased for a wide range of situations.<br><br>
+
+<strong>3.  The KS test can not be applied in two or more dimensions. </strong>Astronomers often have datasets with points distributed in a plane or higher dimensions, rather than along a line.  Several papers in the astronomical literature purport to present a two-dimensional KS test, and one is reproduced in the famous volume <i>Numerical Recipes</i>.  However, no EDF-based test (this includes KS, AD and related tests) can be applied in two or higher dimensions, because there is no unique way to order the points so that distances between well-defined EDFs can be computed.  One can construct a statistic based on some ordering procedure, and then compute the supremum distances between two datasets (or one dataset and a curve).  But the critical values of the resulting statistic are not distribution-free.  However, again the bootstrap can come to the rescue, and significance levels for the particular multidimensional statistic and the particular dataset under study can be numerically computed. CRAN package <em> cramer </em> provides an example of this approach for the 2-dimensional Cramer-von Mises test. <br><br>
+
+<strong>In summary</strong>, we recommend that astronomers replace the Kolmogorov-Smirnov test with the similar, but more sensitive, Anderson-Darling test.  Either test can be with standard tabulated critical values for comparison with an independent dataset or preselected model.  Be cautious when using the tabulated probabilities of the KS or AD tests, as they may be inapplicable in some situations, such as comparing two mutually dependent distributions.  We recommend that the distribution of the KS or AD statistic should be confirmed with bootstrap resampling.  Bootstrap resampling, and cautious interpretation, are also needed when constructing <i>ad hoc </i>statistics related to the KS test in two or more dimensions. <br><br>
+
+<strong>References</strong>
+
+<br><br>
+
+General textbooks:<br>
+
+Conover, W, J. <i><a class="external-link" href="http://www.amazon.com/Practical-Nonparametric-Statistics-Wiley-Probability/dp/0471160687">Practical Nonparametric Statistics</a></i> (1999) 3rd ed, Wiley
+
+<br><br>
+
+Comparisons of KS, CvM and AD tests:<br>
+
+Stephens, M.A. (1974), <a class="external-link" href="http://www.jstor.org/discover/10.2307/2286009?uid=3739864&amp;uid=2129&amp;uid=2&amp;uid=70&amp;uid=4&amp;uid=3739256&amp;sid=21101801578827">EDF statistics for goodness of fit and some comparisons</a>, <i>J. Amer. Stat. Assn.</i>, 69, 730-737 <br>
+
+Hou, A., Parker, L. C.. Harris, W. E.. Wilman, D. J. (2009), <a class="external-link" href="http://adsabs.harvard.edu/abs/2009ApJ...702.1199H">Statistical Tools for Classifying Galaxy Group Dynamics</a>, <i>Astrophys. J</i>., 702, 1199-1210
+
+<br><br>
+
+Anderson-Darling test critical values:<br>
+
+<a class="external-link" href="http://math.usm.my/bulletin/pdf/v29n1/v29n1p2.pdf">http://math.usm.my/bulletin/pdf/v29n1/v29n1p2.pdf</a><br> 
+
+<a class="external-link" href="http://www.jstor.org/stable/pdfplus/2286009.pdf">http://www.jstor.org/stable/pdfplus/2286009.pdf</a><br>
+
+<a class="external-link" href="http://www.jstatsoft.org/v09/i02/paper">http://www.jstatsoft.org/v09/i02/paper</a><br>
+
+<a class="external-link" href="http://cran.r-project.org/web/packages/ADGofTest/ADGofTest.pdf">http://cran.r-project.org/web/packages/ADGofTest/ADGofTest.pdf</a><br>
+
+<a class="external-link" title="" href="https://cran.r-project.org/web/packages/kSamples/kSamples.pdf" target="_self" rel="noopener noreferrer">https://cran.r-project.org/web/packages/kSamples/kSamples.pdf</a>
+
+<br><br>
+
+Limitations of the KS test: <br>
+
+Babu, G. J.  &amp; Rao, C. R. (2004) <a class="external-link" href="http://sites.stat.psu.edu/~babu/mypdfpap/2004Sankhya66.pdf">Goodness-of-fit tests when parameters are estimated</a>, <i>Sankhya</i>, 66, 63074 <br>
+
+Lilliefors, H. W. (1969) <a class="external-link" href="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD0701308">On the Kolmogorov-Smirnov test for the exponential distribution for mean unknown</a>, <i>J. Amer. Stat. Assn.</i>, 64, 387-389 <br>
+
+Simpson, P. B. (1951) <a class="external-link" href="http://www.jstor.org/discover/10.2307/2236640?uid=3739864&amp;uid=2129&amp;uid=2&amp;uid=70&amp;uid=4&amp;uid=3739256&amp;sid=21101801578827">Note on the estimation of a bivariate distribution function</a>, <i>Annals Math. Stat.</i>, 22, 476-478 
+	
+<br><br>
+
+
+Discussion of goodness-of-fit methods:
+<br>
+
+D'Agostino, R. B. &amp; Stephens, M. A., eds. (1986) <i><a class="external-link" href="http://www.amazon.com/Goodness-fit-techniques-Statistics-Textbooks-Monographs/dp/0824774876">Goodness-of-Fit Techniques</a></i>, Marcel Dekker<br>
+
+Huber-Carol, C., Balakrishnan, N., Nikulin, M. S. &amp; Mesbah, M., eds. (2002) <i><a class="external-link" href="http://www.amazon.com/Goodness--Validity-Statistics-Industry-Technology/dp/0817642099/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1360722039&amp;sr=1-1&amp;keywords=huber-carol+Goodness-of-Fit+Tests+and+Model+Validity">Goodness-of-Fit Tests and Model Validity</a></i>, Birkhauser 
+
+<br><br>
+
+Discussions of these issues by us:<br>
+
+G. J. Babu &amp; E. D. Feigelson (2006) <a class="external-link" href="http://adsabs.harvard.edu/abs/2006ASPC..351..127B">Astrostatistics: Goodness-of-fit and all that!</a>, in <i>Astronomical Data Analysis Software and Systems XV</i> (eds. C. Gabriel et al.), ASP Conf. #351, 127 <br>
+
+Feigelson, E. D. &amp; Babu, G. J. (2012) <i><a class="external-link" href="http://www.cambridge.org/us/knowledge/isbn/item6682071/?site_locale=en_US">Modern Statistical Methods for Astronomy with R Applications</a></i>, Cambridge Univ Press (Chpt 3)
+
+</div>
+</div>
+</body>
+</html>
