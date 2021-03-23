@@ -49,7 +49,7 @@ We are excited to announce the finalists of the 2<sup>nd</sup> Annual [Student P
 - **Richard Feder-Staehle** (Cal Tech) -- *Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending*
 - **Matthew Ho** (Carnegie Mellon) -- *A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters*
 - **Oliver Philcox** (Princeton) -- *Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach*
-- **Collin Poitisch** (Carnegie Mellon) -- *Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy*
+- **Collin Politsch** (Carnegie Mellon) -- *Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy*
 - **Josh Speagle** (Harvard) -- *Photometric Biases in Modern Surveys*
 
 
