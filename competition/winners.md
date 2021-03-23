@@ -25,13 +25,13 @@ layout: default
 See the [Session Program](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/ActivityDetails.cfm?SessionID=219559) for abstracts and schedule.
 
 - Winner \\
-**Josh Speagle** (Harvard) -- *[Photometric Biases in Modern Surveys](https://ui.adsabs.harvard.edu/abs/2020AJ....159..165P/abstract)*
+**Josh Speagle** (Harvard) -- *[Photometric Biases in Modern Surveys](https://ui.adsabs.harvard.edu/abs/2020AJ....159..165P/abstract)* <br> Portillo, S.K.N., Speagle, J.S., &amp; Finkbeiner, D.P., 2020, AJ, 159, 165
 
 - Finalists
-  * **Richard Feder-Staehle** (Cal Tech) -- *[Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending](https://ui.adsabs.harvard.edu/abs/2020AJ....159..163F/abstract)*
-  * **Matthew Ho** (Carnegie Mellon) -- *[A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters](https://ui.adsabs.harvard.edu/abs/2019ApJ...887...25H/abstract)*
-  * **Oliver Philcox** (Princeton) -- *[Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach](https://ui.adsabs.harvard.edu/abs/2019ApJ...887....9P/abstract)*
-  * **Collin Politsch** (Carnegie Mellon) -- *[Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.4005P/abstract)*
+  * **Richard Feder-Staehle** (Cal Tech) -- *[Multiband Probabilistic Cataloging: A Joint Fitting Approach to Point Source Detection and Deblending](https://ui.adsabs.harvard.edu/abs/2020AJ....159..163F/abstract)* <br> Feder, R.M., Portillo, S.K.N., Daylan, T., &amp; Finkbeiner, D., 2020, AJ, 159, 163
+  * **Matthew Ho** (Carnegie Mellon) -- *[A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters](https://ui.adsabs.harvard.edu/abs/2019ApJ...887...25H/abstract)* <br> Ho, M., Rau, M.M., Ntampaka, M., Farahi, A., Trac, H., &amp; Poczos, B., 2019, ApJ, 887, 25
+  * **Oliver Philcox** (Princeton) -- *[Inferring Galactic Parameters from Chemical Abundances: A Multi-Star Approach](https://ui.adsabs.harvard.edu/abs/2019ApJ...887....9P/abstract)* <br> Philcox, O., &amp; Rybicki, J., 2019, ApJ, 887, 9
+  * **Collin Politsch** (Carnegie Mellon) -- *[Trend Filtering: A Modern Statistical Tool for Time-Domain Astronomy and Astronomical Spectroscopy](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.4005P/abstract)* <br> Politsch, C., Cisewski-Kehe, J., Croft, R.A.C., &amp; Wasserman, L., 2020, MNRAS, 492, 4005
 
 ## JSM 2019 Student Paper Competition
 
