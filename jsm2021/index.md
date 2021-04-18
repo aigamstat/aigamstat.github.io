@@ -26,14 +26,14 @@ The business meeting of the AIG is to be held on TBD
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 # Student Paper Award
-### DATE TBD
+### Date TBD
 ## SESSION ID TBD [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=SessionID) -- Topic Contributed Papers
 
-   [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
+  [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
 
-   Astrostatistics Special Interest Group  
-   Organizer(s): Sara Algeri, University of Minnesota
-   Chair(s): Vinay Kashyap, Center for Astrophysics | Harvard &amp; Smithsonian
+  Astrostatistics Special Interest Group  
+  Organizer(s): Sara Algeri, University of Minnesota
+  Chair(s): Vinay Kashyap, Center for Astrophysics | Harvard &amp; Smithsonian
 
 - **GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae**
   *Alex Gagliano, University of Illinois Urbana-Champaign*
@@ -52,11 +52,11 @@ The business meeting of the AIG is to be held on TBD
 ### Date TBD
 ## [Statistical Challenges in Cosmology](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220603)
 
-   The era of precision cosmology has brought many statistical challenges to the fore of the field. In this session a mixed group of astronomer/statistician speakers will discuss a variety of modern "cosmostatistical" problems.
+  The era of precision cosmology has brought many statistical challenges to the fore of the field. In this session a mixed group of astronomer/statistician speakers will discuss a variety of modern "cosmostatistical" problems.
 
-   Sponsored by the Section on Non-parametric Statistics
-   Organizer(s): Collin Politsch (CMU)
-   Chair(s): Jessi Cisewski-Kehe (Madison)
+  Sponsored by the Section on Non-parametric Statistics
+  Organizer(s): Collin Politsch (CMU)
+  Chair(s): Jessi Cisewski-Kehe (Madison)
 
 - **TBD**
   *Yin Li (Flatiron Institute CCA)*
