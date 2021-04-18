@@ -32,8 +32,8 @@ The business meeting of the AIG is to be held on TBD
   [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
 
   Astrostatistics Special Interest Group  
-  Organizer(s): Sara Algeri, University of Minnesota
-  Chair(s): Vinay Kashyap, Center for Astrophysics | Harvard &amp; Smithsonian
+  Organizer(s): Sara Algeri, University of Minnesota  
+  Chair(s): Vinay Kashyap, Center for Astrophysics | Harvard &amp; Smithsonian  
 
 - **GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae**
   *Alex Gagliano, University of Illinois Urbana-Champaign*
@@ -54,9 +54,9 @@ The business meeting of the AIG is to be held on TBD
 
   The era of precision cosmology has brought many statistical challenges to the fore of the field. In this session a mixed group of astronomer/statistician speakers will discuss a variety of modern "cosmostatistical" problems.
 
-  Sponsored by the Section on Non-parametric Statistics
-  Organizer(s): Collin Politsch (CMU)
-  Chair(s): Jessi Cisewski-Kehe (Madison)
+  Sponsored by the Section on Non-parametric Statistics  
+  Organizer(s): Collin Politsch (CMU)  
+  Chair(s): Jessi Cisewski-Kehe (Madison)  
 
 - **TBD**
   *Yin Li (Flatiron Institute CCA)*
