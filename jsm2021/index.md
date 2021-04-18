@@ -14,20 +14,20 @@ layout: default
 ### Aug 7-12, 2021
 # Astrostatistics sessions at JSM
 
-#### INDEX | Student Paper Award | 2 Invited Sessions | 2 Topic Contributed Sessions
+#### INDEX | [AIG meeting](#aig-annual-meeting) | [Student Paper Award](#student-paper-award) | [Statistical Challenges in Cosmology](#session-id-220603) | Other sessions
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
 # AIG Annual Meeting
 ### Date TBD
 
-The business meeting of the AIG was held on TBD
+The business meeting of the AIG is to be held on TBD
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-# Session TBD
+# Student Paper Award
 ### DATE TBD
-## SESSION [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=SessionID) -- Topic Contributed Papers
+## SESSION ID TBD [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=SessionID) -- Topic Contributed Papers
 
    [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
 
@@ -48,13 +48,26 @@ The business meeting of the AIG was held on TBD
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-# Other Sessions TBC
-### DATE TBD
-## SESSION
+# Session ID 220603
+### Date TBD
+## [Statistical Challenges in Cosmology](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220603)
 
-#### | [Top](#astrostatistics-sessions-at-jsm) |
+   The era of precision cosmology has brought many statistical challenges to the fore of the field. In this session a mixed group of astronomer/statistician speakers will discuss a variety of modern "cosmostatistical" problems.
 
-# Other events of interest
+   Sponsored by the Section on Non-parametric Statistics
+   Organizer(s): Collin Politsch (CMU)
+   Chair(s): Jessi Cisewski-Kehe (Madison)
+
+- **TBD**
+  *Yin Li (Flatiron Institute CCA)*
+- **TBD** 
+  *Collin Politsch (CMU)*
+- **TBD**
+  *Maximilian Autenrieth (Imperial College)*
+- **TBD**
+  *Markus Rau (CMU)*
+- **Discussant**
+  *Chad Schafer (CMU)*
 
 -  TBD
 
