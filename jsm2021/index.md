@@ -25,9 +25,9 @@ The business meeting of the AIG is to be held on TBD
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-# Session 220444
+## Session 220444
 ### Date TBD
-## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=SessionID) -- Topic Contributed Papers
+# [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=SessionID) -- Topic Contributed Papers
 
   [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
 
@@ -48,9 +48,9 @@ The business meeting of the AIG is to be held on TBD
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-# Session 220603
+## Session 220603
 ### Date TBD
-## [Statistical Challenges in Cosmology](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220603)
+# [Statistical Challenges in Cosmology](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220603) -- Topic Contributed Papers
 
   The era of precision cosmology has brought many statistical challenges to the fore of the field. In this session a mixed group of astronomer/statistician speakers will discuss a variety of modern "cosmostatistical" problems.
 
