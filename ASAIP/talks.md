@@ -8,4 +8,6 @@ layout: default
 <a href="./conf.html" class="btn">Conferences/Workshops</a>
 <a href="./talks.html" class="btn">Seminars/Symposia/Talks</a>
 
-ASAIP Placeholder
+* Talks/Seminars/Symposia/Colloquia
+
+Placeholder
