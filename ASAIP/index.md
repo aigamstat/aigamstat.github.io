@@ -7,5 +7,10 @@ layout: default
 <a href="./jobs.html" class="btn">Job</a>
 <a href="./conf.html" class="btn">Conferences/Workshops</a>
 <a href="./talks.html" class="btn">Seminars/Symposia/Talks</a>
+[Contact](#contact)
 
 ASAIP Placeholder
+
+# Contact
+
+- Email: asaiportal at gmail
