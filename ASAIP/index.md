@@ -9,7 +9,10 @@ layout: default
 <a href="./talks.html" class="btn">Talks</a>
 <a href="./index.html#contact" class="btn">Contact</a>
 
-ASAIP Placeholder
+# ASAIP
+## Astro-Statistics and Astro-Informatics Portal
+
+Placeholder
 
 # Contact
 

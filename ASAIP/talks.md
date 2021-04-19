@@ -9,7 +9,7 @@ layout: default
 <a href="./talks.html" class="btn">Talks</a>
 <a href="./index.html#contact" class="btn">Contact</a>
 
-* Talks/Seminars/Symposia/Colloquia
+# Talks/Seminars/Symposia/Colloquia
 
 Placeholder
 
