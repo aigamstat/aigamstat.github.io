@@ -35,16 +35,16 @@ The business meeting of the AIG is to be held on TBD
   Organizer(s): Sara Algeri, University of Minnesota  
   Chair(s): Vinay Kashyap, Center for Astrophysics | Harvard &amp; Smithsonian  
 
-- **GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae**
-  *Alex Gagliano, University of Illinois Urbana-Champaign*
-- **X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets**
-  *Karthik Reddy, UMaryland*
-- **Modeling unresolved binaries of open clusters in the color-magnitude diagram**
-  *Lu Li, Shanghai Astronomical Observatory*
-- **Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets**
-  *Matt Nixon, University of Cambridge Clare College*
-- **Reducing ground-based astrometric errors with Gaia and Gaussian processes**
-  *Willow Fox-Fortino, University of Pennsylvania*
+- **GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae**  
+  *Alex Gagliano, University of Illinois Urbana-Champaign*  
+- **X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets**  
+  *Karthik Reddy, UMaryland*  
+- **Modeling unresolved binaries of open clusters in the color-magnitude diagram**  
+  *Lu Li, Shanghai Astronomical Observatory*  
+- **Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets**  
+  *Matt Nixon, University of Cambridge Clare College*  
+- **Reducing ground-based astrometric errors with Gaia and Gaussian processes**  
+  *Willow Fox-Fortino, University of Pennsylvania*  
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
@@ -58,16 +58,16 @@ The business meeting of the AIG is to be held on TBD
   Organizer(s): Collin Politsch (CMU)  
   Chair(s): Jessi Cisewski-Kehe (Madison)  
 
-- **Learning to predict structure formation in the Universe**
-  *Yin Li (Flatiron Institute CCA)*
-- **Three-dimensional cosmography of the high-redshift Universe using intergalactic absorption** 
-  *Collin Politsch (CMU)*
-- **Stratified Learning: A general-purpose method for supervised learning under covariate shift with applications to observational cosmology**
-  *Maximilian Autenrieth (Imperial College)*
-- **Cosmological Parameter Inference in Photometric Surveys: An Inverse Problem**
-  *Markus Rau (CMU)*
-- **Discussant**
-  *Chad Schafer (CMU)*
+- **Learning to predict structure formation in the Universe**  
+  *Yin Li (Flatiron Institute CCA)*  
+- **Three-dimensional cosmography of the high-redshift Universe using intergalactic absorption**   
+  *Collin Politsch (CMU)*  
+- **Stratified Learning: A general-purpose method for supervised learning under covariate shift with applications to observational cosmology**  
+  *Maximilian Autenrieth (Imperial College)*  
+- **Cosmological Parameter Inference in Photometric Surveys: An Inverse Problem**  
+  *Markus Rau (CMU)*  
+- **Discussant**  
+  *Chad Schafer (CMU)*  
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
