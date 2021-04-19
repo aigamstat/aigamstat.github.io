@@ -7,7 +7,7 @@ layout: default
 <a href="./jobs.html" class="btn">Job</a>
 <a href="./conf.html" class="btn">Conferences</a>
 <a href="./talks.html" class="btn">Talks</a>
-[Contact](#contact)
+<a href="./index.html#contact" class="btn">Contact</a>
 
 ASAIP Placeholder
 
