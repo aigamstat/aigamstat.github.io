@@ -14,7 +14,7 @@ layout: default
 ### Aug 7-12, 2021
 # Astrostatistics sessions at JSM
 
-#### INDEX | [AIG meeting](#aig-annual-meeting) | [Student Paper Award](#sessionid-tbd) | [Statistical Challenges in Cosmology](#session-220603) | Other sessions
+#### INDEX | [AIG meeting](#aig-annual-meeting) | [Student Paper Award](#session-220444) | [Statistical Challenges in Cosmology](#session-220603) | Other sessions
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
@@ -25,7 +25,7 @@ The business meeting of the AIG is to be held on TBD
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-# SessionID TBD
+# Session 220444
 ### Date TBD
 ## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=SessionID) -- Topic Contributed Papers
 
