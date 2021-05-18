@@ -150,8 +150,6 @@ The business meeting of the AIG is to be held on TBD
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-#### [Telling the story of our galaxy and beyond](#session-220261) | Other sessions
-
 ## Session 220261
 ### Thursday Aug 12 2021, Noon-1:50pm EDT
 ## [Astrostatistics: Telling the story of our galaxy and beyond](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220261) -- Invited Papers
