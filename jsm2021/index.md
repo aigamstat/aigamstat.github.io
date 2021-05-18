@@ -14,11 +14,11 @@ layout: default
 ### Aug 7-12, 2021
 # Astrostatistics sessions at JSM
 
-#### INDEX | [AIG meeting](#aig-annual-meeting) | [Statistical Answers to Astrophysical Questions](#session-220142) | [Solar Flare Predictions I](#session-220521) | [Data-Rich Universe with Data-Driven Approaches](#session-220569) |  [Statistical Challenges in Cosmology](#session-220603) | [Student Paper Award](#session-220444) | [Telling the story of our galaxy and beyond](#session-220261) | Other sessions
+#### INDEX | [AIG meeting](#aig-annual-meeting) | [Statistical Answers to Astrophysical Questions](#session-220142) | [Solar Flare Predictions I](#session-220521) | [Data-Rich Universe with Data-Driven Approaches](#session-220569) |  [Statistical Challenges in Cosmology](#session-220603) | [Student Paper Award](#session-220444) | [Telling the story of our galaxy and beyond](#session-220261) | [Other events](other-events-of-interest)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
-# AIG Annual Meeting
+## AIG Annual Meeting
 ### Date TBD
 
 The business meeting of the AIG is to be held on TBD
@@ -27,7 +27,7 @@ The business meeting of the AIG is to be held on TBD
 
 ## Session 220142
 ### Sunday Aug 8 2021, 3:30pm-5:20pm
-# [Statistical Answers to astrophysical questions: a vital chapter in the chase for new discoveries](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220142) -- Invited Papers
+## [Statistical Answers to astrophysical questions: a vital chapter in the chase for new discoveries](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220142) -- Invited Papers
 
   Section on Statistical Computing, Section on Physical and Engineering Sciences, Section on Nonparametric Statistics  
   Organizer(s): Sara Algeri, University of Minnesota  
@@ -54,7 +54,7 @@ The business meeting of the AIG is to be held on TBD
 
 ## Session 220521
 ### Monday Aug 9 2021, 10:00am-11:50am
-# [Statistical and Machine Learning Efforts on Solar Flare Predictions I](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220521) -- Topic Contributed Papers
+## [Statistical and Machine Learning Efforts on Solar Flare Predictions I](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220521) -- Topic Contributed Papers
 
   Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Learning and Data Science  
   Organizer(s): Yang Chen, University of Michigan  
@@ -78,7 +78,7 @@ The business meeting of the AIG is to be held on TBD
 
 ## Session 220569
 ### Tuesday Aug 10 2021, 10:00am-11:50am
-# [Understanding a Data-Rich Universe with Data-Driven Approaches](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220569) -- Topic Contributed Panel
+## [Understanding a Data-Rich Universe with Data-Driven Approaches](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220569) -- Topic Contributed Panel
 
   Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science, Astrostatistics Special Interest Group  
   Organizer(s): Joshua Shen Speagle, University of Toronto  
@@ -98,7 +98,7 @@ The business meeting of the AIG is to be held on TBD
 
 ## Session 220603
 ### Wednesday Aug 11 2021, 3:30pm-5:20pm
-# [Statistical Challenges in Cosmology](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220603) -- Topic Contributed Papers
+## [Statistical Challenges in Cosmology](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220603) -- Topic Contributed Papers
 
   Section on Nonparametric Statistics, Astrostatistics Special Interest Group, Section on Statistical Learning and Data Science, Section on Physical and Engineering Sciences  
 
@@ -124,11 +124,9 @@ The business meeting of the AIG is to be held on TBD
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-#### [Student Paper Award](#session-220444) | [Telling the story of our galaxy and beyond](#session-220261) | Other sessions
-
 ## Session 220444
 ### Thursday Aug 12 2021, 10:00am-11:50pm  
-# [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220444) -- Topic Contributed Papers
+## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220444) -- Topic Contributed Papers
 
   [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
 
@@ -153,7 +151,7 @@ The business meeting of the AIG is to be held on TBD
 
 ## Session 220261
 ### Thursday Aug 12 2021, Noon-1:50pm  
-# [Astrostatistics: Telling the story of our galaxy and beyond](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220261) -- Invited Papers
+## [Astrostatistics: Telling the story of our galaxy and beyond](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220261) -- Invited Papers
 
   SSC (Statistical Society of Canada), Astrostatistics Special Interest Group  
 
@@ -176,14 +174,7 @@ The business meeting of the AIG is to be held on TBD
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-# Other Sessions
-
-TBC
-
-#### | [Top](#astrostatistics-sessions-at-jsm) |
-
-
-# Other events of interest
+## Other events of interest
 
 TBD
 
