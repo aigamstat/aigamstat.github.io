@@ -15,7 +15,15 @@ layout: default
 # Astrostatistics sessions at JSM
 
 ## INDEX
-#### [AIG meeting](#aig-annual-meeting) | [Statistical Answers to Astrophysical Questions](#session-220142) | [Solar Flare Predictions I](#session-220521) | [Data-Rich Universe with Data-Driven Approaches](#session-220569) |  [Statistical Challenges in Cosmology](#session-220603) | [Student Paper Award](#session-220444) | [Telling the story of our galaxy and beyond](#session-220261) | [Solar Flare Predictions II](#session-220262) | [Other events](other-events-of-interest)
+#### [AIG meeting](#aig-annual-meeting)
+| [Student Paper Award](#session-220444)
+| [Statistical Answers to Astrophysical Questions](#session-220142)
+| [Telling the story of our galaxy and beyond](#session-220261)
+| [Data-Rich Universe with Data-Driven Approaches](#session-220569)
+| [Statistical Challenges in Cosmology](#session-220603)
+| [Solar Flare Predictions I](#session-220521)
+| [Solar Flare Predictions II](#session-220262)
+| [Other events](other-events-of-interest)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
@@ -199,21 +207,6 @@ The business meeting of the AIG is to be held on TBD
   *Yang Chen, University of Michigan*  
 
 - **1:45 pm:** Floor Discussion
-
-
-(https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317599) 
-  *KD Leka, NorthWest Research Associates; Graham Barnes, NorthWest Research Associates*  
-
-- **10:25 am:** [Multivariate time series dataset for space weather data analytics](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317805)
-  *Rafal Angryk, Georgia State University*  
-
-- **10:45 am:** [Improving and Interpreting Flare Prediction with Spatial Statistics Analysis of the Magnet Field Data](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317464)
-  *Hu Sun, University of Michigan, Ann Arbor; Ward Manchester, University of Michigan, Ann Arbor; Yang Chen, University of Michigan*
-
-- **11:05 am:** [Solar Flare Index Prediction using Functional Additive Regression](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317808)  
-  *Zuofeng Shang, New Jersey Institute of Technology*  
-
-- **11:45 am:** Floor Discussion
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
