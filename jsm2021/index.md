@@ -14,6 +14,8 @@ layout: default
 ### Aug 7-12, 2021
 # Astrostatistics sessions at JSM
 
+**Note: all times are in Eastern Daylight Time (GMT+4)**
+
 ## INDEX
 #### [AIG meeting](#aig-annual-meeting) | [Student Paper Award](#session-220444) | [Statistical Answers to Astrophysical Questions](#session-220142) | [Telling the story of our galaxy and beyond](#session-220261) | [Data-Rich Universe with Data-Driven Approaches](#session-220569) | [Statistical Challenges in Cosmology](#session-220603) | [Solar Flare Predictions I](#session-220521) | [Solar Flare Predictions II](#session-220622) | [Other events](other-events-of-interest)
 
@@ -27,7 +29,7 @@ The business meeting of the AIG is to be held on TBD
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Session 220142
-### Sunday Aug 8 2021, 3:30pm-5:20pm
+### Sunday Aug 8 2021, 3:30pm-5:20pm EDT
 ## [Statistical Answers to astrophysical questions: a vital chapter in the chase for new discoveries](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220142) -- Invited Papers
 
   Section on Statistical Computing, Section on Physical and Engineering Sciences, Section on Nonparametric Statistics  
@@ -54,7 +56,7 @@ The business meeting of the AIG is to be held on TBD
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Session 220521
-### Monday Aug 9 2021, 10:00am-11:50am
+### Monday Aug 9 2021, 10:00am-11:50am EDT
 ## [Statistical and Machine Learning Efforts on Solar Flare Predictions I](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220521) -- Topic Contributed Papers
 
   Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Statistical Learning and Data Science  
@@ -78,7 +80,7 @@ The business meeting of the AIG is to be held on TBD
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Session 220569
-### Tuesday Aug 10 2021, 10:00am-11:50am
+### Tuesday Aug 10 2021, 10:00am-11:50am EDT
 ## [Understanding a Data-Rich Universe with Data-Driven Approaches](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220569) -- Topic Contributed Panel
 
   Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science, Astrostatistics Special Interest Group  
@@ -98,7 +100,7 @@ The business meeting of the AIG is to be held on TBD
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Session 220603
-### Wednesday Aug 11 2021, 3:30pm-5:20pm
+### Wednesday Aug 11 2021, 3:30pm-5:20pm EDT
 ## [Statistical Challenges in Cosmology](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220603) -- Topic Contributed Papers
 
   Section on Nonparametric Statistics, Astrostatistics Special Interest Group, Section on Statistical Learning and Data Science, Section on Physical and Engineering Sciences  
@@ -126,7 +128,7 @@ The business meeting of the AIG is to be held on TBD
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Session 220444
-### Thursday Aug 12 2021, 10:00am-11:50pm  
+### Thursday Aug 12 2021, 10:00am-11:50pm EDT
 ## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220444) -- Topic Contributed Papers
 
   [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
@@ -151,7 +153,7 @@ The business meeting of the AIG is to be held on TBD
 #### [Telling the story of our galaxy and beyond](#session-220261) | Other sessions
 
 ## Session 220261
-### Thursday Aug 12 2021, Noon-1:50pm  
+### Thursday Aug 12 2021, Noon-1:50pm EDT
 ## [Astrostatistics: Telling the story of our galaxy and beyond](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220261) -- Invited Papers
 
   SSC (Statistical Society of Canada), Astrostatistics Special Interest Group  
@@ -176,7 +178,7 @@ The business meeting of the AIG is to be held on TBD
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Session 220622
-### Thursday Aug 12 2021, Noon-1:50pm
+### Thursday Aug 12 2021, Noon-1:50pm EDT
 ## [Statistical and Machine Learning Efforts on Solar Flare Predictions II](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?sessionid=220622) -- Topic Contributed Papers
 
   Section on Physical and Engineering Sciences
