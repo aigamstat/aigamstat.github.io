@@ -15,15 +15,7 @@ layout: default
 # Astrostatistics sessions at JSM
 
 ## INDEX
-#### [AIG meeting](#aig-annual-meeting)
-| [Student Paper Award](#session-220444)
-| [Statistical Answers to Astrophysical Questions](#session-220142)
-| [Telling the story of our galaxy and beyond](#session-220261)
-| [Data-Rich Universe with Data-Driven Approaches](#session-220569)
-| [Statistical Challenges in Cosmology](#session-220603)
-| [Solar Flare Predictions I](#session-220521)
-| [Solar Flare Predictions II](#session-220262)
-| [Other events](other-events-of-interest)
+#### [AIG meeting](#aig-annual-meeting) | [Student Paper Award](#session-220444) | [Statistical Answers to Astrophysical Questions](#session-220142) | [Telling the story of our galaxy and beyond](#session-220261) | [Data-Rich Universe with Data-Driven Approaches](#session-220569) | [Statistical Challenges in Cosmology](#session-220603) | [Solar Flare Predictions I](#session-220521) | [Solar Flare Predictions II](#session-220622) | [Other events](other-events-of-interest)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
