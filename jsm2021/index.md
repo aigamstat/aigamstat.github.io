@@ -22,9 +22,9 @@ layout: default
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
 ## AIG Annual Meeting
-### Date TBD
+### Tuesday Aug 10 2021, 1:00pm-3:00pm EDT
 
-The business meeting of the AIG is to be held on TBD
+The business meeting of the AIG is to be held on the afternoon of Aug 10 starting at 1pm EDT.  An agenda will be circulated closer to the date.
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
