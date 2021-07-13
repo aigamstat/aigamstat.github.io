@@ -186,7 +186,7 @@ The business meeting of the AIG is to be held on the afternoon of Aug 10 startin
 - **12:05 pm:** [How to Solve Open Questions in Solar Event Prediction](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317512)  
   *Monica Bobra, Stanford University*  
 
-- **12:25 pm:** [Identifying Flux Rope Signatures based on `human' and `machine learning' techniques](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317806)  
+- **12:25 pm:** [Identifying Flux Rope Signatures based on human and machine learning techniques](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317806)  
   *Teresa Nieves-chinchilla, Heliophysics Science Division of the Goddard Space Flight Center (GSFC)*  
 
 - **12:45 pm:** [Gaussian graphical models for active region modeling and flare prediction](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317479)  
