@@ -204,7 +204,23 @@ The business meeting of the AIG is to be held on the afternoon of Aug 10 startin
 
 ## Other events of interest
 
-TBD
+  The following sessions feature methodological and applied work that may appeal to those working with astronomical data:
+
+- **Session 18:** [Uncertainty Quantification Across the Boundaries](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220252)
+
+- **Session 37:** [Advances in Statistical Climatology](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220179)
+
+- **Session 84:** [Advances in Spatio-Temporal Statistics with Applications to Environmental Data](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220543)
+
+- **Session 197:** [New Methods for Scalable Nonstationary Spatial Statistics](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220193)
+
+- **Session 217:** [High-Fidelity Gaussian Process Surrogate Modeling: Deep and Shallow](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220128)
+
+- **Session 261:** [Statistical Learning for Environmental Data Science](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220141)
+
+- **Session 267:** [Statistical Methods for Large Spatial Data](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220355)
+
+- **Session 435:** [Volume, Velocity, and Variety in Environmental Statistics: New Perspectives and Methods](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220526)
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
