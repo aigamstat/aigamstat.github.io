@@ -33,7 +33,7 @@ The agenda will circulated closer to the meeting time.
 
 To see news and announcements regarding JSM and the astrostatistics sessions,
 or to simply ask questions, go to
-[this Slack workspace](astrostatisti-dzq6013.slack.com) and go to
+[this Slack workspace](https://astrostatisti-dzq6013.slack.com/x-p1071525927828-1068608198114-2351887732176/) and go to
 the #jsm2021 channel.
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
