@@ -24,7 +24,17 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 ## AIG Annual Meeting
 ### Tuesday Aug 10 2021, 1:00pm-3:00pm EDT
 
-The business meeting of the AIG is to be held on the afternoon of Aug 10 starting at 1pm EDT.  An agenda will be circulated closer to the date.
+The business meeting of the AIG is to be held remotely on 
+[Zoom](https://cmu.zoom.us/j/96807799658?pwd=cS9sbXBxSHZuOGhuUGp3UWJ3bnpCdz09).
+
+The agenda will circulated closer to the meeting time.
+
+## JSM Astrostatistics Slack Channel
+
+To see news and announcements regarding JSM and the astrostatistics sessions,
+or to simply ask questions, go to
+[this Slack workspace](astrostatisti-dzq6013.slack.com) and go to
+the #jsm2021 channel.
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
