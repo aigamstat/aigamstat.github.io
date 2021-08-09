@@ -22,7 +22,8 @@ The virtual table for the Astrostatistics Interest Group is located off the main
 **Note: all times are in EDT, Eastern Daylight Time (GMT+4)**
 
 ## INDEX
-#### [AIG meeting](#aig-annual-meeting) | [Student Paper Award](#session-220444) | [Statistical Answers to Astrophysical Questions](#session-220142) | [Telling the story of our galaxy and beyond](#session-220261) | [Data-Rich Universe with Data-Driven Approaches](#session-220569) | [Statistical Challenges in Cosmology](#session-220603) | [Solar Flare Predictions I](#session-220521) | [Solar Flare Predictions II](#session-220622) | [Other events](#other-events-of-interest)
+#### [AIG meeting](#aig-annual-meeting) | [Student Paper Award](#session-220444) 
+#### [Statistical Answers to Astrophysical Questions](#session-220142) | [Telling the story of our galaxy and beyond](#session-220261) | [Data-Rich Universe with Data-Driven Approaches](#session-220569) | [Statistical Challenges in Cosmology](#session-220603) | [Solar Flare Predictions I](#session-220521) | [Solar Flare Predictions II](#session-220622) | [Other events](#other-events-of-interest)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
@@ -218,6 +219,8 @@ the #jsm2021 channel.
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Other events of interest
+
+  The [AIG Virtual Community Table](https://jsm2021.pathable.co/organizations/fqjZNX2bGnC8TY7iq) is accessible via the "More --&gt; Conversations" tab at the right hand side of the JSM webpage menubar.
 
   The following sessions feature methodological and applied work that may appeal to those working with astronomical data:
 
