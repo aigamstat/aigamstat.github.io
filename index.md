@@ -4,7 +4,7 @@ layout: default
 
 
 
-<a href="./about_us.html" class="btn">About ASA/AIG</a>
+<a href="./about_us.html" class="btn">About Us</a>
 <a href="./join.html" class="btn">Join AIG</a>
 <a href="./competition/" class="btn">Competitions</a>
 <a href="./news.html" class="btn">News</a>

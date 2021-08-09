@@ -3,10 +3,13 @@ layout: default
 ---
 
 <a href="../index.html" class="btn">Home</a>
+<a href="../about_us.html" class="btn">About Us</a>
 <a href="../join.html" class="btn">Join AIG</a>
 <a href="../news.html" class="btn">News</a>
-<a href="../jsm2021/index.html" class="btn">JSM 2021</a>
+<a href="../jsm2021/" class="btn">JSM 2021</a>
+<!--
 <a href="./index.html" class="btn">Competitions</a>
+-->
 
 # Best Student Paper Award
 ## ASA Astrostatistics Interest Group
