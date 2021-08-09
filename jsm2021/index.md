@@ -12,6 +12,11 @@ layout: default
 
 ---
 ### Aug 7-12, 2021
+
+# AIG Community Table
+
+The virtual table for the Astrostatistics Interest Group is located off the main JSM page, under "Conversations" and then under "Community Tables."
+
 # Astrostatistics sessions at JSM
 
 **Note: all times are in EDT, Eastern Daylight Time (GMT+4)**
