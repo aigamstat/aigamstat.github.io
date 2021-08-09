@@ -2,10 +2,14 @@
 layout: default
 ---
 
-<a href="./index.html" class="btn">Home</a> <a href="./about_us.html" class="btn">About ASA/AIG</a>
+<a href="./index.html" class="btn">Home</a> 
+<!-- 
+<a href="./about_us.html" class="btn">About ASA/AIG</a>
+-->
 <a href="./join.html" class="btn">Join AIG</a>
-<a href="./news.html" class="btn">News</a>
 <a href="./competition/" class="btn">Competitions</a>
+<a href="./news.html" class="btn">News</a>
+<a href="./jsm2021/" class="btn">JSM</a>
 
 - [Learn More About Us](#learn-more-about-us)
 - [Officers](#officers)
