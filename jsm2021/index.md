@@ -32,7 +32,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 The business meeting of the AIG is to be held remotely on 
 [Zoom](https://cmu.zoom.us/j/96807799658?pwd=cS9sbXBxSHZuOGhuUGp3UWJ3bnpCdz09).
 
-The agenda will circulated closer to the meeting time.
+We will discuss JSM activities, review the leadership structure with an eye towards upcoming elections, get the lowdown on who all is in the AIG, quickly review the charter, talk about the budget, determine what we want to do with the rest of our AIG lives, and then let the process get bogged down with sniping and recrimination. (But not the last part.)
 
 ## JSM Astrostatistics Slack Channel
 
