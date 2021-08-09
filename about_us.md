@@ -105,7 +105,7 @@ The annual business meeting of the Interest Group shall be held in connection wi
 
 <p style="text-align: center;"> ARTICLE V. OFFICERS </p>
 
-The officers of this Interest Group shall consist of the Chair, Chair-elect, Program Chair, Program Chair-elect, the Secretary, and the Web Director. Terms of all the officers shall be one year except for the Secretary and the Web Directorwhich shall be two years.
+The officers of this Interest Group shall consist of the Chair, Chair-elect, Program Chair, Program Chair-elect, the Secretary, and the Web Director. Terms of all the officers shall be one year except for the Secretary and the Web Director which shall be two years.
 
 The Chair is responsible for the Interest Group Annual Business meeting at JSM. The Program Chair is responsible for the Interest Group program at the JSM meeting. The Secretary is responsible for taking minutes at the Interest Group Annual Business meeting and maintaining a roster of the Interest Group's members. The Web Director is responsible for internet infrastructure and coordinating with other astrostatistics groups.
 
