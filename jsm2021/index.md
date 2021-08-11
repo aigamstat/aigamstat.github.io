@@ -35,7 +35,7 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 
 The business meeting of the AIG was held remotely.
 
-Click [here](http://www.stat.cmu.edu/pfreeman/AIG_Business_2021.pdf) to see the slides.
+Click [here](http://www.stat.cmu.edu/~pfreeman/AIG_Business_2021.pdf) to see the slides.
 
 <!--
 We will discuss JSM activities, review the leadership structure with an eye towards upcoming elections, get the lowdown on who all is in the AIG, quickly review the charter, talk about the budget, determine what we want to do with the rest of our AIG lives, and then let the process get bogged down with sniping and recrimination. (But not the last part.)
