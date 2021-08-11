@@ -166,10 +166,10 @@ the #jsm2021 channel.
   *Karthik Reddy Solipuram, UMBC; Markos Georganopoulos, UMBC; Eileen T. Meyer, UMBC*  
 - **10:45 am:** [Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317364)  
   *Matthew Conor Nixon, Institute of Astronomy, University of Cambridge; Nikku Madhusudhan, Institute of Astronomy, University of Cambridge*  
-- **11:05 am:** [Reducing ground-based astrometric errors with Gaia and Gaussian processes](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317521)  
-  *Willow Fox-Fortino, University of Delaware*  
-- **11:25 am:** [GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317566)  
+- **11:05 am:** [GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317566)  
   *Alexander Thomas Gagliano, University of Illinois Urbana-Champaign*  
+- **WITHDRAWN** [Reducing ground-based astrometric errors with Gaia and Gaussian processes](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317521)  
+  *Willow Fox-Fortino, University of Delaware*  
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
