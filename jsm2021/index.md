@@ -60,6 +60,7 @@ the #jsm2021 channel.
 
 - **3:35 pm:** [Low Hanging Fruit: Common analysis problems in astronomy without statistically principled solutions](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=314425)  
   *Vinay L. Kashyap, Center for Astrophysics | Harvard & Smithsonian*   
+  [Slides](./jsm2021_vlk.pdf)  
 
 - **3:55 pm:** [Hide-and-seek: Finding Earth Analags hidden in Extreme Precision Radial Velocity Spectra](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=315523)  
   *Jessi J. Cisewski-Kehe, University of Wisconsin-Madison*  
