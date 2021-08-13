@@ -163,8 +163,8 @@ the #jsm2021 channel.
 - **10:05 am:** [Modeling unresolved binaries of open clusters in the color-magnitude diagram](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317202)  
   *Lu Li, Shanghai Astronomical Observatory, CAS*  
 - **10:25 am:** [X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317353)  
-  *Karthik Reddy Solipuram, UMBC; Markos Georganopoulos, UMBC; Eileen T. Meyer, UMBC* **.pptx**  
-  [Slides (on gDrive)](https://docs.google.com/presentation/d/1T7lWShyRgXdg6JHhjKr_BEGRD8eF9Fwc/edit?usp=sharing&ouid=109405733595524793422&rtpof=true&sd=true)  
+  *Karthik Reddy Solipuram, UMBC; Markos Georganopoulos, UMBC; Eileen T. Meyer, UMBC*  
+  [Slides (on gDrive)](https://docs.google.com/presentation/d/1T7lWShyRgXdg6JHhjKr_BEGRD8eF9Fwc/edit?usp=sharing&ouid=109405733595524793422&rtpof=true&sd=true) **.pptx**   
 - **10:45 am:** [Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317364)  
   *Matthew Conor Nixon, Institute of Astronomy, University of Cambridge; Nikku Madhusudhan, Institute of Astronomy, University of Cambridge*  
 - **11:05 am:** [GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317566)  
