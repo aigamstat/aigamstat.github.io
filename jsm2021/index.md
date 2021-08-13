@@ -60,7 +60,7 @@ the #jsm2021 channel.
 
 - **3:35 pm:** [Low Hanging Fruit: Common analysis problems in astronomy without statistically principled solutions](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=314425)  
   *Vinay L. Kashyap, Center for Astrophysics | Harvard & Smithsonian*   
-  [Slides](./jsm2021_vlk.pdf)  
+  [Slides (on gDrive)](https://drive.google.com/file/d/1JtOlAnLYm4d0WidRaSbuceczyNWqNjR0/view?usp=sharing) **.pdf**  
 
 - **3:55 pm:** [Hide-and-seek: Finding Earth Analags hidden in Extreme Precision Radial Velocity Spectra](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=315523)  
   *Jessi J. Cisewski-Kehe, University of Wisconsin-Madison*  
@@ -163,11 +163,13 @@ the #jsm2021 channel.
 - **10:05 am:** [Modeling unresolved binaries of open clusters in the color-magnitude diagram](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317202)  
   *Lu Li, Shanghai Astronomical Observatory, CAS*  
 - **10:25 am:** [X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317353)  
-  *Karthik Reddy Solipuram, UMBC; Markos Georganopoulos, UMBC; Eileen T. Meyer, UMBC*  
+  *Karthik Reddy Solipuram, UMBC; Markos Georganopoulos, UMBC; Eileen T. Meyer, UMBC* **.pptx**  
+  [Slides (on gDrive)](https://docs.google.com/presentation/d/1T7lWShyRgXdg6JHhjKr_BEGRD8eF9Fwc/edit?usp=sharing&ouid=109405733595524793422&rtpof=true&sd=true)  
 - **10:45 am:** [Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317364)  
   *Matthew Conor Nixon, Institute of Astronomy, University of Cambridge; Nikku Madhusudhan, Institute of Astronomy, University of Cambridge*  
 - **11:05 am:** [GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317566)  
   *Alexander Thomas Gagliano, University of Illinois Urbana-Champaign*  
+  [Slides (on GDrive)](https://drive.google.com/file/d/1gb8_De-IFUrXeq46YSHum1DuKUmLFg2g/view?usp=sharing) **.key**  
 - **WITHDRAWN** [Reducing ground-based astrometric errors with Gaia and Gaussian processes](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317521)  
   *Willow Fox-Fortino, University of Delaware*  
 
