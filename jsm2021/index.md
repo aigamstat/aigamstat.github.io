@@ -160,16 +160,21 @@ the #jsm2021 channel.
 
 - **10:05 am:** [Modeling unresolved binaries of open clusters in the color-magnitude diagram](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317202)  
   *Lu Li, Shanghai Astronomical Observatory, CAS*  
+  [Li, L., et al. 2020, ApJ 901, 49](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...49L/abstract)  
 - **10:25 am:** [X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317353)  
   *Karthik Reddy Solipuram, UMBC; Markos Georganopoulos, UMBC; Eileen T. Meyer, UMBC*  
+  [Reddy K., et al., 2020, ApJS 253, 37](https://ui.adsabs.harvard.edu/abs/2021ApJS..253...37R/abstract)  
   [Slides (on gDrive)](https://docs.google.com/presentation/d/1T7lWShyRgXdg6JHhjKr_BEGRD8eF9Fwc/edit?usp=sharing&ouid=109405733595524793422&rtpof=true&sd=true) **.pptx**   
 - **10:45 am:** [Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317364)  
   *Matthew Conor Nixon, Institute of Astronomy, University of Cambridge; Nikku Madhusudhan, Institute of Astronomy, University of Cambridge*  
+  [Nixon &amp; Madhusudan 2020, MNRAS 496, 269](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496..269N/abstract)  
 - **11:05 am:** [GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317566)  
   *Alexander Thomas Gagliano, University of Illinois Urbana-Champaign*  
+  [Gagliano, A., et al. 2021, ApJ 908, 170](https://ui.adsabs.harvard.edu/abs/2021ApJ...908..170G/abstract)  
   [Slides (on GDrive)](https://drive.google.com/file/d/1gb8_De-IFUrXeq46YSHum1DuKUmLFg2g/view?usp=sharing) **.key**  
 - **WITHDRAWN** [Reducing ground-based astrometric errors with Gaia and Gaussian processes](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317521)  
   *Willow Fox-Fortino, University of Delaware*  
+  [Fortino, W.F., et al. 2020, arXiv:2010.13742](https://ui.adsabs.harvard.edu/abs/2020arXiv201013742F/abstract)  
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
