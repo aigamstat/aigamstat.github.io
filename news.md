@@ -14,7 +14,18 @@ layout: default
 
 # Latest News 
 
+# AIG Business Meeting during JSM 2021
+### Tuesday Aug 10 2021, 1:00pm-3:00pm EDT
+
+The business meeting of the AIG was held remotely.
+
+Click [here](http://www.stat.cmu.edu/~pfreeman/AIG_Business_2021.pdf) to see the slides.
+
 # 2021 Student Paper Competition
+### Aug 12, 2021, Winner
+
+The winner of the Best Student Paper of the Year contest is **Alex Gagliano (UIUC).**
+
 ### Feb 2, 2021, Finalists
 
 After a grueling review process that involved 21 high-quality submissions, we are excited to announce the finalists of the 3<sup>rd</sup> Annual [Student Paper Competition](./competition/).  The winner of the contest will be announced during the Joint Statistics Meeting in Aug 2021.  All the finalists will present their work at a dedicated session (date/time TBA).  In alphabetical order, the finalists are
