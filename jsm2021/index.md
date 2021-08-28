@@ -168,9 +168,10 @@ the #jsm2021 channel.
 - **10:45 am:** [Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317364)  
   *Matthew Conor Nixon, Institute of Astronomy, University of Cambridge; Nikku Madhusudhan, Institute of Astronomy, University of Cambridge*  
   [Nixon &amp; Madhusudan 2020, MNRAS 496, 269](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496..269N/abstract)  
-  [Slides (on GDrive)](https://drive.google.com/file/d/1zoInS7eYxfwSUYJaitOQ3V_6NipgQ2gF/view?usp=sharing)
+  [Slides (on GDrive)](https://drive.google.com/file/d/1zoInS7eYxfwSUYJaitOQ3V_6NipgQ2gF/view?usp=sharing) **.pdf**  
 - **11:05 am:** [GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317566)  
-  *Alexander Thomas Gagliano, University of Illinois Urbana-Champaign*  **Winner of Best Student Paper Competition**  
+  *Alexander Thomas Gagliano, University of Illinois Urbana-Champaign*  
+  **Winner of Best Student Paper Competition**  
   [Gagliano, A., et al. 2021, ApJ 908, 170](https://ui.adsabs.harvard.edu/abs/2021ApJ...908..170G/abstract)  
   [Slides (on GDrive)](https://drive.google.com/file/d/1gb8_De-IFUrXeq46YSHum1DuKUmLFg2g/view?usp=sharing) **.key**  
 - **WITHDRAWN** [Reducing ground-based astrometric errors with Gaia and Gaussian processes](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317521)  
