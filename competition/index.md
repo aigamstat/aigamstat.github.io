@@ -10,7 +10,7 @@ layout: default
 
 # 2022 AIG Student Paper Competition
 
-The Astrostatistics Interest Group of the American Statistical Association (ASA/AIG) sponsors a student paper competition for a student paper competition for research in the statistical application, methodological, or theoretical development to problems in astronomy, astrophysics, or cosmology. The winner and four other finalists will present their papers in the ASA Astrostatistics Interest Group Topic-contributed session at the 2022 Joint Statistics Meeting. Each finalist will receive $100, while the overall winner will receive an additional $400.
+The Astrostatistics Interest Group of the American Statistical Association (ASA/AIG) sponsors a student paper competition, with the submitted papers being related to the development and/or application of statistical methods to problems in astronomy, astrophysics, or cosmology. The winner and (up to) four other finalists will present their papers in the ASA Astrostatistics Interest Group Topic-contributed session at the 2022 Joint Statistics Meeting. Each finalist will receive $100, while the overall winner will receive an additional $400.
 
 ## Application deadline: 11:59 PM, December 6, 2021
 
