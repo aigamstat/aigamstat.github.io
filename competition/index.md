@@ -7,24 +7,34 @@ layout: default
 <a href="../join.html" class="btn">Join AIG</a>
 <a href="../news.html" class="btn">News</a>
 <a href="../jsm2021/" class="btn">JSM 2021</a>
-<!--
-<a href="./index.html" class="btn">Competitions</a>
--->
 
 # Best Student Paper Award
 ## ASA Astrostatistics Interest Group
 
-The Astrostatistics Interest Group of the American Statistical Association (ASA/AIG) sponsors a student paper competition for a student paper competition for research in the statistical application, methodological, or theoretical development to problems in astronomy, astrophysics, or cosmology. The winner and (up to) four finalists will present their papers in the ASA Astrostatistics Interest Group Topic-contributed session at the Joint Statistics Meeting. The overall winner also receives a cash prize of $500.
+The Astrostatistics Interest Group of the American Statistical Association (ASA/AIG) sponsors a student paper competition for a student paper competition for research in the statistical application, methodological, or theoretical development to problems in astronomy, astrophysics, or cosmology. The winner and four other finalists will present their papers in the ASA Astrostatistics Interest Group Topic-contributed session at the 2022 Joint Statistics Meeting. Each finalist will receive $100, while the overall winner will also receive $500.
 
-# Finalists for 2021
+## Eligibility:
 
-- **Alex Gagliano (UIUC)** *[GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ui.adsabs.harvard.edu/abs/2021ApJ...908..170G/abstract)* <br> Gagliano, A., Narayan, G., Engel, A., Carrasco Kind, M., LSST Dark Energy Science Collaboration, 2021, ApJ, 908, 170
-- **Karthik Reddy (UMaryland)** *[X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets](https://ui.adsabs.harvard.edu/abs/2021ApJS..253...37R/abstract)* <br> Reddy, K., Georganopoulos, M., &amp; Meyer, E.T., 2021, ApJS, 253, 37
-- **Lu Li (Shanghai Obs)** *[Modeling unresolved binaries of open clusters in the color-magnitude diagram](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...49L/abstract)* <br> Li, L., Shao, Z., Li, Z.-Z., Yu, J., Zhong, J., &amp; Chen, L., 2020, ApJ, 901, 49
-- **Matt Nixon (Cambridge)** *[Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496..269N/abstract)* <br> Nixon, M.C., &amp; Madhusudan, N., 2020, MNRAS, 496, 269
-- **Willow Fox-Fortino (UPenn)** *[Reducing ground-based astrometric errors with Gaia and Gaussian processes](https://ui.adsabs.harvard.edu/abs/2020arXiv201013742F/abstract)* <br> Fortino, W.F., et al., arXiv:2010.13742
+To be eligible for this award, the candidate must have been a full-time student (undergraduate, master's, or Ph.D.) as of November 1, 2021. The candidate must be the principal contributor to a research paper, and the advisor (or another co-author) must write a letter stating that the candidate had primary responsibility for the research and write-up. The candidate must be a member of the ASA Astrostatistics Interest Group (to join, see the details on the [interest group website](../join.html)). Students who have previously won the Best Astrostatistics Paper award are not eligible to participate. The ASA has additional policies for student paper competitions; you can familiarize yourself with those [here](http://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx).
+
+## Application deadline: 11:59 PM, December 6, 2020.
+
+Formal application consists of sending an e-mail to Peter Freeman (pfreeman@cmu.edu) with the subject line "Astrostatistics 2022 Student Paper Competition" and the following attachments as PDF files (include all the attachments in a single email):
+
+1. The curriculum vitae of the applicant
+2. A letter from the advisor (or other co-author) verifying the student status of the candidate and briefly describing the candidate's role in the research and writing of the paper
+3. The paper, *with the author list and other identifying factors removed,* but including all tables, figures, and appendices, as a single PDF file, with a maximum limit of 30 pages, with 11-point font, single-spaced, and with one-inch margins on all sides. The paper must be either submitted for publication or published during the calendar year 2021.
+4. A summarized version of the paper, *with the author list and other identifying factors removed,* as a single PDF file, with a maximum limit of **4 pages of text**, with 11-point font, single-spaced, and with one-inch margins on all sides. The title and (summarized) abstract should be provided on the first page of text. Up to four additional pages are allowed for relevant figures and tables, as well as references.
+
+## Selection of winners:
+
+Papers will be blind-reviewed by a committee determined by the officers of the Astrostatistics Interest Group. Criteria for selection will include, but are not limited to, novelty in theory/methods/applications, significance and potential impact of the research, and clarity of writing and presentation. Decisions of the committee are final. A maximum of five finalists will be announced by mid-January of 2022. To be eligible for cash prizes, finalists must submit abstracts and register for JSM through the official JSM abstract submission system. (Those who are not selected as finalists are still strongly encouraged to submit a contributed abstract to JSM 2022.) Finalists must attend and present their work in the ASA Astrostatistics Interest Group Topic-contributed session at JSM 2022.
+
+# Previous Winners
+Here is a list of the [previous winners](./winners.html)
 
 # Previously
 
+* [Finalists (and Winner) for 2021](./results_2021.html)
 * [Call for Papers for 2021](./contest_2021.html)
 * [Previous winners](./winners.html)

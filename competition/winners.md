@@ -13,6 +13,9 @@ layout: default
 
 ## [JSM 2021 Student Paper Competition](https://astrostat.org/jsm2021/index.html)
 
+- Winner \\
+**Alex Gagliano (UIUC)** *[GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ui.adsabs.harvard.edu/abs/2021ApJ...908..170G/abstract)* <br> Gagliano, A., Narayan, G., Engel, A., Carrasco Kind, M., LSST Dark Energy Science Collaboration, 2021, ApJ, 908, 170
+
 - Finalists
   * **Alex Gagliano (UIUC)** *[GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ui.adsabs.harvard.edu/abs/2021ApJ...908..170G/abstract)* <br> Gagliano, A., Narayan, G., Engel, A., Carrasco Kind, M., LSST Dark Energy Science Collaboration, 2021, ApJ, 908, 170
   * **Karthik Reddy (UMaryland)** *[X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets](https://ui.adsabs.harvard.edu/abs/2021ApJS..253...37R/abstract)* <br> Reddy, K., Georganopoulos, M., &amp; Meyer, E.T., 2021, ApJS, 253, 37
