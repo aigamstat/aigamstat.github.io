@@ -16,7 +16,7 @@ The Astrostatistics Interest Group of the American Statistical Association (ASA/
 
 To be eligible for this award, the candidate must have been a full-time student (undergraduate, master's, or Ph.D.) as of November 1, 2021. The candidate must be the principal contributor to a research paper, and the advisor (or another co-author) must write a letter stating that the candidate had primary responsibility for the research and write-up. The candidate must be a member of the ASA Astrostatistics Interest Group (to join, see the details on the [interest group website](../join.html)). Students who have previously won the Best Astrostatistics Paper award are not eligible to participate. The ASA has additional policies for student paper competitions; you can familiarize yourself with those [here](http://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx).
 
-## Application deadline: 11:59 PM, December 6, 2020.
+## Application deadline: 11:59 PM, December 6, 2021.
 
 Formal application consists of sending an e-mail to Peter Freeman (pfreeman@cmu.edu) with the subject line "Astrostatistics 2022 Student Paper Competition" and the following attachments as PDF files (include all the attachments in a single email):
 
