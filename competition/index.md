@@ -27,7 +27,7 @@ A submission consists of sending an e-mail to Peter Freeman (pfreeman@cmu.edu) w
 3. The paper, *with the author list and other identifying factors removed,* but including all tables, figures, and appendices, as a single PDF file, with a maximum limit of 30 pages, with 11-point font, single-spaced, and with one-inch margins on all sides. The paper must be either submitted for publication or published during the calendar year 2021.
 4. A summarized version of the paper, *with the author list and other identifying factors removed,* as a single PDF file, with a maximum limit of **4 pages of text**, with 11-point font, single-spaced, and with one-inch margins on all sides. The title and (summarized) abstract should be provided on the first page of text. Up to four additional pages are allowed for relevant figures and tables, as well as references.
 
-## Selection of winners:
+## Selection of Winners:
 
 Papers will be blind-reviewed by a committee determined by the officers of the Astrostatistics Interest Group. Criteria for selection will include, but are not limited to, novelty in theory/methods/applications, significance and potential impact of the research, and clarity of writing and presentation. Decisions of the committee are final. 
 
