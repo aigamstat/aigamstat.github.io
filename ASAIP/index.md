@@ -12,7 +12,15 @@ layout: default
 # ASAIP
 ## Astro-Statistics and Astro-Informatics Portal
 
-Placeholder
+The Astro-Statistics and Astro-Informatics Portal (ASAIP) was originally hosted at [asaip.psu.edu](https://asaip.psu.edu/). It is currently being hosted and maintained by the ASA/AIG.
+
+# [Recent Job Postings](./jobs.html)
+
+TBD.
+
+# [Upcoming Conferences](./conf.html)
+
+TBD.
 
 # Contact
 
