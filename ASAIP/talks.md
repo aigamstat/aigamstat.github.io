@@ -11,7 +11,7 @@ layout: default
 
 # Talks/Seminars/Symposia/Colloquia
 
-Placeholder
+TBD.
 
 # Contact
 

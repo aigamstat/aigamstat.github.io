@@ -9,6 +9,7 @@ layout: default
 <a href="./competition/" class="btn">Competitions</a>
 <a href="./news.html" class="btn">News</a>
 <a href="./jsm2021/index.html" class="btn">JSM</a>
+<a href="./ASAIP/index.html" class="btn">ASAIP</a>
 <a href="https://www.amstat.org" class="btn">[ASA]</a>
 
 ![AIG @JSM 2018](./images/jsm_astrostat_meeting.jpg)

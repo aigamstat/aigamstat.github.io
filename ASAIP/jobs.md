@@ -9,9 +9,9 @@ layout: default
 <a href="./talks.html" class="btn">Talks</a>
 <a href="./index.html#contact" class="btn">Contact</a>
 
-# Jobs
+# Recent Job Postings
 
-Placeholder
+TBD.
 
 # Contact
 
