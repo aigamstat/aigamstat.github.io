@@ -21,6 +21,17 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 
 # Officers
 
+### 2022
+- Chair: Derek Bingham (Simon Fraser)
+- Program Chair: Yang Chen (Michigan)
+- Secretary (2020/2021): Doug Burke (CfA)
+- Web Director (2021/2022): Josh Speagle (Toronto)
+
+- Chair-Elect: Kaisey Mandel (Cambridge)
+- Program Chair Elect: Hyungsuk Tak (Penn State)
+
+- Past Chair: Peter Freeman (CMU)
+
 ### 2021
 - Chair: Peter Freeman (CMU)
 - Program Chair: Sara Algeri (Minnesota)
