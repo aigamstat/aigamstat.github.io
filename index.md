@@ -19,6 +19,14 @@ layout: default
 ---
 # [Latest News](./news.html)
 
+## Finalists of the 2022 Student Paper Competition
+#### August 7, 2022
+- **Aarya Anil Patil (Toronto)** *Functional Data Analysis for Extracting the Intrinsic Dimensionality of Spectra: Application to Chemical Homogeneity in the Open Cluster M67*
+- **Maximilian Autenrieth (ICL)** *Supervised Learning and Hierarchical Bayesian Modeling Under Covariate Shift in Supernova Cosmology*
+- **Jeff Shen (Toronto)** *The Mass of the Milky Way from the H3 Survey*
+- **Stephen Thorp (Cambridge)** *Testing the Consistency of Dust Laws in SN Ia Host Galaxies: A BayeSN Examination of Foundation DR1*
+- **Andrew Kahlil Saydjari (Harvard)** *Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression*
+
 ## JSM 2022
 #### August 7, 2022
 Four astrostatistics sessions will be running during [JSM 2022](./jsm2022/index.html). If there are other items of interest to the AIG, please contact us to let us know.
