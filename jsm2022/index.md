@@ -23,8 +23,8 @@ Past events: [JSM 2021](https://astrostat.org/jsm2021/index.html), [JSM 2020](ht
 **Note: all times are in EDT, Eastern Daylight Time (GMT+4)**
 
 ## INDEX
-#### [AIG meeting](#aig-business-meeting) | [Student Paper Award](#session-223135) 
-#### [Advances in Astrostatistics in the Great White North](#session-222043) | [Astrostatistics: Innovative Statistical Methods for Foundational Astrophysical Sciences](#session-223140) | [Open Problems in Astrostatistics](#session-223148) | [Other events](#other-events-of-interest)
+#### [**AIG meeting**](#aig-business-meeting) | [**Student Paper Award**](#session-223135) 
+#### [**Advances in Astrostatistics in the Great White North**](#session-222043) | [**Astrostatistics: Innovative Statistical Methods for Foundational Astrophysical Sciences**](#session-223140) | [**Open Problems in Astrostatistics**](#session-223148) | [**Other events**](#other-events-of-interest)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
@@ -142,32 +142,36 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 - **11:55 am** [Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322361)  
   *Andrew Kahlil Saydjari, Center for Astrophysics | Harvard & Smithsonian*  
   
-  - **12:15 am:** Floor Discussion
+- **12:15 am:** Floor Discussion
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Other events of interest
 
-  TBD
+  The following sessions and events feature methodological and applied work that may appeal to those working with astronomical data:
 
-  The [AIG Virtual Community Table](https://jsm2021.pathable.co/organizations/fqjZNX2bGnC8TY7iq) is accessible via the "More --&gt; Conversations" tab at the right hand side of the JSM webpage menubar.
+Sunday:
+- **Session 7:** [Advances in Multivariate Spatial Process Modeling for Environmental Data](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221894)
+- **Session 32:** [Nonparametric Methods with High-Dimensional Data](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223305)
+- **Session 39:** [Advances in Time Series: Statistics Meets Machine Learning](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220803)
+- **Session 40:** [Modern and Innovative Spatial Methods in Ecology and the Environment](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220848)
+- **Session 64:** [Computational Advances in Bayesian Inference](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223298)
 
-  The following sessions feature methodological and applied work that may appeal to those working with astronomical data:
+Monday:
+- **Session 91:** [Spatial Statistics and UQ: Foundations for Innovation in Environmental Science](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221990)
+- **Session 103:** [Uncertainty Quantification for Machine Learning](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223192)
+- **Session 115:** [Advances in Clustering and Classification](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223328)
+- **Session 126:** [Topics at the Frontier of Statistical Computing and Machine Learning](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=222013)
+- **Session 150:** [Methods and Computing for Spatial and Spatio-Temporal Data](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223340)
+- **Session 180:** [Machine Learning and Artificil Intelligence: Uses and Misuses!](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220843)
 
-- **Session 18:** [Uncertainty Quantification Across the Boundaries](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220252)
+Tuesday:
+- TBD
 
-- **Session 37:** [Advances in Statistical Climatology](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220179)
+Wednesday:
+- TBD
 
-- **Session 84:** [Advances in Spatio-Temporal Statistics with Applications to Environmental Data](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220543)
-
-- **Session 197:** [New Methods for Scalable Nonstationary Spatial Statistics](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220193)
-
-- **Session 217:** [High-Fidelity Gaussian Process Surrogate Modeling: Deep and Shallow](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220128)
-
-- **Session 261:** [Statistical Learning for Environmental Data Science](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220141)
-
-- **Session 267:** [Statistical Methods for Large Spatial Data](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220355)
-
-- **Session 435:** [Volume, Velocity, and Variety in Environmental Statistics: New Perspectives and Methods](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/ActivityDetails.cfm?SessionID=220526)
+Thursday:
+- TBD
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
