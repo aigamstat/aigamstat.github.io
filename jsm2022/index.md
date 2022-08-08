@@ -29,7 +29,7 @@ Past events: [JSM 2021](https://astrostat.org/jsm2021/index.html), [JSM 2020](ht
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
 ## AIG Business Meeting
-### Wednesday Aug 10 2021, 2:30pm-4:00pm EDT
+### Wednesday Aug 10 2022, 2:30pm-4:00pm EDT
 
 The annual AIG Business Meeting will be held in the Scarlet Oak Room at the Marriott Marquis. Details for joining remoately were provided by email  to AIG members.
 
@@ -67,7 +67,7 @@ the #jsm2022 channel.
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Session 223140
-### Wednesday Aug 10 2021, 10:30am-12:20pm EDT
+### Wednesday Aug 10 2022, 10:30am-12:20pm EDT
 ## [Astrostatistics: Innovative Statistical Methods for Foundational Astrophysical Sciences](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223140) -- Topic Contributed Papers
 
   Korean International Statistical Society, Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group
@@ -94,7 +94,7 @@ the #jsm2022 channel.
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Session 223148
-### Wednesday Aug 10 2021, 10:30am-12:20pm EDT
+### Wednesday Aug 10 2022, 10:30am-12:20pm EDT
 ## [Open Problems in Astrostatistics](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223148) -- Topic Contributed Papers
 
   Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Bayesian Statistical Science
@@ -121,7 +121,7 @@ the #jsm2022 channel.
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
 ## Session 223135
-### Thursday Aug 11 2021, 10:30am-12:20pm EDT
+### Thursday Aug 11 2022, 10:30am-12:20pm EDT
 ## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223135) -- Topic Contributed Papers
 
   [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
