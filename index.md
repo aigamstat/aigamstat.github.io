@@ -8,7 +8,7 @@ layout: default
 <a href="./join.html" class="btn">Join AIG</a>
 <a href="./competition/" class="btn">Competitions</a>
 <a href="./news.html" class="btn">News</a>
-<a href="./jsm2021/index.html" class="btn">JSM</a>
+<a href="./jsm2022/index.html" class="btn">JSM</a>
 <a href="./ASAIP/index.html" class="btn">ASAIP</a>
 <a href="https://www.amstat.org" class="btn">[ASA]</a>
 
@@ -18,6 +18,10 @@ layout: default
 
 ---
 # [Latest News](./news.html)
+
+## JSM 2022
+#### August 7, 2022
+Four astrostatistics sessions will be running during [JSM 2022](./jsm2022/index.html). If there are other items of interest to the AIG, please contact us to let us know.
 
 ## JSM 2021
 #### Feb 6, 2021
