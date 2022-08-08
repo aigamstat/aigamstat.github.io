@@ -31,14 +31,11 @@ We will use an [Astrostatistics Interest Group Slack channel](https://astrostati
 ## AIG Business Meeting
 ### Wednesday Aug 10 2022, 2:30pm-4:00pm EDT
 
-The annual AIG Business Meeting will be held in the Scarlet Oak Room at the Marriott Marquis. Details for joining remoately were provided by email  to AIG members.
+The annual AIG Business Meeting will be held in the Scarlet Oak Room at the Marriott Marquis. Details for joining remotely will be provided by email to AIG members.
 
 ## JSM Astrostatistics Slack Channel
 
-To see news and announcements regarding JSM and the astrostatistics sessions,
-or to simply ask questions, go to
-[this Slack workspace](https://astrostatisti-dzq6013.slack.com/x-p1071525927828-1068608198114-2351887732176/) and go to
-the #jsm2022 channel.
+To see news and announcements regarding JSM and the astrostatistics sessions, or to simply ask questions, go to [this Slack workspace](https://astrostatisti-dzq6013.slack.com/x-p1071525927828-1068608198114-2351887732176/) and go to the #jsm2022 channel.
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
@@ -46,20 +43,20 @@ the #jsm2022 channel.
 ### Tuesday Aug 9 2022, 2:00pm-3:50pm EDT
 ## [Advances in Astrostatistics in the Great White North](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=222043) -- Invited Papers
 
-  SSC (Statistical Society of Canada), Canadian Statistical Sciences Institute, Section on Physical and Engineering Sciences
-  Organizer(s): David C Stenning, Simon Fraser University 
-  Chair(s): David C Stenning, Simon Fraser University
+  SSC (Statistical Society of Canada), Canadian Statistical Sciences Institute, Section on Physical and Engineering Sciences  
+  Organizer(s): David C Stenning, Simon Fraser University  
+  Chair(s): David C Stenning, Simon Fraser University  
 
-- **2:05 pm:** [Light from the Darkness: Detecting Ultra-Diffuse Galaxies in the Perseus Cluster Using Log-Gaussian Cox Process](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323883)
+- **2:05 pm:** [Light from the Darkness: Detecting Ultra-Diffuse Galaxies in the Perseus Cluster Using Log-Gaussian Cox Process](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323883)  
   *Dayi (David) Li, University of Toronto*   
 
 - **2:30 pm:** [Mapping the Milky Way in 5-D with Big Data](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320588)  
   *Joshua Shen Speagle, University of Toronto*  
 
-- **2:55 pm:** [Statistical Challenges in Gravitational Wave Astrophysics](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320424)
+- **2:55 pm:** [Statistical Challenges in Gravitational Wave Astrophysics](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320424)  
   *Mervyn Chan, The University of British Columbia*  
 
-- **3:20 pm:** Discussant
+- **3:20 pm:** Discussant  
   *Derek Bingham, Simon Fraser University*
 
 - **3:45 pm:** Floor Discussion
@@ -70,23 +67,23 @@ the #jsm2022 channel.
 ### Wednesday Aug 10 2022, 10:30am-12:20pm EDT
 ## [Astrostatistics: Innovative Statistical Methods for Foundational Astrophysical Sciences](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223140) -- Topic Contributed Papers
 
-  Korean International Statistical Society, Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group
-  Organizer(s): Hyungsuk Tak, Pennsylvania State University 
-  Chair(s): Hyungsuk Tak, Pennsylvania State University
+  Korean International Statistical Society, Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
+  Organizer(s): Hyungsuk Tak, Pennsylvania State University  
+  Chair(s): Hyungsuk Tak, Pennsylvania State University  
 
-- **10:35 am:** [Using Topological Data Analysis to Distinguish Cosmological Models of Our Universe](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320922)
+- **10:35 am:** [Using Topological Data Analysis to Distinguish Cosmological Models of Our Universe](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320922)  
   *Jessi Cisewski-Kehe, University of Wisconsin-Madison*  
 
-- **10:55 am:** [Model Validation and Estimation of Mass-Radius-Flux Distribution for Exoplanets Under Heterogeneous Measurement Errors](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320948)
+- **10:55 am:** [Model Validation and Estimation of Mass-Radius-Flux Distribution for Exoplanets Under Heterogeneous Measurement Errors](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320948)  
   *Sujit Ghosh, North Carolina State University; Qi Ma, Facebook Inc*  
 
-- **11:15 am:** [When Geometry and Statistics Meet Cosmology: The Challenge of Detecting Cosmic Webs](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322139)
+- **11:15 am:** [When Geometry and Statistics Meet Cosmology: The Challenge of Detecting Cosmic Webs](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322139)  
   *Yen-Chi Chen, University of Washington; Yikun Zhang, University of Washington*
 
-- **11:35 am:** [Likelihood-Free Frequentist Inference for the Physical Sciences](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323055)
+- **11:35 am:** [Likelihood-Free Frequentist Inference for the Physical Sciences](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323055)  
   *Luca Masserano, Carnegie Mellon University; Ann Lee, Carnegie Mellon University; Mikael Kuusela, Carnegie Mellon University; Rafael Izbicki, Federal University of São Carlos*  
 
-- **11:55 pm:** Discussant
+- **11:55 pm:** Discussant  
   *Jogesh G. Babu, Pennsylvania State University*
 
 - **12:15 am:** Floor Discussion
@@ -97,23 +94,23 @@ the #jsm2022 channel.
 ### Wednesday Aug 10 2022, 10:30am-12:20pm EDT
 ## [Open Problems in Astrostatistics](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223148) -- Topic Contributed Papers
 
-  Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Bayesian Statistical Science
-  Organizer(s): Yang Chen, University of Michigan
-  Chair(s): Yang Chen, University of Michigan
+  Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group, Section on Bayesian Statistical Science  
+  Organizer(s): Yang Chen, University of Michigan  
+  Chair(s): Yang Chen, University of Michigan  
 
-- **10:35 am:** [Calibrated Uncertainty Quantification with Application to Galaxy Photometric Redshifts](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322803)
+- **10:35 am:** [Calibrated Uncertainty Quantification with Application to Galaxy Photometric Redshifts](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322803)  
   *Ann Lee, Carnegie Mellon University*  
 
-- **10:55 am:** [Topics for Statistical Advances for Use in Astronomy](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323217)
+- **10:55 am:** [Topics for Statistical Advances for Use in Astronomy](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323217)  
   *Herman Marshall, MIT*  
 
-- **11:15 am:** [Exploring the Quantification of Uncertainty in the Analysis of Multi-Dimensional High-Energy Astronomical Data Sets](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323233)
+- **11:15 am:** [Exploring the Quantification of Uncertainty in the Analysis of Multi-Dimensional High-Energy Astronomical Data Sets](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323233)  
   *Aneta Siemiginowska, Center for Astrophysics | Harvard & Smithsonian*
 
-- **11:35 am:** Discussant
+- **11:35 am:** Discussant  
   *David van Dyk, Imperial College London*  
 
-- **11:55 pm:** Discussant
+- **11:55 pm:** Discussant  
   *Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian*
 
 - **12:15 am:** Floor Discussion
@@ -127,18 +124,22 @@ the #jsm2022 channel.
   [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
 
   Astrostatistics Special Interest Group  
-  Organizer(s): Yang Chen, University of Michigan
+  Organizer(s): Yang Chen, University of Michigan  
   Chair(s): Peter E. Freeman, Carnegie Mellon University
 
-- **10:35 am:** [Functional Data Analysis for Extracting the Intrinsic Dimensionality of Spectra: Application to Chemical Homogeneity in the Open Cluster M67](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323466)
+- **10:35 am:** [Functional Data Analysis for Extracting the Intrinsic Dimensionality of Spectra: Application to Chemical Homogeneity in the Open Cluster M67](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323466)  
   *Aarya Anil Patil, University of Toronto*  
-- **10:55 am:** [Supervised Learning and Hierarchical Bayesian Modeling Under Covariate Shift in Supernova Cosmology](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322569)
+  
+- **10:55 am:** [Supervised Learning and Hierarchical Bayesian Modeling Under Covariate Shift in Supernova Cosmology](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322569)  
   *Maximilian Autenrieth, Imperial College London*  
-- **11:15 am:** [The Mass of the Milky Way from the H3 Survey](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322547)
+  
+- **11:15 am:** [The Mass of the Milky Way from the H3 Survey](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322547)  
   *Jeff Shen, University of Toronto*  
-- **11:35 am:** [Testing the Consistency of Dust Laws in SN Ia Host Galaxies: A BayeSN Examination of Foundation DR1](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322377)
+  
+- **11:35 am:** [Testing the Consistency of Dust Laws in SN Ia Host Galaxies: A BayeSN Examination of Foundation DR1](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322377)  
   *Stephen Thorp, Institute of Astronomy, University of Cambridge*  
-- **11:55 am** [Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322361)
+  
+- **11:55 am** [Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322361)  
   *Andrew Kahlil Saydjari, Center for Astrophysics | Harvard & Smithsonian*  
   
   - **12:15 am:** Floor Discussion
