@@ -166,7 +166,12 @@ Monday:
 - **Session 180:** [Machine Learning and Artificil Intelligence: Uses and Misuses!](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220843)
 
 Tuesday:
-- TBD
+- **Session 244:** [Advances in Statistical Machine Learning](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223287)
+- **Session 270:** [Advanced Multivariate Time Series Modeling](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223164)
+- **Session 282:** [Sampling and Ensembling in Statistical Computing](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223314)
+- **Session 283:** [Deep Learning Methods](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223326)
+- **Session 308:** [Highlights in Bayesian Analysis: Innovations in Bayesian Learning](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220815)
+- **Session 333:** [Advances in Bayesian Modeling](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223293)
 
 Wednesday:
 - TBD
