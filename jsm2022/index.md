@@ -141,6 +141,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
   
 - **11:55 am** [Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322361)  
   *Andrew Kahlil Saydjari, Center for Astrophysics | Harvard & Smithsonian*  
+  **Winner of Student Paper Competition**
   
 - **12:15 am:** Floor Discussion
 
@@ -174,9 +175,19 @@ Tuesday:
 - **Session 333:** [Advances in Bayesian Modeling](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223293)
 
 Wednesday:
-- TBD
+- **Session 363:** [Should Science Abandon Statistical Significance?](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221923)
+- **Session 381:** [Recent Advances in High-Dimensional EStimation and Inference Methods](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223227)
+- **Session 403:** [Research Advances at the Interface of Uncertainty Quantification and Machine Learning for High-Consequence Problems](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=222037)
+- **Session 404:** [Gaussian Process Models Over Non-Euclidean Domains](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=222047)
+- **Session 408:** [Recent Advances in Statistical Machine Learning](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=220802)
+- **Session 424:** [Priors and Model Specifications for Variable and Feature Selection](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223299)
+- **Session 458:** [Bayesian Methods in Spatial Statistics](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221888)
 
 Thursday:
-- TBD
+- **Session 500:** [Invited Papers: Journal of Statistical Analysis and Data Mining](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221965)
+- **Session 504:** [Computational Challenges in Modern Statistical Inference](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=222052)
+- **Session 521:** [Statistical Methods for Functional Data](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223308)
+- **Session 533:** [Prediction and Inference in Statistical Machine Learning](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=221944)
+- **Session 560:** [Latent Space Modeling and Dimensionality Reduction](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223322)
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
