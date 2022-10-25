@@ -13,6 +13,9 @@ layout: default
 
 ## [JSM 2022 Student Paper Competition](https://astrostat.org/jsm2022/index.html)
 
+<p align="center"><img src="../images/jsm22-AIG-finalists.jpg"></p>
+<p style="text-align: center;">The student paper competition finalists at JSM 2022 in Washington, D.C.</p>
+
 - Winner \\
 **Andrew Kahlil Saydjari (Harvard)** *[Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression](https://ui.adsabs.harvard.edu/abs/2022ApJ...933..155S/abstract)* <br> Saydjari, A. K. &amp; Finkbeiner, D. P., 2022, ApJ, 933, 155
 
