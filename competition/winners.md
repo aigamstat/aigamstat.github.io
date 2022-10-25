@@ -11,6 +11,18 @@ layout: default
 
 # Paper Competition Winners
 
+## [JSM 2022 Student Paper Competition](https://astrostat.org/jsm2022/index.html)
+
+- Winner \\
+**Andrew Kahlil Saydjari (Harvard)** *[Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression](https://ui.adsabs.harvard.edu/abs/2022ApJ...933..155S/abstract)* <br> Saydjari, A. K. &amp; Finkbeiner, D. P., 2022, ApJ, 933, 155
+
+- Finalists
+  * **Aarya Anil Patil (Toronto)** *[Functional Data Analysis for Extracting the Intrinsic Dimensionality of Spectra: Application to Chemical Homogeneity in the Open Cluster M67](https://ui.adsabs.harvard.edu/abs/2022ApJ...926...51P/abstract)* <br> Patil, A. A., Bovy, J., Eadie, G., &amp; Jaimungal, S., 2022, ApJ, 926, 51
+  * **Maximilian Autenrieth (ICL)** *[Supervised Learning and Hierarchical Bayesian Modeling Under Covariate Shift in Supernova Cosmology](https://ui.adsabs.harvard.edu/abs/2021arXiv210611211A/abstract)* <br> Autenrieth, M., van Dyk, D. A., Trotta, R., &amp; Stenning, D. C., 2021, arXiv e-print
+  * **Jeff Shen (Toronto)** *[The Mass of the Milky Way from the H3 Survey](https://ui.adsabs.harvard.edu/abs/2022ApJ...925....1S/abstract)* <br> Shen, J., Eadie, G. M., Murray, N., Zaritsky, D., Speagle, J. S., Ting, Y.-S., Conroy, C., Cargile, P. A., Johnson, B. D., Naidu, R. P., &amp; Han, J. J., 2022, ApJ, 925, 1
+  * **Stephen Thorp (Cambridge)** *[Testing the Consistency of Dust Laws in SN Ia Host Galaxies: A BayeSN Examination of Foundation DR1](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.4310T/abstract)* <br> Thorp, S., Mandel, K. S., Jones, D. O., Ward, S. M., &amp; Narayan, G., 2021, MNRAS, 508, 4310
+  * **Andrew Kahlil Saydjari (Harvard)** *[Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression](https://ui.adsabs.harvard.edu/abs/2022ApJ...933..155S/abstract)* <br> Saydjari, A. K. &amp; Finkbeiner, D. P., 2022, ApJ, 933, 155
+
 ## [JSM 2021 Student Paper Competition](https://astrostat.org/jsm2021/index.html)
 
 - Winner \\
