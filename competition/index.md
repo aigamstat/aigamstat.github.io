@@ -37,7 +37,5 @@ In the initial stage, finalists are chosen *on the basis of their summarized pap
 Here is a list of the [previous winners](./winners.html)
 
 # Previously
-
-* [Finalists (and Winner) for 2021](./results_2021.html)
+* [Call for Papers for 2022](./contest_2022.html)
 * [Call for Papers for 2021](./contest_2021.html)
-* [Previous winners](./winners.html)
