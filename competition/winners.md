@@ -21,7 +21,6 @@ layout: default
   * **Maximilian Autenrieth (ICL)** *[Supervised Learning and Hierarchical Bayesian Modeling Under Covariate Shift in Supernova Cosmology](https://ui.adsabs.harvard.edu/abs/2021arXiv210611211A/abstract)* <br> Autenrieth, M., van Dyk, D. A., Trotta, R., &amp; Stenning, D. C., 2021, arXiv e-print
   * **Jeff Shen (Toronto)** *[The Mass of the Milky Way from the H3 Survey](https://ui.adsabs.harvard.edu/abs/2022ApJ...925....1S/abstract)* <br> Shen, J., Eadie, G. M., Murray, N., Zaritsky, D., Speagle, J. S., Ting, Y.-S., Conroy, C., Cargile, P. A., Johnson, B. D., Naidu, R. P., &amp; Han, J. J., 2022, ApJ, 925, 1
   * **Stephen Thorp (Cambridge)** *[Testing the Consistency of Dust Laws in SN Ia Host Galaxies: A BayeSN Examination of Foundation DR1](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.4310T/abstract)* <br> Thorp, S., Mandel, K. S., Jones, D. O., Ward, S. M., &amp; Narayan, G., 2021, MNRAS, 508, 4310
-  * **Andrew Kahlil Saydjari (Harvard)** *[Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression](https://ui.adsabs.harvard.edu/abs/2022ApJ...933..155S/abstract)* <br> Saydjari, A. K. &amp; Finkbeiner, D. P., 2022, ApJ, 933, 155
 
 ## [JSM 2021 Student Paper Competition](https://astrostat.org/jsm2021/index.html)
 
@@ -29,7 +28,6 @@ layout: default
 **Alex Gagliano (UIUC)** *[GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ui.adsabs.harvard.edu/abs/2021ApJ...908..170G/abstract)* <br> Gagliano, A., Narayan, G., Engel, A., Carrasco Kind, M., LSST Dark Energy Science Collaboration, 2021, ApJ, 908, 170
 
 - Finalists
-  * **Alex Gagliano (UIUC)** *[GHOST: Using Only Host Galaxy Information to Accurately Associate and Distinguish Supernovae](https://ui.adsabs.harvard.edu/abs/2021ApJ...908..170G/abstract)* <br> Gagliano, A., Narayan, G., Engel, A., Carrasco Kind, M., LSST Dark Energy Science Collaboration, 2021, ApJ, 908, 170
   * **Karthik Reddy (UMaryland)** *[X-Ray-to-Radio Offset Inference from Low-Count X-Ray Jets](https://ui.adsabs.harvard.edu/abs/2021ApJS..253...37R/abstract)* <br> Reddy, K., Georganopoulos, M., &amp; Meyer, E.T., 2021, ApJS, 253, 37
   * **Lu Li (Shanghai Obs)** *[Modeling unresolved binaries of open clusters in the color-magnitude diagram](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...49L/abstract)* <br> Li, L., Shao, Z., Li, Z.-Z., Yu, J., Zhong, J., &amp; Chen, L., 2020, ApJ, 901, 49
   * **Matt Nixon (Cambridge)** *[Assessment of Supervised Machine Learning for Atmospheric Retrieval of Exoplanets](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496..269N/abstract)* <br> Nixon, M.C., &amp; Madhusudan, N., 2020, MNRAS, 496, 269
