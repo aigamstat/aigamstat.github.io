@@ -8,8 +8,6 @@ layout: default
 <a href="../news.html" class="btn">News</a>
 <a href="../jsm2021/" class="btn">JSM 2021</a>
 
-## Announcement of Contest
-## ASA Astrostatistics Interest Group
 # 2023 AIG Student Paper Competition
 
 The Astrostatistics Interest Group of the American Statistical Association (ASA/AIG) sponsors a student paper competition, with the submitted papers being related to the development and/or application of statistical methods to problems in astronomy, astrophysics, or cosmology. The winner and (up to) four other finalists will present their papers in the ASA Astrostatistics Interest Group Topic-contributed session at the 2023 Joint Statistical Meetings in Toronto, Canada. Each finalist will receive $100, while the overall winner will receive an additional $400.
