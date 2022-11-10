@@ -12,9 +12,9 @@ layout: default
 ## ASA Astrostatistics Interest Group
 # 2023 AIG Student Paper Competition
 
-The Astrostatistics Interest Group of the American Statistical Association (ASA/AIG) sponsors a student paper competition, with the submitted papers being related to the development and/or application of statistical methods to problems in astronomy, astrophysics, or cosmology. The winner and (up to) four other finalists will present their papers in the ASA Astrostatistics Interest Group Topic-contributed session at the 2023 Joint Statistical Meetings. Each finalist will receive $100, while the overall winner will receive an additional $400.
+The Astrostatistics Interest Group of the American Statistical Association (ASA/AIG) sponsors a student paper competition, with the submitted papers being related to the development and/or application of statistical methods to problems in astronomy, astrophysics, or cosmology. The winner and (up to) four other finalists will present their papers in the ASA Astrostatistics Interest Group Topic-contributed session at the 2023 Joint Statistical Meetings in Toronto, Canada. Each finalist will receive $100, while the overall winner will receive an additional $400.
 
-## Application deadline: 11:59 PM Eastern Standard Time, Monday, December 1, 2022
+## Application deadline: Monday, December 5, 2022 at 11:59pm EST
 
 ## Eligibility:
 
@@ -22,12 +22,14 @@ To be eligible for this award, the candidate must have been a full-time student 
 
 ## Submission Requirements:
 
-A submission consists of sending an e-mail to Derek Bingham (dbingham@sfu.ca) with the subject line "Astrostatistics 2023 Student Paper Competition" and the following attachments as PDF files (include all the attachments in a single email):
+A submission consists of sending an e-mail to Peter Freeman (pfreeman@cmu.edu) with the subject line "Astrostatistics 2023 Student Paper Competition" and the following attachments as PDF files (include all the attachments in a single email):
 
 1. The curriculum vitae of the applicant.
 2. A letter from the advisor (or other co-author) verifying the student status of the candidate and briefly describing the candidate's role in the research and writing of the paper.
-3. The paper, *with the author list and other identifying factors removed,* but including all tables, figures, and appendices, as a single PDF file, with a maximum limit of 30 pages, with 11-point font, single-spaced, and with one-inch margins on all sides. The paper must be either submitted for publication or published during the calendar year 2022. (See blinding guidelines below.)
+3. The paper, *with the author list and other identifying factors removed,* but including all tables, figures, and appendices, as a single PDF file, with a maximum limit of 30 pages, with 11-point font, single-spaced, and with one-inch margins on all sides. The paper must have been submitted for publication between January 1, 2022 and the application deadline. (See blinding guidelines below.)
 4. A summarized version of the paper, *with the author list and other identifying factors removed,* as a single PDF file, with a maximum limit of **4 pages of text**, with 11-point font, single-spaced, and with one-inch margins on all sides. The title and (summarized) abstract should be provided on the first page of text. Up to four additional pages are allowed for relevant figures and tables, as well as references. (See blinding guidelines below.)
+
+Questions about the submissions can also be addressed to Peter Freeman (pfreeman@cmu.edu).
 
 ## Blinding Guidelines:
 
