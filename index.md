@@ -19,6 +19,10 @@ layout: default
 ---
 # [Latest News](./news.html)
 
+## 2023 Student Paper Competition
+### Submissions due by Monday, December 5, 2022 at 11:59pm EST
+The AIG is pleased to announce that the 2023 Student Paper Competition is now open for submissions! If you have submitted a paper either on or after January 1, 2022 related to the development and/or application of statistical methods to problems in astronomy, astrophysics, or cosmology, you may be eligible to enter! The winner and up to four additional finalists will receive cash prizes and present their work at JSM 2023 in Toronto, Canada. Please see the <a href="./competition/">Competitions</a> page for additional details on eligibility and submission requirements.
+
 ## Finalists of the 2022 Student Paper Competition
 #### August 7, 2022
 - **Aarya Anil Patil (Toronto)** *Functional Data Analysis for Extracting the Intrinsic Dimensionality of Spectra: Application to Chemical Homogeneity in the Open Cluster M67*
