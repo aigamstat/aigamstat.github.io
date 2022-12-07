@@ -25,6 +25,8 @@ layout: default
   * **Jeff Shen (Toronto)** *[The Mass of the Milky Way from the H3 Survey](https://ui.adsabs.harvard.edu/abs/2022ApJ...925....1S/abstract)* <br> Shen, J., Eadie, G. M., Murray, N., Zaritsky, D., Speagle, J. S., Ting, Y.-S., Conroy, C., Cargile, P. A., Johnson, B. D., Naidu, R. P., &amp; Han, J. J., 2022, ApJ, 925, 1
   * **Stephen Thorp (Cambridge)** *[Testing the Consistency of Dust Laws in SN Ia Host Galaxies: A BayeSN Examination of Foundation DR1](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.4310T/abstract)* <br> Thorp, S., Mandel, K. S., Jones, D. O., Ward, S. M., &amp; Narayan, G., 2021, MNRAS, 508, 4310
 
+We thank The Gordon & Betty Moore Foundation for financial support for the Finalists' travel to attend and present at JSM.
+
 ## [JSM 2021 Student Paper Competition](https://astrostat.org/jsm2021/index.html)
 
 - Winner \\
