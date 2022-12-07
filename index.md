@@ -12,6 +12,9 @@ layout: default
 <a href="./ASAIP/index.html" class="btn">ASAIP</a>
 <a href="https://www.amstat.org" class="btn">[ASA]</a>
 
+![AIG @JSM 2022](./images/jsm_astrostat_meeting_2022.jpg)
+<p style="text-align: center;">Astrostatistics Interest Group at JSM 2022, Toronto, ON </p>
+
 ![AIG @JSM 2018](./images/jsm_astrostat_meeting.jpg)
 <p style="text-align: center;">Astrostatistics Interest Group at JSM 2018, Vancouver, BC </p>
 
