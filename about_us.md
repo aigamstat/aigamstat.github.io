@@ -25,7 +25,7 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 - Chair: Kaisey Mandel (Cambridge)
 - Program Chair: Hyungsuk Tak (Penn State)
 - Secretary (2020/2021): Doug Burke (CfA)
-- Web Director (2021/2022): Josh Speagle (Toronto)
+- Web Director (2023/2024): Josh Speagle (Toronto)
 
 - Chair-Elect: David Stenning 
 - Program Chair Elect: Collin Politsch
