@@ -170,6 +170,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
   [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
 
   Sponsor(s): Astrostatistics Special Interest Group, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science    
+  
   Organizer(s): Hyungsuk Tak, Pennsylvania State University  
   Chair(s): Derek Bingham, Simon Fraser University  
 
