@@ -24,7 +24,7 @@ Past events: [JSM 2022](https://astrostat.org/jsm2022/index.html), [JSM 2021](ht
 
 ## INDEX
 #### [**AIG meeting**](#aig-business-meeting) | [**Student Paper Award**](#session-223135) 
-#### [**IOL: Astronomers Speak Statistics**](#session-0179) | [**Modeling Techniques for Astrostatistical Datasets**](#session-1557) | [**Uncertainty Quantification in Astronomy**](#session-1866)
+#### [**IOL: Astronomers Speak Statistics**](#session-0179) | [**Modeling Techniques for Astrostatistical Datasets**](#session-1557) | [**Uncertainty Quantification in Astronomy**](#session-1866) | [**Contributed Poster Presentations: Astrostatistics Interest Group**](#poster-session)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions. In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
@@ -103,7 +103,20 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
   *Sara Algeri, University of Minnesota*
 
 - [Transforming the first eROSITA X-ray all-sky survey into astrophysics knowledge](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1909)  
-  *Johannes Buchner, Max Planck Institute for Extraterrestrial Physics*  
+  *Johannes Buchner, Max Planck Institute for Extraterrestrial Physics*
+
+- Discussion and Commentary
+  *David van Dyk, Imperial College London*
+
+#### | [Top](#astrostatistics-sessions-at-jsm) |
+
+## Poster Session 
+### Monday Aug 7 2023, 2:00pm-3:50pm EDT
+## [Contributed Poster Presentations: Astrostatistics Interest Group](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=5005) -- Contributed Posters
+
+  Astrostatistics Interest Group
+ 
+  Chair(s): Jacob Bien, University of Southern California
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
