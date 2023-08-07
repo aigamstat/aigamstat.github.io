@@ -4,7 +4,7 @@ layout: default
 
 <a href="../index.html" class="btn">Home</a>
 <a href="../join.html" class="btn">Join AIG</a>
-<a href="../jsm2022/index.html" class="btn">JSM 2021</a>
+<a href="../jsm2022/index.html" class="btn">JSM 2022</a>
 <a href="./index.html" class="btn">Competitions</a>
 <a href="./winners.html" class="btn">Previous Winners</a>
 
