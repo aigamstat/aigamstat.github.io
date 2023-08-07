@@ -43,7 +43,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 ### Monday Aug 7 2023, 8:30am-10:20pm EDT
 ## [IOL: Astronomers Speak Statistics](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1873) -- Introductory Overview Lectures 
 
-  JSM Partner Societies, Section on Bayesian Statistical Science, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science
+  Sponsor(s): JSM Partner Societies, Section on Bayesian Statistical Science, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science
   
   Organizer(s): David Hunter, Pennsylvania State University and Hyungsuk Tak, Pennsylvania State University   
   Chair(s): Jogesh Babu, Pennsylvania State University   
@@ -66,7 +66,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 ### Monday Aug 7 2023, 8:30am-10:20pm EDT
 ## [Modeling Techniques for Astrostatistical Datasets](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1906) -- Topic Contributed Paper Session
 
-  International Indian Statistical Association, Section on Physical and Engineering Sciences, Section on Statistics and the Environment
+  Sponsor(s): International Indian Statistical Association, Section on Physical and Engineering Sciences, Section on Statistics and the Environment
  
   Organizer(s): Jonathan Williams, North Carolina State University   
   Chair(s): Sujit Ghosh, North Carolina State University   
@@ -90,7 +90,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 ### Monday Aug 7 2023, 2:00pm-3:50pm EDT
 ## [Uncertainty Quantification in Astronomy](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2433) -- Topic Contributed Paper Session
 
-  International Statistical Institute, Astrostatistics Interest Group, Section on Physical and Engineering Sciences
+  Sponsor(s): International Statistical Institute, Astrostatistics Interest Group, Section on Physical and Engineering Sciences
  
   Organizer(s): Gwendolyn Eadie, University of Toronto  
   Chair(s): Aneta Siemiginowska, Center for Astrophysics | Harvard & Smithsonian 
@@ -112,7 +112,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 ### Monday Aug 7 2023, 2:00pm-3:50pm EDT
 ## [Contributed Poster Presentations: Astrostatistics Interest Group](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=5005) -- Contributed Posters
 
-  Astrostatistics Interest Group  
+  Sponsor(s): Astrostatistics Interest Group  
  
   Chair(s): Jacob Bien, University of Southern California  
 
@@ -122,7 +122,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 ### Tuesday Aug 8 2023, 10:30am-12:20pm EDT
 ## [Pulling Signal out of Noise for Data-Driven Discoveries in Astronomy](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2453) -- Topic Contributed Paper Session
 
-  Section on Statistical Learning and Data Science, Section on Bayesian Statistical Science, Section on Physical and Engineering Sciences
+  Sponsor(s): Section on Statistical Learning and Data Science, Section on Bayesian Statistical Science, Section on Physical and Engineering Sciences
  
   Organizer(s): Hyungsuk Tak, Pennsylvania State University  
   Chair(s): Sara Algeri, University of Minnesota  
