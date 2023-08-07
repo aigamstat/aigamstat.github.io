@@ -26,12 +26,12 @@ Past events: [JSM 2022](https://astrostat.org/jsm2022/index.html), [JSM 2021](ht
 #### [**AIG meeting**](#aig-business-meeting) | [**Student Paper Award**](#session-223135) 
 #### [**Advances in Astrostatistics in the Great White North**](#session-222043) | [**Astrostatistics: Innovative Statistical Methods for Foundational Astrophysical Sciences**](#session-223140) | [**Open Problems in Astrostatistics**](#session-223148) | [**Other events**](#other-events-of-interest)
 
-We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions.  In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
+We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions. In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
 ## AIG Business Meeting
-### Wednesday Aug 10 2022, 2:30pm-4:00pm EDT
+### Monday Aug 7 2023, 4:00pm-5:30pm EDT
 
-The annual AIG Business Meeting will be held in the Scarlet Oak Room at the Marriott Marquis. Details for joining remotely will be provided by email to AIG members.
+The annual AIG Business Meeting will be held at Delta Hotels by Marriott at 4 PM in the D - Distillery Room. Details for joining remotely will be provided to AIG members.
 
 ## JSM Astrostatistics Slack Channel
 
