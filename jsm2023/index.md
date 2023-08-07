@@ -24,7 +24,7 @@ Past events: [JSM 2022](https://astrostat.org/jsm2022/index.html), [JSM 2021](ht
 
 ## INDEX
 #### [**AIG meeting**](#aig-business-meeting) | [**Student Paper Award**](#session-223135) 
-#### [**IOL: Astronomers Speak Statistics**](#session-0179) | [**Modeling Techniques for Astrostatistical Datasets**](#session-1557) | [**Uncertainty Quantification in Astronomy**](#session-1866) | [**Contributed Poster Presentations: Astrostatistics Interest Group**](#poster-session) | [**Pulling Signal out of Noise for Data-Driven Discoveries in Astronomy**](#session-1851)
+#### [**IOL: Astronomers Speak Statistics**](#session-0179) | [**Modeling Techniques for Astrostatistical Datasets**](#session-1557) | [**Uncertainty Quantification in Astronomy**](#session-1866) | [**Contributed Poster Presentations: Astrostatistics Interest Group**](#poster-session) | [**Pulling Signal out of Noise for Data-Driven Discoveries in Astronomy**](#session-1851) | [**True North Strong and…Amazing at Astrostatistics!**](#session-1348)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions. In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
@@ -136,6 +136,30 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 
 - [Model-based clustering in the presence of measurement error](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2456)  
   *Ranjan Maitra, Iowa State University*
+
+#### | [Top](#astrostatistics-sessions-at-jsm) |
+
+## Session 1348
+### Tuesday Aug 8 2023, 10:30am-12:20pm EDT
+## [True North Strong and…Amazing at Astrostatistics!](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1396) -- Invited Paper Session
+
+  Sponsor(s): SSC (Statistical Society of Canada), Canadian Statistical Sciences Institute, Section on Physical and Engineering Sciences   
+ 
+  Organizer(s): David Stenning, Simon Fraser University    
+  Chair(s): Gwendolyn Eadie, University of Toronto   
+  Discussant(s): David Stenning, Simon Fraser University    
+
+- [Connecting Galaxy Evolution between Observation, Simulation, and Theory](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1397)  
+  *Joshua Speagle, University of Toronto*  
+
+- [Galaxies in haystacks: astrostatistics and the Gaia mission](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1400)  
+  *Pauline Barmby, Western University*   
+
+- [Chirps vs. hums: Statistical challenges of studying gravitational-wave signals from coalescing binary systems and rotating neutron stars](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1398)  
+  *Alan Knee, University of British Columbia*   
+
+- [Towards Solving the Fast Radio Burst Enigma: Probability of Event Chance Coincidence for Inhomogeneous Noisy Spatial Point Processes](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1399)  
+  *Amanda Cook, University of Toronto*   
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
