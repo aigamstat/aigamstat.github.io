@@ -45,8 +45,8 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 
   JSM Partner Societies, Section on Bayesian Statistical Science, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science
   
-  Organizer(s): David Hunter, Pennsylvania State University and Hyungsuk Tak, Pennsylvania State University
-  Chair(s): Jogesh Babu, Pennsylvania State University
+  Organizer(s): David Hunter, Pennsylvania State University and Hyungsuk Tak, Pennsylvania State University   
+  Chair(s): Jogesh Babu, Pennsylvania State University   
 
 - [Astronomers Speak Statistics: Statistical Challenges in the Deep Universe](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1874)  
   *Joel Leja, Pennsylvania State University*   
@@ -68,9 +68,9 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 
   International Indian Statistical Association, Section on Physical and Engineering Sciences, Section on Statistics and the Environment
  
-  Organizer(s): Jonathan Williams, North Carolina State University
-  Chair(s): Sujit Ghosh, North Carolina State University 
-  Discussant(s): Jonathan Williams, North Carolina State University
+  Organizer(s): Jonathan Williams, North Carolina State University   
+  Chair(s): Sujit Ghosh, North Carolina State University   
+  Discussant(s): Jonathan Williams, North Carolina State University   
 
 - [Incorporating Measurement Error in Astronomical Object Classification](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1907)  
   *Hyungsuk Tak, Pennsylvania State University*  
@@ -81,7 +81,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 - [Pragmatic Approaches to Modeling Multi-Dimensional Astronomical Data](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1909)  
   *Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian*  
 
-- [Model Validation under Heteroskedastic Measurement Error Models](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1910) 
+- [Model Validation under Heteroskedastic Measurement Error Models](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1910)  
   *Naomi Giertych, North Carolina State University*
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
@@ -92,11 +92,12 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 
   International Statistical Institute, Astrostatistics Interest Group, Section on Physical and Engineering Sciences
  
-  Organizer(s): Gwendolyn Eadie, University of Toronto
+  Organizer(s): Gwendolyn Eadie, University of Toronto  
   Chair(s): Aneta Siemiginowska, Center for Astrophysics | Harvard & Smithsonian 
-  Discussant(s): David van Dyk, Imperial College London
+  
+  Discussant(s): David van Dyk, Imperial College London  
 
-- [Accounting for uncertainty in complex simulation-based models and emerging big data methodologies](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2436)  
+- [Accounting for uncertainty in complex simulation-based models and emerging big data methodologies](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2436)   
   *Kyle Cranmer, University of Wisconsin-Madison*  
 
 - [On computationally efficient methods for testing multivariate distributions with unknown parameters](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2435)  
@@ -111,9 +112,9 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 ### Monday Aug 7 2023, 2:00pm-3:50pm EDT
 ## [Contributed Poster Presentations: Astrostatistics Interest Group](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=5005) -- Contributed Posters
 
-  Astrostatistics Interest Group
+  Astrostatistics Interest Group  
  
-  Chair(s): Jacob Bien, University of Southern California
+  Chair(s): Jacob Bien, University of Southern California  
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
@@ -123,9 +124,9 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 
   Section on Statistical Learning and Data Science, Section on Bayesian Statistical Science, Section on Physical and Engineering Sciences
  
-  Organizer(s): Hyungsuk Tak, Pennsylvania State University
-  Chair(s): Sara Algeri, University of Minnesota
-  Discussant(s): Aneta Siemiginowska, Center for Astrophysics | Harvard & Smithsonian
+  Organizer(s): Hyungsuk Tak, Pennsylvania State University  
+  Chair(s): Sara Algeri, University of Minnesota  
+  Discussant(s): Aneta Siemiginowska, Center for Astrophysics | Harvard & Smithsonian  
 
 - [Improving Power Spectrum Estimation using Multitapering: Prospects for understanding stars, the Milky Way, and beyond](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2454)  
   *Aarya Patil, University of Toronto*  
@@ -146,9 +147,9 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 
   Astrostatistics Special Interest Group  
   Organizer(s): Yang Chen, University of Michigan  
-  Chair(s): Peter E. Freeman, Carnegie Mellon University
+  Chair(s): Peter E. Freeman, Carnegie Mellon University  
 
-- **10:35 am:** [Functional Data Analysis for Extracting the Intrinsic Dimensionality of Spectra: Application to Chemical Homogeneity in the Open Cluster M67](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323466)  
+- **10:35 am:** [Functional Data Analysis for Extracting the Intrinsic Dimensionality of Spectra: Application to Chemical Homogeneity in the Open Cluster M67](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323466)   
   *Aarya Anil Patil, University of Toronto*  
   
 - **10:55 am:** [Supervised Learning and Hierarchical Bayesian Modeling Under Covariate Shift in Supernova Cosmology](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322569)  
