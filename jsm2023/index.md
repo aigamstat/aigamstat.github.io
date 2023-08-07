@@ -44,6 +44,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 ## [IOL: Astronomers Speak Statistics](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1873) -- Introductory Overview Lectures 
 
   JSM Partner Societies, Section on Bayesian Statistical Science, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science
+  
   Organizer(s): David Hunter, Pennsylvania State University and Hyungsuk Tak, Pennsylvania State University
   Chair(s): Jogesh Babu, Pennsylvania State University
 
