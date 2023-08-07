@@ -24,7 +24,7 @@ Past events: [JSM 2022](https://astrostat.org/jsm2022/index.html), [JSM 2021](ht
 
 ## INDEX
 #### [**AIG meeting**](#aig-business-meeting) | [**Student Paper Award**](#session-223135) 
-#### [**IOL: Astronomers Speak Statistics**](#session-0179) | [**Astrostatistics: Innovative Statistical Methods for Foundational Astrophysical Sciences**](#session-223140) | [**Open Problems in Astrostatistics**](#session-223148) | [**Other events**](#other-events-of-interest)
+#### [**IOL: Astronomers Speak Statistics**](#session-0179) | [**Modeling Techniques for Astrostatistical Datasets**](#session-1557) | [**Open Problems in Astrostatistics**](#session-223148) | [**Other events**](#other-events-of-interest)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions. In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
@@ -62,30 +62,27 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-## Session 223140
-### Wednesday Aug 10 2022, 10:30am-12:20pm EDT
-## [Astrostatistics: Innovative Statistical Methods for Foundational Astrophysical Sciences](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223140) -- Topic Contributed Papers
+## Session 1557
+### Monday Aug 7 2023, 8:30am-10:20pm EDT
+## [Modeling Techniques for Astrostatistical Datasets](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1906) -- Topic Contributed Paper Session
 
-  Korean International Statistical Society, Section on Physical and Engineering Sciences, Astrostatistics Special Interest Group  
-  Organizer(s): Hyungsuk Tak, Pennsylvania State University  
-  Chair(s): Hyungsuk Tak, Pennsylvania State University  
+  International Indian Statistical Association, Section on Physical and Engineering Sciences, Section on Statistics and the Environment
+ 
+  Organizer(s): Jonathan Williams, North Carolina State University
+  Chair(s): Sujit Ghosh, North Carolina State University 
+  Discussant(s): Jonathan Williams, North Carolina State University
 
-- **10:35 am:** [Using Topological Data Analysis to Distinguish Cosmological Models of Our Universe](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320922)  
-  *Jessi Cisewski-Kehe, University of Wisconsin-Madison*  
+- [Incorporating Measurement Error in Astronomical Object Classification](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1907)  
+  *Hyungsuk Tak, Pennsylvania State University*  
 
-- **10:55 am:** [Model Validation and Estimation of Mass-Radius-Flux Distribution for Exoplanets Under Heterogeneous Measurement Errors](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320948)  
-  *Sujit Ghosh, North Carolina State University; Qi Ma, Facebook Inc*  
+- [Model fitting and goodness-of-fit in astrophysics](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1908)  
+  *Yang Chen, University of Michigan*
 
-- **11:15 am:** [When Geometry and Statistics Meet Cosmology: The Challenge of Detecting Cosmic Webs](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322139)  
-  *Yen-Chi Chen, University of Washington; Yikun Zhang, University of Washington*
+- [Pragmatic Approaches to Modeling Multi-Dimensional Astronomical Data](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1909)  
+  *Vinay Kashyap, Center for Astrophysics | Harvard & Smithsonian*  
 
-- **11:35 am:** [Likelihood-Free Frequentist Inference for the Physical Sciences](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323055)  
-  *Luca Masserano, Carnegie Mellon University; Ann Lee, Carnegie Mellon University; Mikael Kuusela, Carnegie Mellon University; Rafael Izbicki, Federal University of São Carlos*  
-
-- **11:55 pm:** Discussant  
-  *Jogesh G. Babu, Pennsylvania State University*
-
-- **12:15 am:** Floor Discussion
+- [Model Validation under Heteroskedastic Measurement Error Models](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1910) 
+  *Naomi Giertych, North Carolina State University*
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
