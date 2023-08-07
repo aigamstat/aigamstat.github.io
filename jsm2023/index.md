@@ -24,7 +24,7 @@ Past events: [JSM 2022](https://astrostat.org/jsm2022/index.html), [JSM 2021](ht
 
 ## INDEX
 #### [**AIG meeting**](#aig-business-meeting) | [**Student Paper Award**](#session-223135) 
-#### [**Advances in Astrostatistics in the Great White North**](#session-222043) | [**Astrostatistics: Innovative Statistical Methods for Foundational Astrophysical Sciences**](#session-223140) | [**Open Problems in Astrostatistics**](#session-223148) | [**Other events**](#other-events-of-interest)
+#### [**IOL: Astronomers Speak Statistics**](#session-0179) | [**Astrostatistics: Innovative Statistical Methods for Foundational Astrophysical Sciences**](#session-223140) | [**Open Problems in Astrostatistics**](#session-223148) | [**Other events**](#other-events-of-interest)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions. In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
 
@@ -39,27 +39,25 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-## Session 222043
-### Tuesday Aug 9 2022, 2:00pm-3:50pm EDT
-## [Advances in Astrostatistics in the Great White North](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=222043) -- Invited Papers
+## Session 0179
+### Monday Aug 7 2023, 8:30am-10:20pm EDT
+## [IOL: Astronomers Speak Statistics](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1873) -- Introductory Overview Lectures 
 
-  SSC (Statistical Society of Canada), Canadian Statistical Sciences Institute, Section on Physical and Engineering Sciences  
-  Organizer(s): David C Stenning, Simon Fraser University  
-  Chair(s): David C Stenning, Simon Fraser University  
+  JSM Partner Societies, Section on Bayesian Statistical Science, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science
+  Organizer(s): David Hunter, Pennsylvania State University and Hyungsuk Tak, Pennsylvania State University
+  Chair(s): Jogesh Babu, Pennsylvania State University
 
-- **2:05 pm:** [Light from the Darkness: Detecting Ultra-Diffuse Galaxies in the Perseus Cluster Using Log-Gaussian Cox Process](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323883)  
-  *Dayi (David) Li, University of Toronto*   
+- [Astronomers Speak Statistics: Statistical Challenges in the Deep Universe](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1874)  
+  *Joel Leja, Pennsylvania State University*   
 
-- **2:30 pm:** [Mapping the Milky Way in 5-D with Big Data](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320588)  
-  *Joshua Shen Speagle, University of Toronto*  
+- [Astronomers Speak Statistics: Statistical Challenges in the Formation of the Milky Way](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1877)  
+  *Jo Bovy, University of Toronto*  
 
-- **2:55 pm:** [Statistical Challenges in Gravitational Wave Astrophysics](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=320424)  
-  *Mervyn Chan, The University of British Columbia*  
+- [Astronomers Speak Statistics: Statistical Challenges in Detecting Exoplanets](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1875)  
+  *Eric Feigelson, Pennsylvania State University*   
 
-- **3:20 pm:** Discussant  
-  *Derek Bingham, Simon Fraser University*
-
-- **3:45 pm:** Floor Discussion
+- [Astronomers Speak Statistics: Statistical Challenges of Supernova Cosmology](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=1876)  
+  *Kaisey Mandel, University of Cambridge*  
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
