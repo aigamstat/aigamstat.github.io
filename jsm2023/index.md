@@ -23,7 +23,7 @@ Past events: [JSM 2022](https://astrostat.org/jsm2022/index.html), [JSM 2021](ht
 **Note: all times are in EDT, Eastern Daylight Time (GMT+4)**
 
 ## INDEX
-#### [**AIG meeting**](#aig-business-meeting) | [**Student Paper Award**](#session-223135) 
+#### [**AIG meeting**](#aig-business-meeting) | [**Student Paper Award**](#session-1664) 
 #### [**IOL: Astronomers Speak Statistics**](#session-0179) | [**Modeling Techniques for Astrostatistical Datasets**](#session-1557) | [**Uncertainty Quantification in Astronomy**](#session-1866) | [**Contributed Poster Presentations: Astrostatistics Interest Group**](#poster-session) | [**Pulling Signal out of Noise for Data-Driven Discoveries in Astronomy**](#session-1851) | [**True North Strong and…Amazing at Astrostatistics!**](#session-1348)
 
 We will use an [Astrostatistics Interest Group Slack channel](https://astrostatisti-dzq6013.slack.com/archives/C011GJMLLET) to ease communication between the audience and the speakers at the various sessions. In order to be added to this channel, please contact one of the office bearers or write to [aigamstat @ gmail.](mailto:aigamstat@gmail.com?Subject=Slack)
@@ -163,32 +163,29 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
 
 #### | [Top](#astrostatistics-sessions-at-jsm) |
 
-## Session 223135
-### Thursday Aug 11 2022, 10:30am-12:20pm EDT
-## [Astrostatistics Interest Group: Student Paper Award](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/ActivityDetails.cfm?SessionID=223135) -- Topic Contributed Papers
+## Session 1664
+### Wednesday Aug 9, 10:30am-12:20pm EDT
+## [Best Student-led Astrostatistics Papers of 2022](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2173) -- Topic Contributed Paper Session
 
   [Information about Student Paper competition](https://astrostat.org/competition/index.html)  
 
-  Astrostatistics Special Interest Group  
-  Organizer(s): Yang Chen, University of Michigan  
-  Chair(s): Peter E. Freeman, Carnegie Mellon University  
+  Sponsor(s): Astrostatistics Special Interest Group, Section on Physical and Engineering Sciences, Section on Statistical Learning and Data Science    
+  Organizer(s): Hyungsuk Tak, Pennsylvania State University  
+  Chair(s): Derek Bingham, Simon Fraser University  
 
-- **10:35 am:** [Functional Data Analysis for Extracting the Intrinsic Dimensionality of Spectra: Application to Chemical Homogeneity in the Open Cluster M67](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323466)   
-  *Aarya Anil Patil, University of Toronto*  
+- [A geometric census of giants in the Local Universe: Bayesian inference of a sparse Paretian population](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2177)   
+  *Martijn Oei, Leiden University*  
   
-- **10:55 am:** [Supervised Learning and Hierarchical Bayesian Modeling Under Covariate Shift in Supernova Cosmology](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322569)  
-  *Maximilian Autenrieth, Imperial College London*  
+- [Constraining Galactic Accelerations with Stellar Streams](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2176)  
+  *Jacob Nibauer, Princeton University*  
   
-- **11:15 am:** [The Mass of the Milky Way from the H3 Survey](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322547)  
-  *Jeff Shen, University of Toronto*  
+- [Detecting Ultra-Diffuse Galaxies through their Globular Clusters by Point Process Model](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2174)  
+  *Dayi Li, University of Toronto*  
   
-- **11:35 am:** [Testing the Consistency of Dust Laws in SN Ia Host Galaxies: A BayeSN Examination of Foundation DR1](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322377)  
-  *Stephen Thorp, Institute of Astronomy, University of Cambridge*  
+- [Hierarchically modelling NGC 3147's trio of Type Ia supernova siblings: SNe 2021hpr, 1997bq and 2008fv](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2178)  
+  *Sam Ward, University of Cambridge*  
   
-- **11:55 am** [Photometry on Structured Backgrounds: Local Pixelwise Infilling by Regression](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322361)  
-  *Andrew Kahlil Saydjari, Center for Astrophysics | Harvard & Smithsonian*  
-  **Winner of Student Paper Competition**
+- [TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2175)  
+  *Antoine Meyer, Imperial College London*  
   
-- **12:15 am:** Floor Discussion
-
 #### | [Top](#astrostatistics-sessions-at-jsm) |
