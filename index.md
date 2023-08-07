@@ -8,7 +8,7 @@ layout: default
 <a href="./join.html" class="btn">Join AIG</a>
 <a href="./competition/" class="btn">Competitions</a>
 <a href="./news.html" class="btn">News</a>
-<a href="./jsm2022/index.html" class="btn">JSM</a>
+<a href="./jsm2023/index.html" class="btn">JSM</a>
 <a href="./ASAIP/index.html" class="btn">ASAIP</a>
 <a href="https://www.amstat.org" class="btn">[ASA]</a>
 
@@ -21,6 +21,10 @@ layout: default
 
 ---
 # [Latest News](./news.html)
+
+## JSM 2023
+#### August 7, 2022
+Seven astrostatistics sessions will run during [JSM 2023](./jsm2023/index.html). If there are other items of interest to the AIG, please contact us to let us know.
 
 ## 2023 Student Paper Competition
 ### Submissions due by Monday, December 5, 2022 at 11:59pm EST
@@ -62,10 +66,9 @@ The Astrostatistics Interest Group held its annual business meeting via Zoom at 
 
 # Interested in Astrostatistics?
 
-1. [Join the ASA Astrostatistics Interest Group](./join.html): Provide your Name, Email, Affiliation, ASA number 
-2. Explore the [Astrostatistics and Astroinformatics Portal](https://asaip.psu.edu/)
-3. Check out our [Library]() and look through recent papers on astrostatistics
-4. Start attending Astronomy seminars at your organization
+1. [Join the ASA Astrostatistics Interest Group](./join.html)! Just make sure to provide your Name, Email, Affiliation, and ASA number. 
+2. Explore the [Astrostatistics and Astroinformatics Portal](https://astrostat.org/ASAIP/index.html).
+3. Start attending Astronomy seminars at your organization!
 
 # Contact
 
