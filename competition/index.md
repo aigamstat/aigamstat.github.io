@@ -6,7 +6,7 @@ layout: default
 <a href="../about_us.html" class="btn">About Us</a>
 <a href="../join.html" class="btn">Join AIG</a>
 <a href="../news.html" class="btn">News</a>
-<a href="../jsm2021/" class="btn">JSM 2021</a>
+<a href="../jsm2022/" class="btn">JSM 2022</a>
 
 # 2023 AIG Student Paper Competition
 
