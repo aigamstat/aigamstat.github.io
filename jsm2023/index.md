@@ -178,7 +178,7 @@ To see news and announcements regarding JSM and the astrostatistics sessions, or
   *Martijn Oei, Leiden University*  
   
 - [Constraining Galactic Accelerations with Stellar Streams](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2176)  
-  *Jacob Nibauer, Princeton University*
+  *Jacob Nibauer, Princeton University*      
   **Winner of Student Paper Competition**
   
 - [Detecting Ultra-Diffuse Galaxies through their Globular Clusters by Point Process Model](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2174)  
