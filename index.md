@@ -22,8 +22,20 @@ layout: default
 ---
 # [Latest News](./news.html)
 
+## 2024 Student Paper Competition
+### Submissions due by Monday, December 11, 2023 at 11:59pm EST
+The AIG is pleased to announce that the 2024 Student Paper Competition will soon be open for submissions! If you have submitted a paper either on or after December 6, 2022 related to the development and/or application of statistical methods to problems in astronomy, astrophysics, or cosmology, you may be eligible to enter! The winner and up to four additional finalists will receive cash prizes and present their work at JSM 2024 in Portland, Oregon, USA. Please see the <a href="./competition/">Competitions</a> page for additional details on eligibility and submission requirements.
+
+## Outcome of the 2023 Student Paper Competition
+#### Oct 30, 2023
+- **Martijn Oei (Leiden)** *A geometric census of giants in the Local Universe: Bayesian inference of a sparse Paretian population*
+- **WINNER: Jacob Nibauer (Princeton)** *Constraining Galactic Accelerations with Stellar Streams*
+- **Dayi Li (Toronto)** *Detecting Ultra-Diffuse Galaxies through their Globular Clusters by Point Process Model*
+- **Sam Ward (Cambridge)** *Hierarchically modelling NGC 3147’s trio of Type Ia supernova siblings: SNe 2021hpr, 1997bq and 2008fv*
+- **Antoine Meyer (ICL)** *TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes*
+
 ## JSM 2023
-#### August 7, 2022
+#### August 7, 2023
 Seven astrostatistics sessions will run during [JSM 2023](./jsm2023/index.html). If there are other items of interest to the AIG, please contact us to let us know.
 
 ## 2023 Student Paper Competition
