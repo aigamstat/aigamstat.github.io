@@ -32,7 +32,6 @@ The AIG is pleased to announce that the 2024 Student Paper Competition will soon
 - **WINNER: Jacob Nibauer (Princeton)** *Constraining Galactic Accelerations with Stellar Streams*
 - **Dayi Li (Toronto)** *Detecting Ultra-Diffuse Galaxies through their Globular Clusters by Point Process Model*
 - **Sam Ward (Cambridge)** *Hierarchically modelling NGC 3147’s trio of Type Ia supernova siblings: SNe 2021hpr, 1997bq and 2008fv*
-- **Antoine Meyer (ICL)** *TD-CARMA: Painless, accurate, and scalable estimates of gravitational-lens time delays with flexible CARMA processes*
 
 ## JSM 2023
 #### August 7, 2023
