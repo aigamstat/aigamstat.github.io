@@ -11,6 +11,19 @@ layout: default
 
 # Paper Competition Winners
 
+## [JSM 2023 Student Paper Competition](https://astrostat.org/jsm2023/index.html)
+
+- Winner \\
+**Jacob Nibauer (Princeton)** *[Charting Galactic Accelerations with Stellar Streams and Machine Learning](https://ui.adsabs.harvard.edu/abs/2022ApJ...940...22N/abstract)* <br> Nibauer, J. et al., 2022, ApJ, 940, 1
+
+- Finalists
+  * **Martijn Oei (Leiden)** *[Measuring the giant radio galaxy length distribution with the LoTSS
+](https://ui.adsabs.harvard.edu/abs/2023A%26A...672A.163O/abstract)* <br> Oei, M. S. S. L. et al., 2022, A&amp;A, 672, A163
+  * **Dayi Li (Toronto)** *[Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies](https://ui.adsabs.harvard.edu/abs/2023arXiv230206567L/abstract)* <br> Li, D. D. et al., 2023, arXiv e-print
+  * **Sam Ward (Cambridge)** *[Relative Intrinsic Scatter in Hierarchical Type Ia Supernova Sibling Analyses: Application to SNe 2021hpr, 1997bq, and 2008fv in NGC 3147
+](https://ui.adsabs.harvard.edu/abs/2023ApJ...956..111W/abstract)* <br> Ward, S. M. et al., 2023, ApJ, 956, 2
+  * **Antoine Meyer (ICL)** *[TD-CARMA: Painless, Accurate, and Scalable Estimates of Gravitational Lens Time Delays with Flexible CARMA Processes](https://ui.adsabs.harvard.edu/abs/2023ApJ...950...37M/abstract)* <br> Meyer, A. D. et al., 2023, ApJ, 950, 1
+
 ## [JSM 2022 Student Paper Competition](https://astrostat.org/jsm2022/index.html)
 
 <p align="center"><img src="../images/jsm22-AIG-finalists.jpg"></p>
