@@ -33,7 +33,7 @@ A submission consists of sending an e-mail to the official ASA/AIG email (aigams
 1. The curriculum vitae of the applicant.
 2. A letter from the advisor (or other co-author) verifying the student status of the candidate and briefly describing the candidate's role in the research and writing of the paper.
 3. The paper -- *with the author list and other identifying factors removed* but including all tables, figures, and appendices -- as a single PDF file, with a maximum limit of 30 pages, with 11-point font, single-spaced, and one-inch margins on all sides. The paper must have been submitted for publication between December 6, 2022, and the application deadline. (See blinding guidelines below.)
-4. A summarized version of the paper -- *with the author list and other identifying factors removed* -- as a single PDF file, with a maximum limit of **4 pages of text**, with 11-point font, single-spaced, and with one-inch margins on all sides. The title and (summarized) abstract should be provided on the first page of text. Up to four additional pages are allowed for relevant figures and tables, as well as references. (See blinding guidelines below.)
+4. A summarized version of the paper -- *with the author list and other identifying factors removed* -- as a single PDF file, with a maximum limit of *4 pages of text*, with 11-point font, single-spaced, and with one-inch margins on all sides. The title and (summarized) abstract should be provided on the first page of text. Up to four additional pages are allowed for relevant figures and tables, as well as references. (See blinding guidelines below.)
 
 Questions about the submissions can also be addressed to aigamstat@gmail.com.
 
