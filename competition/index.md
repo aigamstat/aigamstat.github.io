@@ -20,7 +20,7 @@ The Astrostatistics Interest Group of the American Statistical Association (ASA/
 
 ## Eligibility:
 
-To be eligible for this award, the candidate must have been a full-time student (undergraduate, master's, or Ph.D.) as of the start of the paper eligibility window (Dec 6, 2022). The candidate must be the principal contributor to a research paper, and the advisor (or another co-author) must write a letter stating that the candidate had primary responsibility for the research and write-up. The candidate must be a member of the ASA Astrostatistics Interest Group (to join, see the details on the [interest group website](../join.html)). Students who have previously won the Best Astrostatistics Paper award are not eligible to participate. The ASA has additional policies for student paper competitions; you can familiarize yourself with those [here](http://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx).
+To be eligible for this award, the candidate must have been a full-time student (undergraduate, master's, or Ph.D.) as of the start of the paper eligibility window (Dec 6, 2022). The candidate must be the principal contributor to the research paper, which contains work done primarily while the candidate was a student. The advisor (or another co-author) must write a letter stating that the candidate had primary responsibility for the research and write-up of the submission. The candidate must be a member of the ASA Astrostatistics Interest Group (to join, see the details on the [interest group website](../join.html)). Students who have previously won the Best Astrostatistics Paper award are not eligible to participate. The ASA has additional policies for student paper competitions; you can familiarize yourself with those [here](http://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx).
 
 **We strongly encourage students from groups underrepresented in statistics and/or astronomy to apply!**
 
@@ -32,6 +32,7 @@ A submission consists of sending an e-mail to the official ASA/AIG email (aigams
 2. A letter from the advisor (or other co-author) verifying the student status of the candidate and briefly describing the candidate's role in the research and writing of the paper.
 3. The paper -- *with the author list and other identifying factors removed* but including all tables, figures, and appendices -- as a single PDF file, with a maximum limit of 30 pages, with 11-point font, single-spaced, and one-inch margins on all sides. The paper must have been submitted for publication between December 6, 2022, and the application deadline. (See blinding guidelines below.)
 4. A summarized version of the paper -- *with the author list and other identifying factors removed* -- as a single PDF file, with a maximum limit of *4 pages of text*, with 11-point font, single-spaced, and with one-inch margins on all sides. The title and (summarized) abstract should be provided on the first page of text. Up to four additional pages are allowed for relevant figures and tables, as well as references. (See blinding guidelines below.)
+5. The original (unblinded) paper submitted for publication. This will only be used to check for conflicts of interest prior to the formation of the review panel.
 
 Questions about the submissions can also be addressed to aigamstat@gmail.com.
 
