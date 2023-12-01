@@ -27,8 +27,7 @@ layout: default
 ### Application deadline: Tuesday, December 12, 2023 at 11:59 pm EST
 The AIG is pleased to announce that the 2024 Student Paper Competition is now open for submissions! If you have submitted a paper either on or after December 6, 2022, related to the development and/or application of statistical methods to problems in astronomy, astrophysics, or cosmology, you may be eligible to enter! The winner and up to four additional finalists will receive cash prizes and present their work at JSM 2024 in Portland, Oregon, USA. Please see the <a href="./competition/">Competitions</a> page for additional details on eligibility and submission requirements. A collection of previous winners can be found [here](./competition/winners.html). **We strongly encourage students from groups underrepresented in statistics and/or astronomy to apply!**
 
-**An information session was held online at 11:00 a.m. Eastern Time (US and Canada) on Nov 17, 2023. A recording of the session can be found [here](https://utoronto.zoom.us/rec/share/KXEbTK_jktrdGObmt56TO37iGBx3rMGS-rK5kSnwZSoF2ZHmC-RiZtwutiyISdf7.Xy_UtjanysY-Qx2-?startTime=1700236537000
-Passcode: c5U%KryQpC).**
+**An information session was held online at 11:00 a.m. Eastern Time (US and Canada) on Nov 17, 2023. A recording of the session can be found [here](https://utoronto.zoom.us/rec/play/GRMoxjcnpJiChZx9-0VobNSjHSCeuuLsmzECI50_CWhhfv1tLgUeusZR9Mq9JM0I-mOVNmlApVrCatdP.7NRO38Q_NE1d5FYs?canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Futoronto.zoom.us%2Frec%2Fshare%2FKXEbTK_jktrdGObmt56TO37iGBx3rMGS-rK5kSnwZSoF2ZHmC-RiZtwutiyISdf7.Xy_UtjanysY-Qx2-%3FstartTime%3D1700236537000%2520Passcode%3A%2520c5U%25KryQpC).**
 
 ## Finalists of the 2023 Student Paper Competition
 #### Oct 30, 2023
