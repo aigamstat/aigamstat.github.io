@@ -23,12 +23,14 @@ layout: default
 # [Latest News](./news.html)
 
 ## 2024 Student Paper Competition
+#### Nov 9, 2023
 ### Application deadline: Tuesday, December 12, 2023 at 11:59 pm EST
 The AIG is pleased to announce that the 2024 Student Paper Competition is now open for submissions! If you have submitted a paper either on or after December 6, 2022, related to the development and/or application of statistical methods to problems in astronomy, astrophysics, or cosmology, you may be eligible to enter! The winner and up to four additional finalists will receive cash prizes and present their work at JSM 2024 in Portland, Oregon, USA. Please see the <a href="./competition/">Competitions</a> page for additional details on eligibility and submission requirements. A collection of previous winners can be found [here](./competition/winners.html). **We strongly encourage students from groups underrepresented in statistics and/or astronomy to apply!**
 
-**An information session will also be held online at 11:00 a.m. Eastern Time (US and Canada) on Nov 17, 2023, at https://utoronto.zoom.us/j/82864537788 (Meeting ID: 828 6453 7788, Passcode: 332891).**
+**An information session was held online at 11:00 a.m. Eastern Time (US and Canada) on Nov 17, 2023. A recording of the session can be found [here](https://utoronto.zoom.us/rec/share/KXEbTK_jktrdGObmt56TO37iGBx3rMGS-rK5kSnwZSoF2ZHmC-RiZtwutiyISdf7.Xy_UtjanysY-Qx2-?startTime=1700236537000
+Passcode: c5U%KryQpC).**
 
-## Outcome of the 2023 Student Paper Competition
+## Finalists of the 2023 Student Paper Competition
 #### Oct 30, 2023
 - **Martijn Oei (Leiden)** *A geometric census of giants in the Local Universe: Bayesian inference of a sparse Paretian population*
 - **WINNER: Jacob Nibauer (Princeton)** *Constraining Galactic Accelerations with Stellar Streams*
