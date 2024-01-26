@@ -21,6 +21,16 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 
 # Officers
 
+### 2024
+- Chair: David Stenning (Simon Fraser)
+- Program Chair (interim): Josh Speagle (Toronto)
+- Secretary: Samantha Berek (Toronto)
+
+- Chair-Elect: Gwen Eadie (Toronto)
+- Program Chair Elect: Josh Speagle (Toronto)
+
+- Past Chair: Kaisey Mandel (Cambridge)
+
 ### 2023
 - Chair: Kaisey Mandel (Cambridge)
 - Program Chair: Hyungsuk Tak (Penn State)
