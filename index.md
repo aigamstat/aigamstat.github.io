@@ -22,6 +22,10 @@ layout: default
 ---
 # [Latest News](./news.html)
 
+## JSM 2024
+#### August 4, 2024
+Three astrostatistics sessions will run during [JSM 2024](./jsm2024/index.html). If there are other items of interest to the AIG, please contact us to let us know.
+
 ## 2024 Student Paper Competition
 #### Nov 9, 2023
 ### Application deadline: Tuesday, December 12, 2023 at 11:59 pm EST
