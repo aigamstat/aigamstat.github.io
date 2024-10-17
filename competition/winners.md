@@ -11,6 +11,19 @@ layout: default
 
 # Paper Competition Winners
 
+## [JSM 2024 Student Paper Competition](https://astrostat.org/jsm2024/index.html)
+
+<p align="center"><img src="../images/jsm24-AIG-finalists.jpg"></p>
+<p style="text-align: center;">The student paper competition finalists at JSM 2024 in Portland, OR</p>
+
+- Winner \\
+**Maximillian Autenrieth (Imperial College London)** *[Improved Weak Lensing Photometric Redshift Calibration via StratLearn and Hierarchical Modeling](https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.2186A/abstract)* <br> Autenrieth, M. et al., 2024, MNRAS, arXiv e-print
+
+- Finalists
+  * **Samantha Berek (Toronto)** *[The HERBAL Model: A Hierarchical Errors-in-variables Bayesian Lognormal Hurdle Model for Galactic Globular Cluster Populations](https://ui.adsabs.harvard.edu/abs/2023ApJ...955...22B/abstract)* <br> Berek, S. et al., 2023, ApJ, 955, 22
+  * **Erin Hayes (Cambridge)** *[GAUSSN: Bayesian time-delay estimation for strongly lensed supernovae](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3942H/abstract)* <br> Hayes, E. et al., 2024, MNRAS, 530, 3942
+  * **Aarya Patil (Toronto / Max Planck)** *[Decoding the age-chemical structure of the Milky Way disc: an application of copulas and elicitable maps](https://ui.adsabs.harvard.edu/abs/2023MNRAS.526.1997P/abstract)* <br> Patil, A. et al., 2023, MNRAS, 526, 1997
+
 ## [JSM 2023 Student Paper Competition](https://astrostat.org/jsm2023/index.html)
 
 - Winner \\
