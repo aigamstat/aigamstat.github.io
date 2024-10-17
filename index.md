@@ -22,6 +22,13 @@ layout: default
 ---
 # [Latest News](./news.html)
 
+## Finalists of the 2024 Student Paper Competition
+#### Oct 17, 2024
+- **Samantha Berek (Toronto)** *The HERBAL Model: A Hierarchical Errors-in-variables Bayesian Lognormal Hurdle Model for Galactic Globular Cluster Populations*
+- **Erin Hayes (Cambridge)** *GAUSSN: Bayesian time-delay estimation for strongly lensed supernovae*
+- **WINNER: Maximillian Autenrieth (Imperial College London)** *Improved Weak Lensing Photometric Redshift Calibration via StratLearn and Hierarchical Modeling*
+- **Aarya Patil(Toronto/Max Planck)** *Understanding the formation history of the Milky Way disk using Copulas and Elicitable Maps*
+
 ## JSM 2024
 #### August 4, 2024
 Three astrostatistics sessions will run during [JSM 2024](./jsm2024/index.html). If there are other items of interest to the AIG, please contact us to let us know.
