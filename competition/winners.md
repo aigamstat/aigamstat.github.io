@@ -32,7 +32,7 @@ layout: default
 - Finalists
   * **Martijn Oei (Leiden)** *[Measuring the giant radio galaxy length distribution with the LoTSS
 ](https://ui.adsabs.harvard.edu/abs/2023A%26A...672A.163O/abstract)* <br> Oei, M. S. S. L. et al., 2022, A&amp;A, 672, A163
-  * **Dayi Li (Toronto)** *[Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies](https://ui.adsabs.harvard.edu/abs/2023arXiv230206567L/abstract)* <br> Li, D. D. et al., 2023, arXiv e-print
+  * **Dayi Li (Toronto)** *[Light from the Darkness: Detecting Ultra-diffuse Galaxies in the Perseus Cluster through Over-densities of Globular Clusters with a Log-Gaussian Cox Process](https://ui.adsabs.harvard.edu/abs/2022ApJ...935....3L/abstract)* <br> Li, D. D. et al., 2023, arXiv e-print
   * **Sam Ward (Cambridge)** *[Relative Intrinsic Scatter in Hierarchical Type Ia Supernova Sibling Analyses: Application to SNe 2021hpr, 1997bq, and 2008fv in NGC 3147
 ](https://ui.adsabs.harvard.edu/abs/2023ApJ...956..111W/abstract)* <br> Ward, S. M. et al., 2023, ApJ, 956, 2
 
