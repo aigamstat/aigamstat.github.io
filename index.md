@@ -22,6 +22,11 @@ layout: default
 ---
 # [Latest News](./news.html)
 
+## 2025 Student Paper Competition
+#### Dec 6th, 2024
+### Application deadline: Friday, December 13, 2024 at 11:59 pm EST
+The AIG is pleased to announce that the 2025 Student Paper Competition is now open for submissions! If you have submitted a paper either on or after December 13, 2023, related to the development and/or application of statistical methods to problems in astronomy, astrophysics, or cosmology, you may be eligible to enter! The winner and up to four additional finalists will receive cash prizes and present their work at JSM 2025 in Nashville, Tennessee, USA. Please see the <a href="./competition/">Competitions</a> page for additional details on eligibility and submission requirements. A collection of previous winners can be found [here](./competition/winners.html). **We strongly encourage students from groups underrepresented in statistics and/or astronomy to apply!**
+
 ## Finalists of the 2024 Student Paper Competition
 #### Oct 17, 2024
 - **Samantha Berek (Toronto)** *The HERBAL Model: A Hierarchical Errors-in-variables Bayesian Lognormal Hurdle Model for Galactic Globular Cluster Populations*
