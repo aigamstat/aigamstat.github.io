@@ -14,7 +14,7 @@ The Astrostatistics Interest Group of the American Statistical Association (ASA/
 
 **A collection of previous winners can be found [here](./winners.html).**
 
-## Application deadline: Friday, December 6, 2024 at 11:59 pm EST
+## Application deadline: Friday, December 13, 2024 at 11:59 pm EST
 
 ## Eligibility:
 
