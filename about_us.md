@@ -28,7 +28,7 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 - Web Director: Samantha Berek (Toronto)
 
 - Chair-Elect: Yang Chen (Michigan)
-- Program Chair Elect: Max Autenrieth (Imperial College London)
+- Program Chair Elect: Max Autenrieth (Cambridge)
 
 - Past Chair: David Stenning (Simon Fraser)
 
