@@ -21,6 +21,17 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 
 # Officers
 
+### 2025
+- Chair: Gwen Eadie (Toronto)
+- Program Chair: Aarya Patil (MPIA)
+- Secretary: Samantha Berek (Toronto)
+- Web Director: Samantha Berek (Toronto)
+
+- Chair-Elect: Yang Chen (Michigan)
+- Program Chair Elect: Max Autenrieth (Imperial College London)
+
+- Past Chair: David Stenning (Simon Fraser)
+
 ### 2024
 - Chair: David Stenning (Simon Fraser)
 - Program Chair (interim): Josh Speagle (Toronto)
