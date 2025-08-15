@@ -11,6 +11,21 @@ layout: default
 
 # Paper Competition Winners
 
+## JSM 2025 Student Paper Competition
+
+<p align="center"><img src="../images/AIG_2025_SPC.jpg"></p>
+<p style="text-align: center;">The student paper competition finalists at JSM 2025 in Nashville, TN</p>
+
+- Winner \\
+**Amanda Cook (University of Toronto):** *[Quantifying the Clustering Probability in Noisy Nonhomogeneous Spatial Data to Identify New Repeating Fast Radio Burst Sources from CHIME/FRB](https://ui.adsabs.harvard.edu/abs/2024arXiv241012146C/abstract)* <br> Cook, A. M. et al., 2024, Annals of Applied Statistics, arXiv e-print
+
+- Finalists
+  * **J. Arturo Esquivel F. (University of Toronto)** *[A data-driven approach to stellar flare detection](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..141E/abstract)* <br> Esquivel, J. A. et al., 2025, ApJ, 979, 2
+  * **Phil Van-Lane (University of Toronto)** *[ChronoFlow: A Data-Driven Model for Gyrochronology](https://ui.adsabs.harvard.edu/abs/2025ApJ...986...59V/abstract)* <br> Van-Lane, P. R. et al., 2025, ApJ, 986, 1
+  * **Dayi Li (University of Toronto)** *[Discovery of Two Ultra-Diffuse Galaxies with Unusually Bright Globular Cluster Luminosity Functions via a Mark-Dependently Thinned Point Process (MATHPOP)](https://ui.adsabs.harvard.edu/abs/2025ApJ...984..147L/abstract)* <br> Li, D. et al., 2025, ApJ, 984, 2
+  * **Naomi Singer (North Carolina State University)** *[Prediction Intervals for Astronomy Data with Covariate Error](https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.1372S/abstract)* <br> Singer, N. et al., 2025, MNRAS, 539, 2
+
+
 ## [JSM 2024 Student Paper Competition](https://astrostat.org/jsm2024/index.html)
 
 <p align="center"><img src="../images/jsm24-AIG-finalists.jpg"></p>
