@@ -13,9 +13,9 @@ layout: default
 
 ### Aug 1-6, 2026
 
-## Astrostatistics sessions at JSM
+# Astrostatistics sessions at JSM
 
-# Astrostatistics Interest Group: Student Paper Award
+### Astrostatistics Interest Group: Student Paper Award
 
 Sun, Aug 2, 4:00 PM - 5:50 PM
 
