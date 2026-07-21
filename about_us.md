@@ -28,7 +28,7 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 - Web Director: Phil Van Lane ()
 
 - Chair-Elect: David van Dyk (Imperial)
-- Program Chair Elect:
+- Program Chair Elect: Amanda Cook ()
 
 - Past Chair: Gwen Eadie (Toronto)
 
