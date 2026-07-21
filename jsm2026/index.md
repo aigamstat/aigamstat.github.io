@@ -15,7 +15,9 @@ layout: default
 
 ## Astrostatistics sessions at JSM
 
-# Astrostatistics Interest Group: Student Paper Award, Sun, Aug 2, 4:00 PM - 5:50 PM
+# Astrostatistics Interest Group: Student Paper Award
+
+Sun, Aug 2, 4:00 PM - 5:50 PM
 
 Room CC-209 Thomas M. Menino Convention & Exhibition Center
 
