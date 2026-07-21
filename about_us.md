@@ -21,6 +21,17 @@ On AMSTAT News:  ["Astrostatistics:  A New Interest Group"](https://magazine.ams
 
 # Officers
 
+### 2026
+- Chair: Yang Chen (Michigan)
+- Program Chair: Max Autenrieth (Cambridge)
+- Secretary: Ky Potter ()
+- Web Director: Phil Van Lane ()
+
+- Chair-Elect: David van Dyk (Imperial)
+- Program Chair Elect:
+
+- Past Chair: Gwen Eadie (Toronto)
+
 ### 2025
 - Chair: Gwen Eadie (Toronto)
 - Program Chair: Aarya Patil (MPIA)
