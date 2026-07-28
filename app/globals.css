@@ -1,0 +1,450 @@
+@import 'tailwindcss';
+
+/* ---------------------------------------------------------------------------
+   Design tokens.
+
+   The two brand colours are sampled from the AIG mark (public/images/logo.png).
+   The mark's green (#9EC54C) is only 1.99:1 against white, so it is used for
+   accents and rules only -- never for text. The -dark variants are the
+   text-safe versions: 7.48:1 and 5.09:1, both clearing WCAG AA.
+--------------------------------------------------------------------------- */
+@theme {
+  --color-brand-blue: #4674b7;
+  --color-brand-blue-dark: #2c5590;
+  --color-brand-green: #9ec54c;
+  --color-brand-green-dark: #4e7a1b;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* Headings sit under the sticky header when jumping to an #anchor. */
+  scroll-padding-top: 8rem;
+}
+
+/* ---------------------------------------------------------------------------
+   Site background.
+
+   `background-size: 100% auto` scales the artwork to the window width rather
+   than the content width, so it is full-bleed on any screen. It is anchored to
+   the top and never repeated: the image is a band that fades out downwards, not
+   a tile.
+
+   The artwork is a fixed layer covering the viewport, so it fills the window at
+   every scroll position rather than running out partway down a long page.
+
+   A fixed pseudo-element rather than `background-attachment: fixed`, which iOS
+   Safari sizes against the document instead of the viewport and renders wildly
+   zoomed.
+
+   `cover` keeps the aspect ratio and crops. On a window narrower than the
+   image's 2.03:1 that crop is horizontal, so the galaxy and constellation move
+   out of frame on phones and the pale centre is what shows.
+
+   The base colour sits on <html> so it paints as the canvas; the layer below is
+   z-index -1 and would otherwise be hidden behind an opaque <body> background.
+
+   The URL is supplied by app/layout.tsx as --site-bg-image so that it picks up
+   `basePath`, which stylesheets cannot read. See README.
+--------------------------------------------------------------------------- */
+html {
+  background-color: var(--color-slate-50);
+}
+
+.site-bg::before {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  content: '';
+  background-image: var(--site-bg-image);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+/* The sheet the page content sits on. Keeps body text on a near-solid white
+   backdrop regardless of what the artwork is doing behind it. */
+.content-card {
+  background-color: color-mix(in srgb, white 95%, transparent);
+  border-radius: 1rem;
+  box-shadow:
+    0 1px 2px rgb(15 23 42 / 0.04),
+    0 12px 32px -12px rgb(15 23 42 / 0.12);
+  outline: 1px solid rgb(226 232 240 / 0.8);
+  outline-offset: -1px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Prose: styling for HTML generated from the Markdown in content/.
+   Written as plain CSS rather than utility classes because the markup is
+   produced at build time and has no class names to hook onto.
+--------------------------------------------------------------------------- */
+.prose {
+  color: var(--color-slate-700);
+  line-height: 1.7;
+}
+
+.prose > * + * {
+  margin-top: 1.15em;
+}
+
+.prose h1 {
+  margin-top: 2.75rem;
+  font-size: 1.875rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.015em;
+  color: var(--color-brand-blue-dark);
+}
+
+.prose h2 {
+  margin-top: 2.25rem;
+  font-size: 1.375rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--color-slate-900);
+}
+
+.prose h3 {
+  margin-top: 1.75rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--color-slate-900);
+}
+
+.prose h4,
+.prose h5,
+.prose h6 {
+  margin-top: 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-slate-800);
+}
+
+/* A green rule under the top-level heading -- the accent colour used safely. */
+.prose h1::after {
+  display: block;
+  width: 3rem;
+  height: 3px;
+  margin-top: 0.75rem;
+  content: '';
+  background: var(--color-brand-green);
+  border-radius: 999px;
+}
+
+.prose a {
+  color: var(--color-brand-blue-dark);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose a:hover {
+  color: var(--color-slate-900);
+}
+
+/* Headings that are links (several year pages title-link to their JSM page)
+   keep the heading colour and only underline on hover. */
+.prose h1 a,
+.prose h2 a,
+.prose h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.prose h1 a:hover,
+.prose h2 a:hover,
+.prose h3 a:hover {
+  text-decoration: underline;
+}
+
+.prose a:focus-visible {
+  outline: 2px solid var(--color-brand-blue);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.prose ul,
+.prose ol {
+  padding-left: 1.5rem;
+}
+
+.prose ul {
+  list-style: disc;
+}
+
+.prose ol {
+  list-style: decimal;
+}
+
+.prose li + li {
+  margin-top: 0.4rem;
+}
+
+.prose li > ul,
+.prose li > ol {
+  margin-top: 0.4rem;
+}
+
+.prose img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+}
+
+.prose hr {
+  margin: 2.5rem 0;
+  border: 0;
+  border-top: 1px solid var(--color-slate-200);
+}
+
+.prose blockquote {
+  padding-left: 1rem;
+  color: var(--color-slate-600);
+  border-left: 3px solid var(--color-brand-green);
+}
+
+.prose code {
+  padding: 0.15em 0.35em;
+  font-size: 0.9em;
+  color: var(--color-slate-800);
+  background: var(--color-slate-100);
+  border-radius: 0.25rem;
+}
+
+.prose table {
+  display: block;
+  width: 100%;
+  overflow-x: auto; /* wide tables scroll instead of breaking the page */
+  border-collapse: collapse;
+}
+
+.prose th,
+.prose td {
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  border: 1px solid var(--color-slate-200);
+}
+
+.prose th {
+  background: var(--color-slate-50);
+  font-weight: 600;
+}
+
+/* Centred captions written as <p style="text-align: center"> in the content. */
+.prose p[style*='center'] {
+  font-size: 0.9rem;
+  color: var(--color-slate-500);
+}
+
+/* Bold-italic inside a list item is this site's convention for the title of a
+   work -- the finalists' papers on the Student Paper Competition page. Rendered
+   in brand blue (7.48:1 on white) to separate the paper from its authors.
+   Scoped to list items so the bold-italic strapline on the home page, which is
+   a top-level paragraph, is unaffected. */
+.prose li em > strong,
+.prose li strong > em {
+  color: var(--color-brand-blue-dark);
+}
+
+/* ---------------------------------------------------------------------------
+   Colouring a piece of content. Markdown has no syntax for it, so wrap the text
+   in a span and name one of these:
+
+       <span class="accent-green">Also, check out ...</span>
+
+   Both are the -dark brand variants, the only ones safe for text: the mark's
+   bright green is 1.99:1 on white. Using a class rather than an inline colour
+   keeps the content tied to the design tokens at the top of this file, so the
+   palette stays changeable in one place.
+--------------------------------------------------------------------------- */
+.prose .accent-green {
+  color: var(--color-brand-green-dark);
+}
+
+.prose .accent-blue {
+  color: var(--color-brand-blue-dark);
+}
+
+/* ---------------------------------------------------------------------------
+   Home page group photo. The source is 1280x960 with the people low in the
+   frame, so it is shown at half height anchored near the bottom. This crops
+   the atrium without modifying the image file.
+--------------------------------------------------------------------------- */
+.home-photo {
+  width: 100%;
+  aspect-ratio: 1280 / 480;
+  object-fit: cover;
+  object-position: center 95%;
+  border-radius: 0.75rem;
+}
+
+/* ---------------------------------------------------------------------------
+   Session cards (see lib/sessionCards.ts).
+
+   Selectors are scoped with .prose so they beat the generic .prose h3 / p / ul
+   rules above on specificity rather than on source order.
+--------------------------------------------------------------------------- */
+.prose .session-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  /* Cards take their content's height. Without this a short card is stretched
+     to match the tallest in its row, which leaves a large empty block of fill
+     colour on the solid variants. */
+  align-items: start;
+}
+
+@media (min-width: 640px) {
+  .prose .session-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  /* The flagship session carries a full programme, so it takes the full row. */
+  .prose .session-card--featured {
+    grid-column: 1 / -1;
+  }
+}
+
+.prose .session-card {
+  padding: 1.25rem;
+  background: var(--color-slate-50);
+  border: 1px solid var(--color-slate-200);
+  border-radius: 0.85rem;
+}
+
+.prose .session-card > :first-child {
+  margin-top: 0;
+}
+
+/* Title */
+.prose .session-card h3 {
+  margin: 0 0 0.7rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--color-slate-900);
+}
+
+/* When, where, and any one-line note. */
+.prose .session-card p {
+  margin: 0.3rem 0 0;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--color-slate-600);
+}
+
+/* Titles of the talks within a session. */
+.prose .session-card ul {
+  margin: 0.9rem 0 0;
+  padding-left: 1.15rem;
+  list-style: disc;
+}
+
+.prose .session-card li {
+  font-size: 0.9rem;
+  color: var(--color-slate-800);
+}
+
+.prose .session-card li + li {
+  margin-top: 0.5rem;
+}
+
+/* Presenters, nested under each talk: no bullet, quieter than the title. */
+.prose .session-card ul ul {
+  margin-top: 0.2rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+.prose .session-card ul ul li {
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: var(--color-slate-600);
+}
+
+/* --- Solid variants. White on both fills clears AA: 7.48:1 on brand-blue-dark
+       and 5.09:1 on brand-green-dark. --------------------------------------- */
+.prose .session-card--featured {
+  background: var(--color-brand-blue-dark);
+  border-color: var(--color-brand-blue-dark);
+}
+
+.prose .session-card--meeting {
+  background: var(--color-brand-green-dark);
+  border-color: var(--color-brand-green-dark);
+}
+
+.prose .session-card--featured h3,
+.prose .session-card--meeting h3,
+.prose .session-card--featured li,
+.prose .session-card--meeting li {
+  color: #fff;
+}
+
+/* 95%, not the 90% this started at: over brand-green-dark the quieter text
+   measured 4.47:1, just under the 4.5:1 minimum. 95% gives 4.78:1. */
+.prose .session-card--featured p,
+.prose .session-card--meeting p,
+.prose .session-card--featured ul ul li,
+.prose .session-card--meeting ul ul li {
+  color: rgb(255 255 255 / 0.95);
+}
+
+.prose .session-card--featured a,
+.prose .session-card--meeting a,
+.prose .session-card--banner a {
+  color: #fff;
+}
+
+.prose .session-card--featured a:hover,
+.prose .session-card--meeting a:hover,
+.prose .session-card--banner a:hover {
+  color: rgb(255 255 255 / 0.8);
+}
+
+/* --- Banner: a thin full-width strip, centred. A pale wash of brand-blue with
+       dark blue text rather than a solid fill, so it sits lighter than the
+       session cards instead of shouting over them. Text measures 5.95:1. ---- */
+.prose .session-card--banner {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: center;
+  gap: 0.15rem 0.6rem;
+  padding: 0.7rem 1.25rem;
+  background: color-mix(in srgb, var(--color-brand-blue) 18%, white);
+  border-color: color-mix(in srgb, var(--color-brand-blue) 32%, white);
+}
+
+.prose .session-card--banner h3 {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--color-brand-blue-dark);
+}
+
+.prose .session-card--banner p {
+  margin: 0;
+  color: var(--color-brand-blue-dark);
+}
+
+.prose .session-card--banner a {
+  color: var(--color-brand-blue-dark);
+}
+
+/* Must come last: the first block on a page never carries a top margin,
+   whatever element it happens to be. */
+.prose > :first-child {
+  margin-top: 0;
+}
