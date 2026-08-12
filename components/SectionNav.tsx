@@ -48,17 +48,17 @@ export default function SectionNav({ url }: { url: string }) {
     return (
       <Row label="Student Paper Competition sections">
         <Item
-          label={`${currentJsmYear()} Results`}
-          url="/competition/finalists/"
-          current={url.startsWith('/competition/finalists')}
-        />
-        <Item
-          label={`${currentJsmYear()} Competition (closed)`}
+          label={`2027 Competition`}
           url="/competition/"
           current={url === '/competition/'}
         />
+        <Item
+          label={`2026 Results`}
+          url="/competition/finalists/"
+          current={url.startsWith('/competition/finalists')}
+        />
         <YearDropdown
-          label="Previous Winners"
+          label="Previous Competitions"
           activeYear={active}
           items={years.map((y) => ({
             label: y,

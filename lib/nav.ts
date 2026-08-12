@@ -74,7 +74,7 @@ export function mainNav(): NavItem[] {
     { label: 'Charter', url: '/charter/', section: 'charter' },
     // Points at the first item of the section row, not at /competition/, so the
     // tab opens on whatever that row shows first.
-    { label: 'Student Paper Competition', url: '/competition/finalists/', section: 'competition' },
+    { label: 'Student Paper Competition', url: '/competition/', section: 'competition' },
     { label: 'News', url: '/news/', section: 'news' },
   ];
 }
