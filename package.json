@@ -5,7 +5,8 @@
   "description": "Astrostatistics Interest Group website",
   "scripts": {
     "dev": "next dev",
-    "build": "next build"
+    "build": "next build",
+    "lint:content": "node scripts/lint-content.mjs"
   },
   "dependencies": {
     "next": "^15.1.6",

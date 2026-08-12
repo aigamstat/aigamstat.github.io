@@ -48,7 +48,7 @@ export default function SectionNav({ url }: { url: string }) {
     return (
       <Row label="Student Paper Competition sections">
         <Item
-          label={`${currentJsmYear()} Finalists`}
+          label={`${currentJsmYear()} Results`}
           url="/competition/finalists/"
           current={url.startsWith('/competition/finalists')}
         />

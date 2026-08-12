@@ -2,14 +2,11 @@
 
 ---
 
-## JSM 2026
+## 2026 Student Paper Competition
 
-The annual AIG business meeting will be held during JSM 2026.
+<span class="accent-red">***Congratulations***</span> to the 2026 Student Paper Competition Winner, **Konstantin Karchev**, for *[CIGaRS I: Combined simulation-based inference from SNae Ia and host photometry](https://arxiv.org/abs/2508.15899)*!
 
-**When:** Monday, Aug 3, 12:30 PM - 1:30 PM\
-**Where:** Room W-Hancock
-
-See details for this and other relevant Astrostatistics sessions at JSM 2026 [here](/jsm/2026/)!
+And congratulations to the other finalists (in no particular order): **Michael Poon**, **Joseph Salzer**, **Ana Sofia Uzsoy**, and **Matthew O'Callaghan**.
 
 ---
 
