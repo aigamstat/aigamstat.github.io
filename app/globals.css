@@ -276,16 +276,24 @@ html {
   color: var(--color-brand-blue-dark);
 }
 
+/* Not a brand colour -- red is for the one-off emphasis the brand palette has
+   no word for, e.g. the competition winner. red-700 is ~6.4:1 on white, so it
+   clears AA like the two above; the brighter reds do not. */
+.prose .accent-red {
+  color: var(--color-red-700);
+}
+
 /* ---------------------------------------------------------------------------
-   Home page group photo. The source is 1280x960 with the people low in the
-   frame, so it is shown at half height anchored near the bottom. This crops
-   the atrium without modifying the image file.
+   Home page group photo. Shown whole, at whatever proportions the source has.
+   This used to force a 1280/480 letterbox with object-fit: cover, which fit
+   the 2022 photo but cropped the heads off its 1.95:1 replacement. Sizing the
+   image file to suit the column beats cropping it here.
 --------------------------------------------------------------------------- */
 .home-photo {
   width: 100%;
-  aspect-ratio: 1280 / 480;
-  object-fit: cover;
-  object-position: center 95%;
+  /* No aspect-ratio/object-fit: the photo shows whole, at its own proportions.
+     A fixed ratio here would crop whichever photo the page is currently using. */
+  height: auto;
   border-radius: 0.75rem;
 }
 

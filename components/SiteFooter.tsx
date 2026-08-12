@@ -6,7 +6,7 @@ export default function SiteFooter() {
     <footer className="mt-16 border-t border-slate-200/70 bg-white/85 backdrop-blur-sm">
       <div className="mx-auto max-w-5xl px-4 py-8 text-sm text-slate-600 sm:px-6">
         <p>
-          Last updated July 27, 2026.
+          Last updated August 12, 2026.
         </p>
         <p>
           Hosted on{' '}
