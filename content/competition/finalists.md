@@ -1,5 +1,7 @@
 # 2026 Student Paper Competition Results
 
+<p align="center"><img src="/images/spc2026.jpg" alt="The student paper competition finalists at JSM 2026 in Boston, MA"></p>
+<p style="text-align: center;">2026 Student Paper Competition Finalists</p>
 
 ---
 
